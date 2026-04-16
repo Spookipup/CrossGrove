@@ -1,0 +1,9 @@
+{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/autumnal_forest_hills",
+                       "required":  false
+                   }
+               ]
+}

@@ -1,0 +1,15 @@
+filename = 'EclipticSeasons-1.20.1-forge-0.12.18.9.1-all.jar'
+name = 'Ecliptic Seasons'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'EclipticSeasons-1.20.1-forge-0.12.18.9.1-all.jar'
+
+[download]
+hash = '5d9eb62af7b033946cfa11559094d2b2b427d8e5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+[update.curseforge]
+file-id = 7908374
+project-id = 1118306

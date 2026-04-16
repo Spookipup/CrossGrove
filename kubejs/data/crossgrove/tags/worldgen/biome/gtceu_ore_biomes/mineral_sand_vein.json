@@ -1,0 +1,149 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/archipelago",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/beach",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/cold_deep_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/cold_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/coral_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/deep_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/desert",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/desert_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/desert_pillars",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/desert_spikes",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/desert_spikes_gold",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/frozen_archipelago",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/frozen_beach",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/frozen_deep_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/frozen_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/frozen_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/iceberg_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/lush_sea_caves",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/palm_beach",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rocky_archipelago",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rocky_desert",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rocky_sea_arches",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rocky_sea_caves",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/salt_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/sandstone_archipelago",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/shale_beach",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/shrub_beach",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_sea_arches",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_sea_caves",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/subtropical_deep_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/subtropical_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/temperate_sea_arches",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/tropical_deep_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/tropical_ocean",
+                       "required":  false
+                   }
+               ]
+}

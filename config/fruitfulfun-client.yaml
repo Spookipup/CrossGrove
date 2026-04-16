@@ -1,0 +1,9 @@
+# Use Cloth Config mod for the descriptions.
+---
+cherryParticle: Modded
+moddedCherryParticleFrequency: 32
+food:
+  specialEffectTooltip: true
+  statusEffectTooltip: true
+beehiveTooltipDisplayBees: true
+renderServerSideHitbox: false

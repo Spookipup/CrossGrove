@@ -1,0 +1,5 @@
+#Enables the fail sound if using the wrong tool.
+ENABLE_FAIL_SOUND = false
+#Informs user if Tinkers' Construct is installed and recommends installing Tinkers' Survival.
+INFORM_TCON_COMPAT = true
+

@@ -1,0 +1,9 @@
+{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_base",
+                       "required":  false
+                   }
+               ]
+}

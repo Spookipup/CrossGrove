@@ -1,0 +1,974 @@
+{
+    "terra:overworld/overworld/active_volcano_base":  {
+                                                          "name":  "Active Volcano Base",
+                                                          "r":  54,
+                                                          "g":  44,
+                                                          "b":  43
+                                                      },
+    "terra:overworld/overworld/active_volcano_base_edge":  {
+                                                               "name":  "Active Volcano Base Edge",
+                                                               "r":  87,
+                                                               "g":  46,
+                                                               "b":  40
+                                                           },
+    "terra:overworld/overworld/active_volcano_pit":  {
+                                                         "name":  "Active Volcano Pit",
+                                                         "r":  255,
+                                                         "g":  131,
+                                                         "b":  0
+                                                     },
+    "terra:overworld/overworld/active_volcano_pit_edge":  {
+                                                              "name":  "Active Volcano Pit Edge",
+                                                              "r":  158,
+                                                              "g":  106,
+                                                              "b":  45
+                                                          },
+    "terra:overworld/overworld/archipelago":  {
+                                                  "name":  "Archipelago",
+                                                  "r":  191,
+                                                  "g":  255,
+                                                  "b":  107
+                                              },
+    "terra:overworld/overworld/arid_highlands":  {
+                                                     "name":  "Arid Highlands",
+                                                     "r":  232,
+                                                     "g":  187,
+                                                     "b":  108
+                                                 },
+    "terra:overworld/overworld/arid_spikes":  {
+                                                  "name":  "Arid Spikes",
+                                                  "r":  250,
+                                                  "g":  190,
+                                                  "b":  60
+                                              },
+    "terra:overworld/overworld/autumnal_flats":  {
+                                                     "name":  "Autumnal Flats",
+                                                     "r":  255,
+                                                     "g":  198,
+                                                     "b":  94
+                                                 },
+    "terra:overworld/overworld/autumnal_forest":  {
+                                                      "name":  "Autumnal Forest",
+                                                      "r":  255,
+                                                      "g":  165,
+                                                      "b":  0
+                                                  },
+    "terra:overworld/overworld/autumnal_forest_hills":  {
+                                                            "name":  "Autumnal Forest Hills",
+                                                            "r":  232,
+                                                            "g":  150,
+                                                            "b":  0
+                                                        },
+    "terra:overworld/overworld/badlands_buttes":  {
+                                                      "name":  "Badlands Buttes",
+                                                      "r":  232,
+                                                      "g":  127,
+                                                      "b":  45
+                                                  },
+    "terra:overworld/overworld/badlands_mountains":  {
+                                                         "name":  "Badlands Mountains",
+                                                         "r":  232,
+                                                         "g":  157,
+                                                         "b":  69
+                                                     },
+    "terra:overworld/overworld/badlands_mountains_river":  {
+                                                               "name":  "Badlands Mountains River",
+                                                               "r":  124,
+                                                               "g":  232,
+                                                               "b":  176
+                                                           },
+    "terra:overworld/overworld/bamboo_jungle":  {
+                                                    "name":  "Bamboo Jungle",
+                                                    "r":  69,
+                                                    "g":  106,
+                                                    "b":  33
+                                                },
+    "terra:overworld/overworld/bamboo_jungle_flats":  {
+                                                          "name":  "Bamboo Jungle Flats",
+                                                          "r":  51,
+                                                          "g":  90,
+                                                          "b":  33
+                                                      },
+    "terra:overworld/overworld/bamboo_jungle_hills":  {
+                                                          "name":  "Bamboo Jungle Hills",
+                                                          "r":  69,
+                                                          "g":  90,
+                                                          "b":  33
+                                                      },
+    "terra:overworld/overworld/bamboo_jungle_mountains":  {
+                                                              "name":  "Bamboo Jungle Mountains",
+                                                              "r":  68,
+                                                              "g":  106,
+                                                              "b":  33
+                                                          },
+    "terra:overworld/overworld/bamboo_ponds":  {
+                                                   "name":  "Bamboo Ponds",
+                                                   "r":  48,
+                                                   "g":  105,
+                                                   "b":  56
+                                               },
+    "terra:overworld/overworld/beach":  {
+                                            "name":  "Beach",
+                                            "r":  230,
+                                            "g":  231,
+                                            "b":  168
+                                        },
+    "terra:overworld/overworld/birch_flats":  {
+                                                  "name":  "Birch Flats",
+                                                  "r":  136,
+                                                  "g":  186,
+                                                  "b":  137
+                                              },
+    "terra:overworld/overworld/birch_forest":  {
+                                                   "name":  "Birch Forest",
+                                                   "r":  136,
+                                                   "g":  187,
+                                                   "b":  103
+                                               },
+    "terra:overworld/overworld/birch_forest_hills":  {
+                                                         "name":  "Birch Forest Hills",
+                                                         "r":  136,
+                                                         "g":  170,
+                                                         "b":  144
+                                                     },
+    "terra:overworld/overworld/caldera_volcano_base":  {
+                                                           "name":  "Caldera Volcano Base",
+                                                           "r":  31,
+                                                           "g":  54,
+                                                           "b":  46
+                                                       },
+    "terra:overworld/overworld/caldera_volcano_base_edge":  {
+                                                                "name":  "Caldera Volcano Base Edge",
+                                                                "r":  52,
+                                                                "g":  84,
+                                                                "b":  73
+                                                            },
+    "terra:overworld/overworld/caldera_volcano_pit":  {
+                                                          "name":  "Caldera Volcano Pit",
+                                                          "r":  92,
+                                                          "g":  179,
+                                                          "b":  170
+                                                      },
+    "terra:overworld/overworld/caldera_volcano_pit_edge":  {
+                                                               "name":  "Caldera Volcano Pit Edge",
+                                                               "r":  72,
+                                                               "g":  133,
+                                                               "b":  93
+                                                           },
+    "terra:overworld/overworld/cerros_de_mavecure":  {
+                                                         "name":  "Cerros De Mavecure",
+                                                         "r":  150,
+                                                         "g":  158,
+                                                         "b":  131
+                                                     },
+    "terra:overworld/overworld/chaparral":  {
+                                                "name":  "Chaparral",
+                                                "r":  179,
+                                                "g":  148,
+                                                "b":  74
+                                            },
+    "terra:overworld/overworld/chaparral_flats":  {
+                                                      "name":  "Chaparral Flats",
+                                                      "r":  133,
+                                                      "g":  110,
+                                                      "b":  55
+                                                  },
+    "terra:overworld/overworld/cold_deep_ocean":  {
+                                                      "name":  "Cold Deep Ocean",
+                                                      "r":  60,
+                                                      "g":  88,
+                                                      "b":  147
+                                                  },
+    "terra:overworld/overworld/cold_ocean":  {
+                                                 "name":  "Cold Ocean",
+                                                 "r":  32,
+                                                 "g":  128,
+                                                 "b":  201
+                                             },
+    "terra:overworld/overworld/coral_ocean":  {
+                                                  "name":  "Coral Ocean",
+                                                  "r":  49,
+                                                  "g":  199,
+                                                  "b":  245
+                                              },
+    "terra:overworld/overworld/cracked_badlands_plateau":  {
+                                                               "name":  "Cracked Badlands Plateau",
+                                                               "r":  232,
+                                                               "g":  96,
+                                                               "b":  32
+                                                           },
+    "terra:overworld/overworld/dark_forest":  {
+                                                  "name":  "Dark Forest",
+                                                  "r":  10,
+                                                  "g":  69,
+                                                  "b":  38
+                                              },
+    "terra:overworld/overworld/dark_forest_hills":  {
+                                                        "name":  "Dark Forest Hills",
+                                                        "r":  0,
+                                                        "g":  58,
+                                                        "b":  21
+                                                    },
+    "terra:overworld/overworld/deep_dark":  {
+                                                "name":  "Deep Dark",
+                                                "r":  1,
+                                                "g":  5,
+                                                "b":  4
+                                            },
+    "terra:overworld/overworld/deep_ocean":  {
+                                                 "name":  "Deep Ocean",
+                                                 "r":  55,
+                                                 "g":  87,
+                                                 "b":  173
+                                             },
+    "terra:overworld/overworld/desert":  {
+                                             "name":  "Desert",
+                                             "r":  232,
+                                             "g":  207,
+                                             "b":  104
+                                         },
+    "terra:overworld/overworld/desert_flats":  {
+                                                   "name":  "Desert Flats",
+                                                   "r":  232,
+                                                   "g":  223,
+                                                   "b":  104
+                                               },
+    "terra:overworld/overworld/desert_pillars":  {
+                                                     "name":  "Desert Pillars",
+                                                     "r":  232,
+                                                     "g":  187,
+                                                     "b":  108
+                                                 },
+    "terra:overworld/overworld/desert_spikes":  {
+                                                    "name":  "Desert Spikes",
+                                                    "r":  219,
+                                                    "g":  195,
+                                                    "b":  94
+                                                },
+    "terra:overworld/overworld/desert_spikes_gold":  {
+                                                         "name":  "Desert Spikes Gold",
+                                                         "r":  255,
+                                                         "g":  234,
+                                                         "b":  18
+                                                     },
+    "terra:overworld/overworld/dripstone_caves":  {
+                                                      "name":  "Dripstone Caves",
+                                                      "r":  28,
+                                                      "g":  26,
+                                                      "b":  17
+                                                  },
+    "terra:overworld/overworld/dry_rocky_bumpy_mountains":  {
+                                                                "name":  "Dry Rocky Bumpy Mountains",
+                                                                "r":  47,
+                                                                "g":  51,
+                                                                "b":  43
+                                                            },
+    "terra:overworld/overworld/dry_temperate_mountains":  {
+                                                              "name":  "Dry Temperate Mountains",
+                                                              "r":  56,
+                                                              "g":  201,
+                                                              "b":  34
+                                                          },
+    "terra:overworld/overworld/dry_temperate_mountains_river":  {
+                                                                    "name":  "Dry Temperate Mountains River",
+                                                                    "r":  31,
+                                                                    "g":  136,
+                                                                    "b":  201
+                                                                },
+    "terra:overworld/overworld/dry_temperate_white_mountains":  {
+                                                                    "name":  "Dry Temperate White Mountains",
+                                                                    "r":  140,
+                                                                    "g":  240,
+                                                                    "b":  118
+                                                                },
+    "terra:overworld/overworld/dry_temperate_white_mountains_river":  {
+                                                                          "name":  "Dry Temperate White Mountains River",
+                                                                          "r":  0,
+                                                                          "g":  240,
+                                                                          "b":  212
+                                                                      },
+    "terra:overworld/overworld/dry_wild_highlands":  {
+                                                         "name":  "Dry Wild Highlands",
+                                                         "r":  125,
+                                                         "g":  156,
+                                                         "b":  51
+                                                     },
+    "terra:overworld/overworld/eroded_badlands_buttes":  {
+                                                             "name":  "Eroded Badlands Buttes",
+                                                             "r":  184,
+                                                             "g":  99,
+                                                             "b":  33
+                                                         },
+    "terra:overworld/overworld/eucalyptus_forest":  {
+                                                        "name":  "Eucalyptus Forest",
+                                                        "r":  95,
+                                                        "g":  133,
+                                                        "b":  117
+                                                    },
+    "terra:overworld/overworld/evergreen_flats":  {
+                                                      "name":  "Evergreen Flats",
+                                                      "r":  165,
+                                                      "g":  209,
+                                                      "b":  123
+                                                  },
+    "terra:overworld/overworld/evergreen_forest":  {
+                                                       "name":  "Evergreen Forest",
+                                                       "r":  147,
+                                                       "g":  196,
+                                                       "b":  101
+                                                   },
+    "terra:overworld/overworld/evergreen_forest_hills":  {
+                                                             "name":  "Evergreen Forest Hills",
+                                                             "r":  91,
+                                                             "g":  148,
+                                                             "b":  56
+                                                         },
+    "terra:overworld/overworld/evergreen_overhangs":  {
+                                                          "name":  "Evergreen Overhangs",
+                                                          "r":  82,
+                                                          "g":  99,
+                                                          "b":  49
+                                                      },
+    "terra:overworld/overworld/flowering_autumnal_forest_hills":  {
+                                                                      "name":  "Flowering Autumnal Forest Hills",
+                                                                      "r":  194,
+                                                                      "g":  128,
+                                                                      "b":  8
+                                                                  },
+    "terra:overworld/overworld/flowering_flats":  {
+                                                      "name":  "Flowering Flats",
+                                                      "r":  89,
+                                                      "g":  163,
+                                                      "b":  72
+                                                  },
+    "terra:overworld/overworld/flowering_forest":  {
+                                                       "name":  "Flowering Forest",
+                                                       "r":  55,
+                                                       "g":  102,
+                                                       "b":  44
+                                                   },
+    "terra:overworld/overworld/flowering_forest_hills":  {
+                                                             "name":  "Flowering Forest Hills",
+                                                             "r":  42,
+                                                             "g":  77,
+                                                             "b":  34
+                                                         },
+    "terra:overworld/overworld/forest":  {
+                                             "name":  "Forest",
+                                             "r":  121,
+                                             "g":  192,
+                                             "b":  90
+                                         },
+    "terra:overworld/overworld/forest_flats":  {
+                                                   "name":  "Forest Flats",
+                                                   "r":  171,
+                                                   "g":  245,
+                                                   "b":  140
+                                               },
+    "terra:overworld/overworld/forest_hills":  {
+                                                   "name":  "Forest Hills",
+                                                   "r":  103,
+                                                   "g":  163,
+                                                   "b":  77
+                                               },
+    "terra:overworld/overworld/frozen_archipelago":  {
+                                                         "name":  "Frozen Archipelago",
+                                                         "r":  202,
+                                                         "g":  255,
+                                                         "b":  225
+                                                     },
+    "terra:overworld/overworld/frozen_beach":  {
+                                                   "name":  "Frozen Beach",
+                                                   "r":  233,
+                                                   "g":  255,
+                                                   "b":  248
+                                               },
+    "terra:overworld/overworld/frozen_deep_ocean":  {
+                                                        "name":  "Frozen Deep Ocean",
+                                                        "r":  83,
+                                                        "g":  118,
+                                                        "b":  191
+                                                    },
+    "terra:overworld/overworld/frozen_marsh":  {
+                                                   "name":  "Frozen Marsh",
+                                                   "r":  163,
+                                                   "g":  255,
+                                                   "b":  158
+                                               },
+    "terra:overworld/overworld/frozen_ocean":  {
+                                                   "name":  "Frozen Ocean",
+                                                   "r":  131,
+                                                   "g":  192,
+                                                   "b":  243
+                                               },
+    "terra:overworld/overworld/frozen_river":  {
+                                                   "name":  "Frozen River",
+                                                   "r":  156,
+                                                   "g":  159,
+                                                   "b":  243
+                                               },
+    "terra:overworld/overworld/frozen_wetlands":  {
+                                                      "name":  "Frozen Wetlands",
+                                                      "r":  178,
+                                                      "g":  255,
+                                                      "b":  184
+                                                  },
+    "terra:overworld/overworld/grass_savanna":  {
+                                                    "name":  "Grass Savanna",
+                                                    "r":  149,
+                                                    "g":  150,
+                                                    "b":  65
+                                                },
+    "terra:overworld/overworld/grass_savanna_hills":  {
+                                                          "name":  "Grass Savanna Hills",
+                                                          "r":  82,
+                                                          "g":  78,
+                                                          "b":  26
+                                                      },
+    "terra:overworld/overworld/grass_savanna_low_hills":  {
+                                                              "name":  "Grass Savanna Low Hills",
+                                                              "r":  149,
+                                                              "g":  142,
+                                                              "b":  52
+                                                          },
+    "terra:overworld/overworld/highlands":  {
+                                                "name":  "Highlands",
+                                                "r":  108,
+                                                "g":  141,
+                                                "b":  41
+                                            },
+    "terra:overworld/overworld/ice_spikes":  {
+                                                 "name":  "Ice Spikes",
+                                                 "r":  209,
+                                                 "g":  227,
+                                                 "b":  239
+                                             },
+    "terra:overworld/overworld/iceberg_ocean":  {
+                                                    "name":  "Iceberg Ocean",
+                                                    "r":  130,
+                                                    "g":  155,
+                                                    "b":  209
+                                                },
+    "terra:overworld/overworld/jungle":  {
+                                             "name":  "Jungle",
+                                             "r":  2,
+                                             "g":  194,
+                                             "b":  2
+                                         },
+    "terra:overworld/overworld/jungle_flats":  {
+                                                   "name":  "Jungle Flats",
+                                                   "r":  75,
+                                                   "g":  191,
+                                                   "b":  78
+                                               },
+    "terra:overworld/overworld/jungle_hills":  {
+                                                   "name":  "Jungle Hills",
+                                                   "r":  0,
+                                                   "g":  255,
+                                                   "b":  9
+                                               },
+    "terra:overworld/overworld/jungle_mountains":  {
+                                                       "name":  "Jungle Mountains",
+                                                       "r":  0,
+                                                       "g":  123,
+                                                       "b":  3
+                                                   },
+    "terra:overworld/overworld/large_monsoon_mountains":  {
+                                                              "name":  "Large Monsoon Mountains",
+                                                              "r":  8,
+                                                              "g":  18,
+                                                              "b":  12
+                                                          },
+    "terra:overworld/overworld/low_chaparral":  {
+                                                    "name":  "Low Chaparral",
+                                                    "r":  179,
+                                                    "g":  147,
+                                                    "b":  59
+                                                },
+    "terra:overworld/overworld/lush_caves":  {
+                                                 "name":  "Lush Caves",
+                                                 "r":  17,
+                                                 "g":  66,
+                                                 "b":  52
+                                             },
+    "terra:overworld/overworld/lush_sea_caves":  {
+                                                     "name":  "Lush Sea Caves",
+                                                     "r":  63,
+                                                     "g":  87,
+                                                     "b":  80
+                                                 },
+    "terra:overworld/overworld/mangrove_swamp":  {
+                                                     "name":  "Mangrove Swamp",
+                                                     "r":  103,
+                                                     "g":  119,
+                                                     "b":  24
+                                                 },
+    "terra:overworld/overworld/marsh":  {
+                                            "name":  "Marsh",
+                                            "r":  113,
+                                            "g":  151,
+                                            "b":  64
+                                        },
+    "terra:overworld/overworld/monsoon_mountains":  {
+                                                        "name":  "Monsoon Mountains",
+                                                        "r":  18,
+                                                        "g":  31,
+                                                        "b":  23
+                                                    },
+    "terra:overworld/overworld/moorland":  {
+                                               "name":  "Moorland",
+                                               "r":  142,
+                                               "g":  150,
+                                               "b":  78
+                                           },
+    "terra:overworld/overworld/mountains":  {
+                                                "name":  "Mountains",
+                                                "r":  111,
+                                                "g":  111,
+                                                "b":  111
+                                            },
+    "terra:overworld/overworld/mountains_river":  {
+                                                      "name":  "Mountains River",
+                                                      "r":  133,
+                                                      "g":  167,
+                                                      "b":  165
+                                                  },
+    "terra:overworld/overworld/mushroom_coast":  {
+                                                     "name":  "Mushroom Coast",
+                                                     "r":  255,
+                                                     "g":  0,
+                                                     "b":  217
+                                                 },
+    "terra:overworld/overworld/mushroom_fields":  {
+                                                      "name":  "Mushroom Fields",
+                                                      "r":  219,
+                                                      "g":  0,
+                                                      "b":  186
+                                                  },
+    "terra:overworld/overworld/mushroom_hills":  {
+                                                     "name":  "Mushroom Hills",
+                                                     "r":  194,
+                                                     "g":  0,
+                                                     "b":  162
+                                                 },
+    "terra:overworld/overworld/mushroom_mountains":  {
+                                                         "name":  "Mushroom Mountains",
+                                                         "r":  155,
+                                                         "g":  0,
+                                                         "b":  129
+                                                     },
+    "terra:overworld/overworld/oak_savanna":  {
+                                                  "name":  "Oak Savanna",
+                                                  "r":  216,
+                                                  "g":  247,
+                                                  "b":  93
+                                              },
+    "terra:overworld/overworld/ocean":  {
+                                            "name":  "Ocean",
+                                            "r":  23,
+                                            "g":  135,
+                                            "b":  212
+                                        },
+    "terra:overworld/overworld/overgrown_cliffs":  {
+                                                       "name":  "Overgrown Cliffs",
+                                                       "r":  116,
+                                                       "g":  122,
+                                                       "b":  106
+                                                   },
+    "terra:overworld/overworld/palm_beach":  {
+                                                 "name":  "Palm Beach",
+                                                 "r":  253,
+                                                 "g":  255,
+                                                 "b":  212
+                                             },
+    "terra:overworld/overworld/palm_forest":  {
+                                                  "name":  "Palm Forest",
+                                                  "r":  253,
+                                                  "g":  255,
+                                                  "b":  181
+                                              },
+    "terra:overworld/overworld/plains":  {
+                                             "name":  "Plains",
+                                             "r":  145,
+                                             "g":  189,
+                                             "b":  89
+                                         },
+    "terra:overworld/overworld/prairie":  {
+                                              "name":  "Prairie",
+                                              "r":  201,
+                                              "g":  247,
+                                              "b":  93
+                                          },
+    "terra:overworld/overworld/rainforest":  {
+                                                 "name":  "Rainforest",
+                                                 "r":  50,
+                                                 "g":  84,
+                                                 "b":  63
+                                             },
+    "terra:overworld/overworld/rainforest_hills":  {
+                                                       "name":  "Rainforest Hills",
+                                                       "r":  32,
+                                                       "g":  54,
+                                                       "b":  40
+                                                   },
+    "terra:overworld/overworld/redwood_forest_hills":  {
+                                                           "name":  "Redwood Forest Hills",
+                                                           "r":  123,
+                                                           "g":  35,
+                                                           "b":  23
+                                                       },
+    "terra:overworld/overworld/river":  {
+                                            "name":  "River",
+                                            "r":  0,
+                                            "g":  132,
+                                            "b":  255
+                                        },
+    "terra:overworld/overworld/rocky_archipelago":  {
+                                                        "name":  "Rocky Archipelago",
+                                                        "r":  114,
+                                                        "g":  128,
+                                                        "b":  145
+                                                    },
+    "terra:overworld/overworld/rocky_bumpy_mountains":  {
+                                                            "name":  "Rocky Bumpy Mountains",
+                                                            "r":  50,
+                                                            "g":  69,
+                                                            "b":  51
+                                                        },
+    "terra:overworld/overworld/rocky_desert":  {
+                                                   "name":  "Rocky Desert",
+                                                   "r":  232,
+                                                   "g":  180,
+                                                   "b":  121
+                                               },
+    "terra:overworld/overworld/rocky_sea_arches":  {
+                                                       "name":  "Rocky Sea Arches",
+                                                       "r":  49,
+                                                       "g":  72,
+                                                       "b":  67
+                                                   },
+    "terra:overworld/overworld/rocky_sea_caves":  {
+                                                      "name":  "Rocky Sea Caves",
+                                                      "r":  76,
+                                                      "g":  108,
+                                                      "b":  103
+                                                  },
+    "terra:overworld/overworld/rocky_wetlands":  {
+                                                     "name":  "Rocky Wetlands",
+                                                     "r":  97,
+                                                     "g":  145,
+                                                     "b":  141
+                                                 },
+    "terra:overworld/overworld/sakura_mountains":  {
+                                                       "name":  "Sakura Mountains",
+                                                       "r":  255,
+                                                       "g":  183,
+                                                       "b":  197
+                                                   },
+    "terra:overworld/overworld/salt_flats":  {
+                                                 "name":  "Salt Flats",
+                                                 "r":  238,
+                                                 "g":  238,
+                                                 "b":  238
+                                             },
+    "terra:overworld/overworld/sandstone_archipelago":  {
+                                                            "name":  "Sandstone Archipelago",
+                                                            "r":  245,
+                                                            "g":  245,
+                                                            "b":  186
+                                                        },
+    "terra:overworld/overworld/sandstone_wetlands":  {
+                                                         "name":  "Sandstone Wetlands",
+                                                         "r":  232,
+                                                         "g":  232,
+                                                         "b":  193
+                                                     },
+    "terra:overworld/overworld/savanna":  {
+                                              "name":  "Savanna",
+                                              "r":  195,
+                                              "g":  208,
+                                              "b":  92
+                                          },
+    "terra:overworld/overworld/savanna_hills":  {
+                                                    "name":  "Savanna Hills",
+                                                    "r":  159,
+                                                    "g":  179,
+                                                    "b":  52
+                                                },
+    "terra:overworld/overworld/savanna_low_hills":  {
+                                                        "name":  "Savanna Low Hills",
+                                                        "r":  190,
+                                                        "g":  202,
+                                                        "b":  62
+                                                    },
+    "terra:overworld/overworld/savanna_overhangs":  {
+                                                        "name":  "Savanna Overhangs",
+                                                        "r":  116,
+                                                        "g":  140,
+                                                        "b":  55
+                                                    },
+    "terra:overworld/overworld/shale_beach":  {
+                                                  "name":  "Shale Beach",
+                                                  "r":  134,
+                                                  "g":  135,
+                                                  "b":  132
+                                              },
+    "terra:overworld/overworld/shrub_beach":  {
+                                                  "name":  "Shrub Beach",
+                                                  "r":  137,
+                                                  "g":  144,
+                                                  "b":  123
+                                              },
+    "terra:overworld/overworld/shrubland":  {
+                                                "name":  "Shrubland",
+                                                "r":  160,
+                                                "g":  175,
+                                                "b":  59
+                                            },
+    "terra:overworld/overworld/snowy_eroded_terraced_mountains":  {
+                                                                      "name":  "Snowy Eroded Terraced Mountains",
+                                                                      "r":  99,
+                                                                      "g":  191,
+                                                                      "b":  160
+                                                                  },
+    "terra:overworld/overworld/snowy_eroded_terraced_mountains_river":  {
+                                                                            "name":  "Snowy Eroded Terraced Mountains River",
+                                                                            "r":  83,
+                                                                            "g":  175,
+                                                                            "b":  191
+                                                                        },
+    "terra:overworld/overworld/snowy_meadow":  {
+                                                   "name":  "Snowy Meadow",
+                                                   "r":  230,
+                                                   "g":  247,
+                                                   "b":  238
+                                               },
+    "terra:overworld/overworld/snowy_mountains":  {
+                                                      "name":  "Snowy Mountains",
+                                                      "r":  153,
+                                                      "g":  203,
+                                                      "b":  200
+                                                  },
+    "terra:overworld/overworld/snowy_mountains_river":  {
+                                                            "name":  "Snowy Mountains River",
+                                                            "r":  91,
+                                                            "g":  169,
+                                                            "b":  203
+                                                        },
+    "terra:overworld/overworld/snowy_plains":  {
+                                                   "name":  "Snowy Plains",
+                                                   "r":  204,
+                                                   "g":  239,
+                                                   "b":  221
+                                               },
+    "terra:overworld/overworld/snowy_sea_arches":  {
+                                                       "name":  "Snowy Sea Arches",
+                                                       "r":  104,
+                                                       "g":  103,
+                                                       "b":  126
+                                                   },
+    "terra:overworld/overworld/snowy_sea_caves":  {
+                                                      "name":  "Snowy Sea Caves",
+                                                      "r":  128,
+                                                      "g":  126,
+                                                      "b":  151
+                                                  },
+    "terra:overworld/overworld/snowy_terraced_mountains":  {
+                                                               "name":  "Snowy Terraced Mountains",
+                                                               "r":  131,
+                                                               "g":  203,
+                                                               "b":  176
+                                                           },
+    "terra:overworld/overworld/snowy_terraced_mountains_river":  {
+                                                                     "name":  "Snowy Terraced Mountains River",
+                                                                     "r":  116,
+                                                                     "g":  160,
+                                                                     "b":  203
+                                                                 },
+    "terra:overworld/overworld/steppe":  {
+                                             "name":  "Steppe",
+                                             "r":  157,
+                                             "g":  181,
+                                             "b":  91
+                                         },
+    "terra:overworld/overworld/subtropical_deep_ocean":  {
+                                                             "name":  "Subtropical Deep Ocean",
+                                                             "r":  41,
+                                                             "g":  111,
+                                                             "b":  173
+                                                         },
+    "terra:overworld/overworld/subtropical_ocean":  {
+                                                        "name":  "Subtropical Ocean",
+                                                        "r":  13,
+                                                        "g":  150,
+                                                        "b":  219
+                                                    },
+    "terra:overworld/overworld/sunflower_plains":  {
+                                                       "name":  "Sunflower Plains",
+                                                       "r":  255,
+                                                       "g":  235,
+                                                       "b":  0
+                                                   },
+    "terra:overworld/overworld/swamp":  {
+                                            "name":  "Swamp",
+                                            "r":  76,
+                                            "g":  87,
+                                            "b":  20
+                                        },
+    "terra:overworld/overworld/taiga":  {
+                                            "name":  "Taiga",
+                                            "r":  134,
+                                            "g":  183,
+                                            "b":  131
+                                        },
+    "terra:overworld/overworld/taiga_flats":  {
+                                                  "name":  "Taiga Flats",
+                                                  "r":  125,
+                                                  "g":  154,
+                                                  "b":  122
+                                              },
+    "terra:overworld/overworld/taiga_hills":  {
+                                                  "name":  "Taiga Hills",
+                                                  "r":  150,
+                                                  "g":  183,
+                                                  "b":  147
+                                              },
+    "terra:overworld/overworld/temperate_alpha_mountains":  {
+                                                                "name":  "Temperate Alpha Mountains",
+                                                                "r":  23,
+                                                                "g":  201,
+                                                                "b":  76
+                                                            },
+    "terra:overworld/overworld/temperate_mountains":  {
+                                                          "name":  "Temperate Mountains",
+                                                          "r":  85,
+                                                          "g":  219,
+                                                          "b":  87
+                                                      },
+    "terra:overworld/overworld/temperate_mountains_river":  {
+                                                                "name":  "Temperate Mountains River",
+                                                                "r":  45,
+                                                                "g":  193,
+                                                                "b":  196
+                                                            },
+    "terra:overworld/overworld/temperate_sea_arches":  {
+                                                           "name":  "Temperate Sea Arches",
+                                                           "r":  107,
+                                                           "g":  142,
+                                                           "b":  112
+                                                       },
+    "terra:overworld/overworld/terracotta_sea_arches":  {
+                                                            "name":  "Terracotta Sea Arches",
+                                                            "r":  234,
+                                                            "g":  104,
+                                                            "b":  76
+                                                        },
+    "terra:overworld/overworld/terracotta_sea_caves":  {
+                                                           "name":  "Terracotta Sea Caves",
+                                                           "r":  240,
+                                                           "g":  116,
+                                                           "b":  107
+                                                       },
+    "terra:overworld/overworld/tropical_deep_ocean":  {
+                                                          "name":  "Tropical Deep Ocean",
+                                                          "r":  42,
+                                                          "g":  122,
+                                                          "b":  172
+                                                      },
+    "terra:overworld/overworld/tropical_ocean":  {
+                                                     "name":  "Tropical Ocean",
+                                                     "r":  2,
+                                                     "g":  176,
+                                                     "b":  229
+                                                 },
+    "terra:overworld/overworld/tundra_hills":  {
+                                                   "name":  "Tundra Hills",
+                                                   "r":  250,
+                                                   "g":  156,
+                                                   "b":  74
+                                               },
+    "terra:overworld/overworld/tundra_midlands":  {
+                                                      "name":  "Tundra Midlands",
+                                                      "r":  250,
+                                                      "g":  174,
+                                                      "b":  78
+                                                  },
+    "terra:overworld/overworld/tundra_plains":  {
+                                                    "name":  "Tundra Plains",
+                                                    "r":  250,
+                                                    "g":  181,
+                                                    "b":  60
+                                                },
+    "terra:overworld/overworld/wetlands":  {
+                                               "name":  "Wetlands",
+                                               "r":  197,
+                                               "g":  231,
+                                               "b":  133
+                                           },
+    "terra:overworld/overworld/wild_bumpy_mountains":  {
+                                                           "name":  "Wild Bumpy Mountains",
+                                                           "r":  31,
+                                                           "g":  56,
+                                                           "b":  33
+                                                       },
+    "terra:overworld/overworld/wild_highlands":  {
+                                                     "name":  "Wild Highlands",
+                                                     "r":  93,
+                                                     "g":  133,
+                                                     "b":  81
+                                                 },
+    "terra:overworld/overworld/wooded_buttes":  {
+                                                    "name":  "Wooded Buttes",
+                                                    "r":  67,
+                                                    "g":  130,
+                                                    "b":  61
+                                                },
+    "terra:overworld/overworld/xeric_hills":  {
+                                                  "name":  "Xeric Hills",
+                                                  "r":  199,
+                                                  "g":  152,
+                                                  "b":  93
+                                              },
+    "terra:overworld/overworld/xeric_low_hills":  {
+                                                      "name":  "Xeric Low Hills",
+                                                      "r":  214,
+                                                      "g":  175,
+                                                      "b":  126
+                                                  },
+    "terra:overworld/overworld/xeric_mountains":  {
+                                                      "name":  "Xeric Mountains",
+                                                      "r":  74,
+                                                      "g":  54,
+                                                      "b":  28
+                                                  },
+    "terra:overworld/overworld/xeric_mountains_river":  {
+                                                            "name":  "Xeric Mountains River",
+                                                            "r":  40,
+                                                            "g":  69,
+                                                            "b":  74
+                                                        },
+    "terra:overworld/overworld/xeric_plains":  {
+                                                   "name":  "Xeric Plains",
+                                                   "r":  222,
+                                                   "g":  162,
+                                                   "b":  87
+                                               },
+    "terra:overworld/overworld/xerophytic_forest":  {
+                                                        "name":  "Xerophytic Forest",
+                                                        "r":  84,
+                                                        "g":  91,
+                                                        "b":  78
+                                                    },
+    "terra:overworld/overworld/xerophytic_forest_hills":  {
+                                                              "name":  "Xerophytic Forest Hills",
+                                                              "r":  84,
+                                                              "g":  91,
+                                                              "b":  78
+                                                          },
+    "terra:overworld/overworld/yellowstone":  {
+                                                  "name":  "Yellowstone",
+                                                  "r":  254,
+                                                  "g":  144,
+                                                  "b":  29
+                                              }
+}

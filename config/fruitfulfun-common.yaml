@@ -1,0 +1,56 @@
+# Use Cloth Config mod for the descriptions.
+---
+modules:
+  farmersdelight: true
+  bee: true
+  creative_tab: true
+  gadget: true
+  ritual: true
+  food: true
+treeGrowingSpeed: 5
+allogamousTrees: true
+fruitDropMode:
+  singleplayer: Independent
+  multiplayer: OneByOne
+fruitTreeLifespan:
+  min: 14
+  max: 24
+appleSaplingFromHeroOfTheVillage: true
+villageAppleTreeWorldGen: false
+hornHarvestingInstrument: minecraft:sing_goat_horn
+wanderingTraderSaplingPrice: 12
+beehiveTrade: true
+beeNaturalHealingInterval: 900
+beeRiding:
+  horizontalSpeedMultiplier: 1.0
+  heightLimit: true
+  verticalSpeedMultiplier: 1.0
+  ultraWarmDimensionLimit: true
+  rainingLimit: true
+mutagenRecipe: true
+redloveFruitUse: true
+dragonBreath:
+  fixExploit: true
+  dispenserCollecting: true
+leavesUsInPeaceIncompatibilityNotified: false
+brainierBeesIncompatibilityNotified: false
+geneticsDifficulty: Normal
+mutationRate:
+  RC: 0.1
+  FT1: 0.07
+  FT2: 0.06
+  FC: 0.14
+imperfectMutagenChance: 0.15
+mutagenMutationRate: 0.8
+haunting:
+  crossDimensional: true
+  interactionParticles: true
+  initiativeSkill: true
+  ghostBeeTimeLimitTicks: 120
+  interaction: true
+  initiativeSkillCooldownTicks: 90
+  enabled: true
+  cooldownSeconds: 10
+integration:
+  hauntedHarvestRottenAppleChance: 0.03
+fixRainingStateInNetherAndEnd: true

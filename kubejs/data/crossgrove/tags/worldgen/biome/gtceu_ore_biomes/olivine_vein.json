@@ -1,0 +1,89 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_base",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_base_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_pit",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_pit_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_base",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_base_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_pit",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_pit_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/cold_deep_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/deep_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/frozen_deep_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/iceberg_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/lush_sea_caves",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rocky_sea_arches",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rocky_sea_caves",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_sea_arches",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_sea_caves",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/subtropical_deep_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/temperate_sea_arches",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/tropical_deep_ocean",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/yellowstone",
+                       "required":  false
+                   }
+               ]
+}

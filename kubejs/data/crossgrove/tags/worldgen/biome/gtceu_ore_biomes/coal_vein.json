@@ -1,0 +1,285 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/autumnal_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/autumnal_forest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/autumnal_forest_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/bamboo_jungle",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/bamboo_jungle_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/bamboo_jungle_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/bamboo_jungle_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/bamboo_ponds",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/birch_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/birch_forest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/birch_forest_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/cerros_de_mavecure",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/dark_forest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/dark_forest_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/dry_wild_highlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/eucalyptus_forest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/evergreen_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/evergreen_forest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/evergreen_forest_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/flowering_autumnal_forest_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/flowering_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/flowering_forest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/flowering_forest_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/forest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/forest_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/forest_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/frozen_marsh",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/frozen_wetlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/grass_savanna",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/grass_savanna_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/grass_savanna_low_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/jungle",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/jungle_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/jungle_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/jungle_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/lush_caves",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mangrove_swamp",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/marsh",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_coast",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_fields",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/oak_savanna",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/overgrown_cliffs",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/palm_forest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/plains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/prairie",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rainforest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rainforest_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/redwood_forest_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rocky_wetlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/sandstone_wetlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/savanna",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/savanna_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/savanna_low_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/savanna_overhangs",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_meadow",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_plains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/steppe",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/sunflower_plains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/swamp",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/taiga",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/taiga_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/taiga_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/tundra_midlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/tundra_plains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/wetlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/wild_highlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/xerophytic_forest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/xerophytic_forest_hills",
+                       "required":  false
+                   }
+               ]
+}

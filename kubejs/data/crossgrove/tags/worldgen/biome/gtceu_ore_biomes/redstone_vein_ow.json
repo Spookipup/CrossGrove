@@ -1,0 +1,153 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_base",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_base_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_pit",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_pit_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/arid_highlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/arid_spikes",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/badlands_buttes",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/badlands_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/badlands_mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_base",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_base_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_pit",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_pit_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/chaparral",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/chaparral_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/cracked_badlands_plateau",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/deep_dark",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/desert",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/desert_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/desert_pillars",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/desert_spikes",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/desert_spikes_gold",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/eroded_badlands_buttes",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/low_chaparral",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/moorland",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rocky_desert",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/salt_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/shrubland",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/terracotta_sea_arches",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/terracotta_sea_caves",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/wooded_buttes",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/xeric_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/xeric_low_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/xeric_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/xeric_mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/xeric_plains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/yellowstone",
+                       "required":  false
+                   }
+               ]
+}

@@ -1,0 +1,2593 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/Terra/config.yml"
+hash = "9f937d32515d48aa9b22a0547d7fb90f1ea6e26888cf3cc1debcf554794a27c9"
+
+[[files]]
+file = "config/Terra/packs/default.zip"
+hash = "9bd79dd6b04a6a29ee5b885cc5f680c6d192f55df9bd361248ae2f38803ff3a1"
+
+[[files]]
+file = "config/aether-client.toml"
+hash = "af8e3af4abe7f842d868ed37eca229483adade23b792f8758be240a3d438f9c6"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "c48fcf909782f15a5e7da5b1adf223bb23b19d335b03dbc20eafaf6fdc33e763"
+
+[[files]]
+file = "config/aether/sun_altar_whitelist.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/agricraft.jsonc"
+hash = "ac8cdbccfd3af0c3172229de6eae27d94767c531412e3ef459018f56669a025f"
+
+[[files]]
+file = "config/almostunified/debug.json"
+hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "40639e8cb9e9ea52b8557c50d29fc06e73e2ad1e7ca27ae5ce8fe2eca2e97188"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "23159b1ed8215bf862ac954057c7d969bb2579cca29222ef09634f6dba5b8f56"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
+
+[[files]]
+file = "config/attributefix.json"
+hash = "d523fbe81930c5cbad23c4d9ab3bc9ccac1fa77c53f093301f6c083e61dcf669"
+
+[[files]]
+file = "config/botania-client.toml"
+hash = "3e96d7f471846a8349c319e8ea876146e8216530b977f830c86b016b5a76ab89"
+
+[[files]]
+file = "config/botania-common.toml"
+hash = "07e55bb5645a21e30392969aa5b2f8295a2bba660942cb5afa5b34a21ac65dea"
+
+[[files]]
+file = "config/brewinandchewin-client.toml"
+hash = "0aa704651b261b27ffa35c8b16adbf0edc74d34f51004bb157f2618c0f1154fb"
+
+[[files]]
+file = "config/brewinandchewin-common.toml"
+hash = "8ebeb27f31aa49b530e2689679ca8096887847d7e4d93a87d9d50143f5957f77"
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
+
+[[files]]
+file = "config/connector.json"
+hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
+
+[[files]]
+file = "config/corgilib/announcement_config.json5"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/corpsecurioscompat-common.toml"
+hash = "55245c61420b1403ebe9c37bf63a4c4ccb98b234cdb128a5bf14c1f46370889a"
+
+[[files]]
+file = "config/crossgrove_integrations-common.toml"
+hash = "ca1ce6629d1aa614017003e8584765a79ca1cf61200d00f61fba23665e85e18d"
+
+[[files]]
+file = "config/crossroads-client.toml"
+hash = "e0a468a618229b840d7abe4e4199a55e5e5ff2642c0f20f650f8e68c36cf1c18"
+
+[[files]]
+file = "config/crossroads-server.toml"
+hash = "7408d0d47b2d2120dab0d6438e532be6ee1c7fe83204be4b2b7e08cd3cbd0360"
+
+[[files]]
+file = "config/cucumber-client.toml"
+hash = "8728108be29b34595d998261b40bba3ffb58f0def0dbe3b5c0e48c4fb708a3bc"
+
+[[files]]
+file = "config/cucumber-common.toml"
+hash = "186e94e7d3f74e5d731cd69e30f8a1e0a300c3fbbfcf92dc5ddb9d8b9d96eeeb"
+
+[[files]]
+file = "config/cucumber-tags.json"
+hash = "a4bbf10afdea976b10363abf8b2da3830562d67f63a710da99c869e77d302d53"
+
+[[files]]
+file = "config/cumulus_menus-client.toml"
+hash = "ccd9f7f7a0539175dbdba77592e96667977a569c3ec506ac6a457bfad4223c93"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
+
+[[files]]
+file = "config/darkness.properties"
+hash = "e0c869690c0720f9ad2d7a5dbc3c295e57431a51cb334ae19e808fc445175290"
+
+[[files]]
+file = "config/defaultworldtype/biomes.txt"
+hash = "4e0010e85061f2ef3f50b83a940b821b17bb9184365aa4aadc3bf0212be00297"
+
+[[files]]
+file = "config/defaultworldtype/client-config.toml"
+hash = "fb478a38ff0fa0a7916259081d3dd391b0768bb57d23c3e1f9d0c9816d7c4925"
+
+[[files]]
+file = "config/defaultworldtype/world-presets.txt"
+hash = "bd363d573ec1b8c99f1698f4dd406d3ea71b7339e0071a33e3d328f5ee73d14b"
+
+[[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
+
+[[files]]
+file = "config/dynamiccrosshair.json5"
+hash = "072f28e1507d1cb2b952abc811256ea1113c6fd47dee97e7dbb6206f5422e740"
+
+[[files]]
+file = "config/eclipticseasons-client.toml"
+hash = "7b11a135888fb93aa4ea5f927a1ddb652c78dfc40d34df42fe2826b5216becb6"
+
+[[files]]
+file = "config/eclipticseasons-common.toml"
+hash = "3eddea253020d421389b0206bd925b16de938d2a3297b5295cdfc86ec71829d9"
+
+[[files]]
+file = "config/eclipticseasons-mixins.toml"
+hash = "117654f7c82509ff466baa4b07e00f45d04439cb19eb65ac3815d8182c78fb87"
+
+[[files]]
+file = "config/eclipticseasons_multimodpatch-client.toml"
+hash = "91993fe43d74e8f653a8d3ed6541d9b425b060abb0458a83c9c63fb0996e8d06"
+
+[[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "cbccb0f0722a2917766441d032765897195b95e2e0532d0bafd66c4db9b98064"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e"
+
+[[files]]
+file = "config/essentials-client.toml"
+hash = "c8871003b574b4891822efc9fa67f2cae539760208bbcaf942363650f9109fcb"
+
+[[files]]
+file = "config/essentials-server.toml"
+hash = "5d07541c2d8cb6595f0df6d181d5d7b24b0baea477847f36deef2fb2abe13eaf"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "713810b15cc8d2acbbee521ad75b34b7ae8bd9e7b67c9867847f795d26abcb70"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "a83e520716f7d5fa43025d5991acd6e2160fc43ba604bd4c258b9f5c0812830f"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "bfa242685cc9afa400562ed1699182fb19e60f58d124386ce5732398ca5d34c1"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf"
+
+[[files]]
+file = "config/farmersrespite-common.toml"
+hash = "4ae780256c98ad13138e0d1edfc6e2a10abfefee24b710e5a1056687641cb6e7"
+
+[[files]]
+file = "config/fastsuite.cfg"
+hash = "44198ad591572d87a9f71b0b636229d91508a8c971f9dca907bed3c6d6754193"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "91830a62c24898b197ea5a244924e8b9388bd72c50e4ba4e91efa21264168716"
+
+[[files]]
+file = "config/fml.toml"
+hash = "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "0b1b3c45343435184c9dde3149b38afcdb97953e287686ecda54385f53ebcddc"
+
+[[files]]
+file = "config/fruitfulfun-client.yaml"
+hash = "8e329609b84e1fffd4baad56b28d4648d6210a77a82aecef9baca637ee10211e"
+
+[[files]]
+file = "config/fruitfulfun-common.yaml"
+hash = "5c9dfd54f1969dd47a7a3da23c3c6912098d0fdb02ebb25407978bfd2b18fc54"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "5aeaba6c098a9538fed45b093f07743c42ecaa44eb9669cc918bf305fcee216e"
+
+[[files]]
+file = "config/ftbxmodcompat.snbt"
+hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
+
+[[files]]
+file = "config/functionalstorage/functionalstorage-client.toml"
+hash = "20f9321530b75eed76c38989ddade8260a3c481f82fe612c5e064b82a1691683"
+
+[[files]]
+file = "config/functionalstorage/functionalstorage-common.toml"
+hash = "e646ca8ec332583e1de2c8d18d4c66a4e2f8aa55c2919d5a65063e3ec88aeb0c"
+
+[[files]]
+file = "config/gtceu.yaml"
+hash = "c77bd6a5be3a61bc1d7f3a901b9cf0bfba4d206bc181102e29326275d6412b0a"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
+file = "config/infernalmobs.cfg"
+hash = "cf450be0ab016ee06c3c26042054e8c9bfb665b8f6c8322ce9618de76537554f"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "8a9c0403b385ca106d0c0b541ea2f2128bf39e3f9b05b342b176ca11834857a4"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "bb1d5eaa41d2e468c004551d111b59831b24b4df2ed1f76e39268bc4c7a044f6"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "ff91ddedacbf02b922faf9486d366711691d8934eee8bf2cee5da86b1541c3d5"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "727b903e815a455d1c8ff12f5dc4057e6caced287f9bff37b5cf0a66135535cb"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "0952200f31b1a7bc02b03b81023a09dcbb82bed80d8774521a3164cbfca4c149"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "30503916553a0a302f433abd1c99a54303312cf426b7a6b49d0dff0461c82aba"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "5f37aacd70460fdc2631ff45e98e8a2ce4e52d3e9a50917edf40eeed1236952e"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "ee9bb0f0f8465629951fe9a532f3ebe3327671a12d4cc6395860d7f7494b970b"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "efea00ff129470490ee0c9ac70a422339950eb85ceb82e4148e72bbfc97668a8"
+
+[[files]]
+file = "config/jeresources-common.toml"
+hash = "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989"
+
+[[files]]
+file = "config/jeresources.toml"
+hash = "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
+
+[[files]]
+file = "config/kiwi-client.yaml"
+hash = "a7368041a56ef4a8677971c7aa73991a62d923f4c1d991cfa032b2797e3d557d"
+
+[[files]]
+file = "config/kiwi-common.yaml"
+hash = "be8ffd6a4ed69300864736280b44e2b537fef40ee69fcdf8687403d9a13b8014"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml"
+hash = "bbbcfe3bc81d3c69453b6e7d0bba95d41820a58a35e5aaa4fabc8f3198f78b91"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml"
+hash = "8d3deaee177fa4eca98737b19b5bf4365d0bb507627c98963ec641e8801f290d"
+
+[[files]]
+file = "config/letmedespawn.json"
+hash = "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e"
+
+[[files]]
+file = "config/lychee-common.yaml"
+hash = "98fc7eda3eb102b1155380e0d75af5ec7115a0bf5f052f1f54d197cdf1d0ee1e"
+
+[[files]]
+file = "config/miapi.jsonc"
+hash = "f04409920237fdf466b1714c98addb64b881569122ba0e6199b73af91e7b5263"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "01e8bc886ff89f93a1ca5311d370383c45b990c62714ee6f2a91fa200d61513e"
+
+[[files]]
+file = "config/mysticalagriculture-client.toml"
+hash = "8fad5e2206758eceae2ee8618886715ef1de63eecf60f4f20d237be8f75d157c"
+
+[[files]]
+file = "config/mysticalagriculture-common.toml"
+hash = "8d6cc288118ab59f1a33872a6e9b74aeb5ac94efbc481213e94238c122c805f1"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "4215398614d28a24d2fe39593bf25981dd67ae46f85bc710ee07ba2d37c74c0b"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "538aae74ea0b2f15762899e6ee36bb9df856c2a60ca6266b74d0b2008394fc2b"
+
+[[files]]
+file = "config/nucleus/configs.jsonc"
+hash = "04e13fe2902072703b859be66a9610f1d012122491a855e133dcbf747bd24664"
+
+[[files]]
+file = "config/particlerain/config.json"
+hash = "04dafd84ae4771ee93f924f2a766f6e7cad52d79f94c4b9f23d02422a8df7541"
+
+[[files]]
+file = "config/particular-common.toml"
+hash = "0eeec5e9bdfaee0dc353908131e3421c6cc79ff8930e6d69b99f17d8abb13445"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-client.toml"
+hash = "242a0f58407ecc71ff5e2c6cd2910001c089ee4e6130454c377115e8a8f3c83a"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-server.toml"
+hash = "6e18bfa2ec02629937474e436f3f44fb67d54fd6e6b47a7c9b4c5b3a3bd83916"
+
+[[files]]
+file = "config/pneumaticcraft-client.toml"
+hash = "5bf93a3e928906316ed4c2538e333b496ad61bbdc140a9cc6c7c1b4630465c97"
+
+[[files]]
+file = "config/pneumaticcraft-common.toml"
+hash = "0b37929f809fccf155bc3e2ca9624a02c67e489906ab76113b7f6ee0a34d9b85"
+
+[[files]]
+file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
+hash = "3260c358de448f81835cefd85f2da6a53e4bdcd2be2451c04c0a163e2c0e20be"
+
+[[files]]
+file = "config/pneumaticcraft/MicromissileDefaults.cfg"
+hash = "cf52b07316b17e5217bcd9983b8b5060683d0fe0ed26376e41011bf40e3ea997"
+
+[[files]]
+file = "config/pneumaticcraft/PneumaticArmorHUDLayout.cfg"
+hash = "052d37ccd8ea50a41b1313430b3b85690ae130e6fde53c1c4902ab40e51afb4f"
+
+[[files]]
+file = "config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg"
+hash = "dbf7e597284cb34c451872fadf82fbeb705e4d66d8e17ac358b5cc10cfb7a321"
+
+[[files]]
+file = "config/pneumaticcraft/thirdparty.cfg"
+hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "fedbbde3fe40c39afe3628c07d6ca35c40c8626a715d47a6048c34748b44f606"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+hash = "ee6b325f47c783188b20b2da734125d08af054788750dc24d832308c63680943"
+
+[[files]]
+file = "config/scannable-client.toml"
+hash = "f985432f6e7ecb4fe9cdb68af6f25e9ad99b84accb024e359796cfa788618b67"
+
+[[files]]
+file = "config/scannable-common.toml"
+hash = "9fba83698c6e06e5df9959e0fa46a5e034f0ba65d69271e8e52af07c54ba2831"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "d12bcdd59a36b21e0aafaab84c9ef6749d8aeab3e28e814571625a58a5db3a87"
+
+[[files]]
+file = "config/simplebackups-common.toml"
+hash = "7e1af719bb7347a602557dab9db0cc5a64fc37ba5b1794b05774a80e0e74f58e"
+
+[[files]]
+file = "config/solapplepie-client.toml"
+hash = "792f70862f39864c2347b0f155d38b5ff5e53def23768b56bc60d9077482e254"
+
+[[files]]
+file = "config/survivalistessentials-client.toml"
+hash = "f77b0f80e406fbe7e579c5fe225b50332754068d4df5f5ee2b263cb4823965a0"
+
+[[files]]
+file = "config/survivalistessentials-common.toml"
+hash = "e60b64d00cfd734a43d045fef657e6d1568e3f745a04bb0ad0378ed6f5f8469b"
+
+[[files]]
+file = "config/teamstages-common.toml"
+hash = "908bdfcb460efb85db9f368f86c1fe6150842971e72bd686441365cad880d498"
+
+[[files]]
+file = "config/terra_curio-client.toml"
+hash = "7ed6b237138b2d7cab498409e243ccbb0d3a5026e653757ae89cd1895421e492"
+
+[[files]]
+file = "config/terra_curio-common.toml"
+hash = "5285005e86571eaf5a185811c5cf3480ef2211edff2cfb044ce3b6f32328f96b"
+
+[[files]]
+file = "config/titanium/titanium-tags.toml"
+hash = "bed71e2722d04afd15e03330d1a157a51077e8fdcd064c80ab4a49bed6a49e59"
+
+[[files]]
+file = "config/titanium/titanium.toml"
+hash = "565e7782790d656fd31350ef9d90cb8ff8b4f38d1fb2418072829fb404195e58"
+
+[[files]]
+file = "config/transition.json"
+hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
+
+[[files]]
+file = "config/treechop-client.toml"
+hash = "ae1995c3bac2a03f767a2c8da6af75364f8a0fc8de6bd82334d05191d97bdc79"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "020e51de0257db1acf83204e5981142f1dac1f54309b5d8e867e8f3a0c56d8d6"
+
+[[files]]
+file = "config/trender.json"
+hash = "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2"
+
+[[files]]
+file = "config/unique-mobs.json"
+hash = "aa92dfdc884f3b2b326dc61687255e7493e832ea1f21e65aa82862c0aa7b3e51"
+
+[[files]]
+file = "config/visuality/config.toml"
+hash = "4127fd1edf4e15159bb8365cb8816c5ae0b6108a02d34aa1d964f4e16b7e3275"
+
+[[files]]
+file = "config/visuality/particle_emitters/block_ambient.json"
+hash = "734a10c828571b65d71d2f27ff2d3350603d097e96c5d0dd5f49319fe21b803b"
+
+[[files]]
+file = "config/visuality/particle_emitters/block_step.json"
+hash = "54d4448f6c45ba1ad311f6c35b55b9b800ad4ae664f075707e05cd798b6eab7b"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity_armor.json"
+hash = "4fea5a33cd09a91423bf58e9404ded2edd4ba3faff2d41543c5366adab92a73a"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity_hit.json"
+hash = "db1fe2d772c0ed136c2d1da0c315bc50ba9760032a60253be6f37ce1d7e38ead"
+
+[[files]]
+file = "config/voidfog-client.toml"
+hash = "cb2b2d45835405f58f67b5c439b0a07da06c339016634ba5aa779964ab1df270"
+
+[[files]]
+file = "config/whitenoise-client.toml"
+hash = "a1d7d962bb45f5dd8a005d1848326aee4baaba477dc9e50cd018f948b1e2888c"
+
+[[files]]
+file = "config/world_preview/biome-colors.json"
+hash = "32ba1a3faffc4518079e7a436a20e2c0852447e132c3d663748756b3b3801790"
+
+[[files]]
+file = "config/world_preview/missing-colors.json"
+hash = "d0c98e898aa693a9ef3c2a733d868ef4560f6be75ef7af38ba3fb8bf795a4ea0"
+
+[[files]]
+file = "config/world_preview/missing-structures.json"
+hash = "91a7fc786c89effa1e9945e03ee94f3783a871a1d6295d6464ca92aa11a62488"
+
+[[files]]
+file = "config/zeta-common.toml"
+hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
+
+[[files]]
+file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "defaultconfigs/ftbquests/client-config.snbt"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "icon.png"
+hash = "247dfe5bf4e6c33acadbc90e91a28d74ea25f0c1471264de2ddc0ca1a6ee7bbd"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "kubejs/client_scripts/crossgrove/jei.js"
+hash = "24c2e89540e4c2d4ce51307b87fa2b60d503954f64b72d406429907f9901499f"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "51bb706bac0849579980a3db3a52462913e2dab64668b3c8c6996740ec0385fb"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "86903eb5b169b767bfa320deef70e7a88ac7b8281f887cd3bbff5fb645d3e547"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/active_volcano_base.json"
+hash = "a8467bbdd97c0cc56c2ebdbbba7742e04872e0c940ea535109f5920c7e20cc34"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/active_volcano_base_edge.json"
+hash = "d4c4a4dcab7c52add3c5b5deede0bfb031a5c0139b4d7f32b435ea60e331d0c8"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/active_volcano_pit.json"
+hash = "64094529452599ff8b4e761970b2bda685d817ca2bc5bd04579fd74a5a325db9"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/active_volcano_pit_edge.json"
+hash = "db31eeaccac2ba001ef19596aee1059d520bc11f40b871df8ba6f0e5ba421aca"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/archipelago.json"
+hash = "24a75390002137964cf61d7795a7adc0adaaad01b6b0bb80455778339046a370"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/arid_highlands.json"
+hash = "a2f6dfa4b86ccbd081ff464cf17f3d2f1eac2a2c014c63b4ca6f2d8c48834cc4"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/arid_spikes.json"
+hash = "d6741e843bf3de9a1a7d8019e03f47e9ade9f5157c7faac0859e3ef4c5eb5b29"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/autumnal_flats.json"
+hash = "8101826babee1b0ef12327ff837580fff1338a717a8a51c65ac45dd977e79010"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/autumnal_forest.json"
+hash = "eaa45af3d323e7bbb10a9b849d0224862b43d373036457c376798d0c0a443b96"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/autumnal_forest_hills.json"
+hash = "f63560d9e3a5ce3ce1368bd7a3115fc39bcab6105cb2bad2b4dcc192f802e859"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/badlands_buttes.json"
+hash = "2ae9929aff94b2b0ef9b2b54075bb6df8e2becfa4e8f84beced7e32bdb2917b7"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/badlands_mountains.json"
+hash = "088bdd0eba1b413aed776c6da8d8cdaa9be927fc63039c83e81e4725398efd5a"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/badlands_mountains_river.json"
+hash = "7bb0199e507222dce3086f0fe8e6756b5fea49f151481a121c2b74e6d96d898a"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/bamboo_jungle.json"
+hash = "376eb8a79948417b827d140bc15bd25f665b356958fe01b85b4ce22078965802"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/bamboo_jungle_flats.json"
+hash = "e7b58380c529b98990dcf0a7073da244a6df5be1b3eaf017f8225b881d250c02"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/bamboo_jungle_hills.json"
+hash = "78925b6b3d4f7518e536899fd5c5cfd1db6eea340c744cc7de540d700d7ed4aa"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/bamboo_jungle_mountains.json"
+hash = "ab279e656f615364611d4f7d0908cb32be8c64bd615f2c044b4841d30dba5809"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/bamboo_ponds.json"
+hash = "b89c86eb1690b14885d4c395a57b2717ed141b4a7b0dc46a2c547b52d83fbf28"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/beach.json"
+hash = "07570ad08ed72e2118045e4a430e07001ed1529ed7603f288a6e83da68bd135c"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/birch_flats.json"
+hash = "2615200ba2cf6f8800165cb9847203d68941614c9169e678d13be8dcb5bb83e0"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/birch_forest.json"
+hash = "205df87a5447513a82032c007ffa8c8b194dda5fa306aec7b39f62e1e06f807a"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/birch_forest_hills.json"
+hash = "4ba33adc3d5445e9fe625c2b519c76202acb1e72d1e39f19b945c1b81815e916"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/caldera_volcano_base.json"
+hash = "25157c1498474db82aea99adeffd5b399f862ea7f5b742eedb52aff76670d9d9"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/caldera_volcano_base_edge.json"
+hash = "4f23fba35d1ec8673300ae8dfdd951be43bf293f3e82560890b43205cf001afa"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/caldera_volcano_pit.json"
+hash = "6940dd0966418f1649c2c66d73859b2e14c2e2db1ccc5fb41283d6a95ce9be5d"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/caldera_volcano_pit_edge.json"
+hash = "64324c9022004af762263908170fc2a426cd0b3e7383736e5cb381bf78d36341"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/cerros_de_mavecure.json"
+hash = "799bbf1bcb9d18f85c908e0d5951581555573783ceae1c00125da36eebbfb5a8"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/chaparral.json"
+hash = "a64b28ee1780f5ed4e3e130282e4f7bf7fcabae64c7e5cf3702968540f9ba7c4"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/chaparral_flats.json"
+hash = "0572ebc34c154abe573ccf74cfe01dadcfdd971f0bb07fb604486326ae2bc3bb"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/cold_deep_ocean.json"
+hash = "ebb1624735feaf55cceb1ccb42f59d42213324180ee8995f0a6bdff32f9338ac"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/cold_ocean.json"
+hash = "dda4ac8a216541f79262249612fc5dde10dbe21ed856c77b5585c8e6f0b2d0fd"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/coral_ocean.json"
+hash = "38182114a3e62fb6e3506cbae169adc51570a68e6b5dc87622c8e9b01eb66aa7"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/cracked_badlands_plateau.json"
+hash = "9ae960fdcffa1f92df5e0d84e35bebab29f2b306ac801459095ec34509f07b96"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/dark_forest.json"
+hash = "e06b2e7895638753743e622a2a7e1e6e05e4eb8cf6d47628d822807812a8b730"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/dark_forest_hills.json"
+hash = "159aef61506f36cb7a3778dbd6a618672002b790cc3ff579f8dcbdd3cf583f89"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/deep_dark.json"
+hash = "1aff895dba2d16808db74e1dea6d378b8349a939ca0d9333eb97ffbcd0b7fd0f"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/deep_ocean.json"
+hash = "6b2d14fb959b23ef23ff2b7685358801aa40180e94845ffcd7aa57eeac5d7fd9"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/desert.json"
+hash = "a036b569899bc583c021c9d7dee8694285adf1febc61ac290edef129c950074d"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/desert_flats.json"
+hash = "bba26d00f88e1579fad12e3079eba15466137cac2d80e662cab8b2930540987d"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/desert_pillars.json"
+hash = "93e19dcc5921669994922bd4a609e293cdc385758d87ea8811fdf8135a416a64"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/desert_spikes.json"
+hash = "141b5e983cfbbb8deb7a2a613ce8916baedabdd94475932dd562cca2fa538e75"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/desert_spikes_gold.json"
+hash = "9eb79a16bb930f4c16f95516df05528c47995f9fd8bf5b992cae8140c48bed71"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/dripstone_caves.json"
+hash = "ac9723aa65dc0c946758bd6a845148b65eccab6d03d9ce307774e7ccb2eb7744"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/dry_rocky_bumpy_mountains.json"
+hash = "d773cca402a87967712c6f66f8967bfba0a8d6d764f7144af7b826c85c423845"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/dry_temperate_mountains.json"
+hash = "0f3c0cf91cdd2db33615bd4a40722271ea35d3add12d1744c074404b9862b20c"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/dry_temperate_mountains_river.json"
+hash = "f671bb89e15288458dfb914e4d43d3b4057bbcbcadee9869b6eb4bff3480bd94"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/dry_temperate_white_mountains.json"
+hash = "22fbc443c010ca2e527edce8acc7c439a057be53b5717a152288b250ef7d0608"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/dry_temperate_white_mountains_river.json"
+hash = "0999af6ea0137bf795dcf08d5e45b4e2a4e51dc9745e9b60b1bc8dbe0e60cc66"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/dry_wild_highlands.json"
+hash = "9282a783af29eaf24e94b13e1bd6d178fed94a14521034234323c98be645f44e"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/eroded_badlands_buttes.json"
+hash = "7a67b71f0bb07625c22bdcdd71734a1bbb89ba3a117901e5ecb2b2b991ce5049"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/eucalyptus_forest.json"
+hash = "836416e07b435b0734a94ffcee47cf2cfc6811e3491eb6740ec93d1cd705f338"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/evergreen_flats.json"
+hash = "c0f8b8d0d61b99fdb3f30ddb9bd95cdd85a0d89febb23931944518391788cff3"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/evergreen_forest.json"
+hash = "5076d570e406201765166e8ba0eaeabf82a97b94e1217e9b7b365a69c5f4134d"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/evergreen_forest_hills.json"
+hash = "297e8102a5a8b830daf2e981c25625c06ff428ce7ecb39eb31db464d3edfb875"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/evergreen_overhangs.json"
+hash = "83e38f6ac0ab9a44d7bb4f4903af8c4ccfeb1e723c48d3ece964fd7d0f76d7d9"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/flowering_autumnal_forest_hills.json"
+hash = "2d317ffb1b0ac28331e8b9c2e92c6522fbe00e22d605d661dd945b6a6ed71e6f"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/flowering_flats.json"
+hash = "8967bc03b76f64c5f74c63ef017537fdc0ac0368ac3f0509dcaa7a896e204427"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/flowering_forest.json"
+hash = "3b716048f106fdb25d6098e21d04259edff9a9fa41019f59c3b40cb459a33844"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/flowering_forest_hills.json"
+hash = "e9cb7ff54c5725f00d273781301805bfe2697b4e256bda6a7c38e5b2d72e62b2"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/forest.json"
+hash = "bd0f8907aa32721ad4dfec59f0048a287b086af8fdac9a162976d815880d7a8c"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/forest_flats.json"
+hash = "1e7745e2b35ad7fb9093acf6f383b24a5bd14e2b892cacd73f1057a878769fa1"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/forest_hills.json"
+hash = "e0ccf9ceff9c8ef1874ac8f12e569cb0d68bf36829023716c3b0064b13b01a1f"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/frozen_archipelago.json"
+hash = "8fe10b5b0c636a2dea733cf901d649951a0d51b93ae6191c2f9e882b118b47dc"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/frozen_beach.json"
+hash = "f6aded67ea6a3cbb92b8c594c241f9ba00e19160b83906a4f3a085aff0d1db08"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/frozen_deep_ocean.json"
+hash = "cdcca3c3bd3b0ddec0c4ecbffa2725ccf400781f426e810e873de0f7d2ec5e52"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/frozen_marsh.json"
+hash = "35d9fd55d677e0f0ee467c155f9614b53eb778c067f9747cfe90bd03f9199a59"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/frozen_ocean.json"
+hash = "839730b0226c3a6213c6eb907790e01adce732af042a6ab36952821c6d96fe9d"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/frozen_river.json"
+hash = "e6fd1904fe808c5439d3fb384a6cd5df7091b0bd50b7512965ed42bb0e0f626c"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/frozen_wetlands.json"
+hash = "b00864577f994e86f5af3959e598ee0246f2d9ee53dc735a340566e7650e6413"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/grass_savanna.json"
+hash = "b36dcd8f14e9993da0ba8aab2155d440b354640cd167d432e89ff9d21625e18f"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/grass_savanna_hills.json"
+hash = "39f92910e60e39e2dd8739f0d0efb3c11579b5237afde4711ba2221dc252a82f"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/grass_savanna_low_hills.json"
+hash = "c3a47313ee997321d8061e4dd866acbb911f9e69bb4f5794b3841711f3bc84f2"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/highlands.json"
+hash = "c30b96f776d62d23a9ec3a009e404c41488e38280d4421c738bd251fbf7c9704"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/ice_spikes.json"
+hash = "76c7600bc99abca85af9759e865f06a94eda9e028b6be5acb63d4f28e90f0cb3"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/iceberg_ocean.json"
+hash = "56f9eb809a426f0791b702bed1168e49f4874efd78cbd22e68d7642c0081049c"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/jungle.json"
+hash = "aedb60d115bd4b958b5f8a7625edb1f757f91d9ede60ae7b6681f1eed79ba1bb"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/jungle_flats.json"
+hash = "1e14ab7e3295fa180d4582a75da1a1cead92ce414eac5bc9fb50064e9fe82d3a"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/jungle_hills.json"
+hash = "31277f0fb7a682c0e3e9ab3c481d97a289ca19c69fb3ddf0dcc6cfd211bf33f5"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/jungle_mountains.json"
+hash = "9afe2b9b54da6d2d1fc2aabfd0b25e9a64bf9eb3c72002802554d6e0b7048874"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/large_monsoon_mountains.json"
+hash = "5af7450c0ebc860c65131d23c5beb407dbea4f6985d9cace879e68692735a528"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/low_chaparral.json"
+hash = "a85bebcaafbc8078d820d7e25d7e7287c3449518bd04ca8b020c36a16eb5c29c"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/lush_caves.json"
+hash = "4d318c82f4aa7a14f6f52449b86ff90afad8081fafbf072c662edb04b5289b06"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/lush_sea_caves.json"
+hash = "7a807de351c4488f2b3846e9390a72fc10eab735454727e8d05549454fb048ed"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/mangrove_swamp.json"
+hash = "4522927ddd9e8a9abc780e74d75e7466e946fa2997070d5aec48037beea8c2e1"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/marsh.json"
+hash = "22c5c1d2bdc6cc598687f24ac642c944069cfb69912a2b666b33e32b0fb099ae"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/monsoon_mountains.json"
+hash = "5a6fa53b37c3b90366b627183a3ab8b35503978b5f49e10c9c23ee368743250b"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/moorland.json"
+hash = "9e095fb8b322db8b55d311cbf8a88e1da2ce2ac697c5ba1fd460bb1c6fec293a"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/mountains.json"
+hash = "922e9950fbe1344719f51dcc6a8de6ed63850b2ee44c0799f5519b209eb8b733"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/mountains_river.json"
+hash = "72516195cd326a84935f615b2d491ea59d9e9379ceee634395d1e320496aa8e2"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/mushroom_coast.json"
+hash = "1b64874bbd87e1fa391d59437c690bf5e5dae78fe6d746f904a7a74363dae226"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/mushroom_fields.json"
+hash = "985ce7a41eeec8ea9a0dd1416a5f1b19c46f0eb0986778d073b080f9eb337e98"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/mushroom_hills.json"
+hash = "de27c6457d43f7d322d807ef0e85251f004b6e99070ff6dc110e34032e5c5085"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/mushroom_mountains.json"
+hash = "79f9f245864e9e3d2faa1cd8f81b6d019eafd244202ec6229cbf722a147281e7"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/oak_savanna.json"
+hash = "1cc2b344f88779eae4580c39260449e470f08a292eca76274031d989d1eae01e"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/ocean.json"
+hash = "04279a61ac218bf17cc08cf24851bf7e9c9666be4f1f9dfec5a845202ae3a6e6"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/overgrown_cliffs.json"
+hash = "45d89b4d1cbf7284987a01f9a5106456f208e17ed3074efa8584c77c6545ad81"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/palm_beach.json"
+hash = "670c48724acf3af1873fff191cb6117e79172b1c16f2bda2bbcdb6d234c8ebc6"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/palm_forest.json"
+hash = "f675a8bc486b1b0e297064ca3c76d6953dcc9767235f742dc65d7fa302ce18fb"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/plains.json"
+hash = "4aea25a2c67dd01cef72dba480bbd75876eb380be916d2e48a2ebcc77eb8d19a"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/prairie.json"
+hash = "41e7b69a63a455de8df5c1d09a90b79dcc4181aad4bae8b0e6e830ad9e42a332"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/rainforest.json"
+hash = "e900e3f2bd021437b49174aaac5e1318895f4a1fe3106ec03274fddfe261effc"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/rainforest_hills.json"
+hash = "42ea60c53531b56d8cd7a200bcc638275b716fd2b3d7408c903129559ee28429"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/redwood_forest_hills.json"
+hash = "bc893cc546292f676bb8fe1dc2501ece50c1919bd16b8ee0f92e0f750ee256d8"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/river.json"
+hash = "53d005e5d3cdaee5c55fa0bac04fd7148ebfb364957c340e44ce996a8daf4ac7"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/rocky_archipelago.json"
+hash = "725a68e1cdbf873283d8ae0fb1ad434985bed64911005b00790c4ce05d6bf2d3"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/rocky_bumpy_mountains.json"
+hash = "ed5a5085d1d1995ece87d2b0fe34550fc98f38a4bacc4770ccbefad8ff9213d5"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/rocky_desert.json"
+hash = "c2cc3f2c79f1b9435673e360c8e8e9965d6f01458538f25723b5bb57b1d82b04"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/rocky_sea_arches.json"
+hash = "7f6e0ec3f6e38ac3fd7c5090d84198f49c2a9f080bcb9c83178cccca5eaa8c57"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/rocky_sea_caves.json"
+hash = "8d860fe135e31a6137d4f6de06d97dad36a37f08c2fd8fdf839fb077e9fd0dc4"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/rocky_wetlands.json"
+hash = "0cea964632067a9ad680b62eee1db81013b9d499c9f8e3c1525c14fc10a30bc6"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/sakura_mountains.json"
+hash = "515b8866a413de9e9c35158a1be6435fa50fa098e5c4f394a2b8175c4dc019a1"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/salt_flats.json"
+hash = "5c2b8488e3415e24893f848120e688936a94dcb3e959380ad3d81c89082e1d26"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/sandstone_archipelago.json"
+hash = "c3eaca3a5f7a00697acf07d0083bd64d859c9e319b27adca76b129554c4f49ef"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/sandstone_wetlands.json"
+hash = "143f0f7709d383aa2330e91252b990ef4f9c05e2db2e2cd091f7cadced067b88"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/savanna.json"
+hash = "1fcab8b0eda8e69610b5293ae780aa9b802eb7d6c6e83a3ff66fb18bfb3a923d"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/savanna_hills.json"
+hash = "e7d3347929fea78fa67bf8dc733e694a0efd4a5e60e72b46c3622ecc0ddd759f"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/savanna_low_hills.json"
+hash = "e38240e44cab81bf462572621de10763f39d520fdf2f7e3996c4909c3bdc1b44"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/savanna_overhangs.json"
+hash = "bc8061246f1a6c38d898fe6f4e3170d8855efc87b1272adc12a0f8cd909c17f4"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/shale_beach.json"
+hash = "db062be41b7f1001a321af1812196c1b3d69a37325b02a95879da575be0fe4ee"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/shrub_beach.json"
+hash = "675bf69eb6b3a8cec42400245fc60bbf3b2a438129b63b976a1170e88db4128b"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/shrubland.json"
+hash = "995a46ad0545ca9ba52c82fff2d013b391f64a34d5f2d214cbc9a1eb07c6f4ca"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/snowy_eroded_terraced_mountains.json"
+hash = "69c2ce3950b684ba27645f3cdbfdcee8860c6e2f628893d221ab3bc790a95f0e"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/snowy_eroded_terraced_mountains_river.json"
+hash = "183e29c21a15826c228c5a4efe6c664e2f1ad66bfda3740b2c1ff0a1f73646c7"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/snowy_meadow.json"
+hash = "4615b8060891e55c3cbe0ab51690e5e342d2532e4242dd2186a7111e8337e101"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/snowy_mountains.json"
+hash = "1b61fc0042d4eb61e80f93d02fb7567c324b4ae420d4fd1e2422af9903555b76"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/snowy_mountains_river.json"
+hash = "6a46d65b0dd117fa854a4a1361314df0c48255de874783cdb28fee11f5139ef6"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/snowy_plains.json"
+hash = "6ba00a338ace869a5e0998be5449c779e66af1ba29088abc46efc0af6a855d03"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/snowy_sea_arches.json"
+hash = "33ca4437cf345580029991b9a09c9887ffa8782ba8cea798b3cbc13fdda71827"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/snowy_sea_caves.json"
+hash = "b4b8149201dac9e7194874d72d20649b610c9d2c8697004168d7bc58988fdd4a"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/snowy_terraced_mountains.json"
+hash = "e9640171cfc11566bf5173868e50cfd3d86660935331987c1e9a670f17e298bd"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/snowy_terraced_mountains_river.json"
+hash = "ae7e51066183bf9f706b307be986088818ca64b47e93a5b30a9d8dd236982b6f"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/steppe.json"
+hash = "b5d76d85d70c1cdeed6ddf5b7b69c2cd1fbf9e95d06348cd9b093d033d2f9e38"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/subtropical_deep_ocean.json"
+hash = "633d41596dce80f160904b42ed1989724d6ce2dec8045784281073f69dbd68ff"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/subtropical_ocean.json"
+hash = "de5dff73de1996acef65bada2079f1db4fc23360e09353a1e6b1c6c06efd825c"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/sunflower_plains.json"
+hash = "e34888b7b9b190968fabfd7a70ba7babc85e67f8ca1ab4059f805fb9ee0ad4c7"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/swamp.json"
+hash = "5b14b7909a53e1c0d6eecaae9789f79cfe12e98589e5aca48c2e1e97ef8e0dce"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/taiga.json"
+hash = "34a4efc0eaf671a42fb543f325e0b1c30ea24a43705035c39c3f4ecb69996856"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/taiga_flats.json"
+hash = "b636c97f181d84fd76cc3f68d09ea338f333b86ac3a10cd549c0ea27d2ec5c83"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/taiga_hills.json"
+hash = "26e330deaf45f0b65dc7c43f6c175e5b399b8e1643b81d314b1aff80e96e33d9"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/temperate_alpha_mountains.json"
+hash = "b7eb17ea804c64f2401cf82c22a5ea71990d4885ffb21ddbb706be22ae701ea1"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/temperate_mountains.json"
+hash = "524b5ec8b6fe6a1a81bc78834b45c2f8d773837ad00f9f6c3b5ef2830c5c23e1"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/temperate_mountains_river.json"
+hash = "8e9912417db0eddd5cb59be0d0584aeabd8d3dc2b8ea646c95f9ac0f37de7df9"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/temperate_sea_arches.json"
+hash = "3c85523cbd9e56f7ab5e564ce66c808a516d8d19af82c678a9f114cc7adef4e7"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/terracotta_sea_arches.json"
+hash = "c7799779ac6a3a862d6267dcc196d475b6b35adf3fd351823eaa4c015850be77"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/terracotta_sea_caves.json"
+hash = "310d7892b3adf6090b32516ec857ccca1b3d2212ce273dcab17ad9720f5efc58"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/tropical_deep_ocean.json"
+hash = "dca93111c60ce2f5d610db476561918be1559c4eff1cd0ec60fcab772f1d8537"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/tropical_ocean.json"
+hash = "56e10c9f80e4fb41759fcf94779adc48e06188e03b6f5b21bb8f89a1af968192"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/tundra_hills.json"
+hash = "fc02db47ff2eb2d45e836ef97a70255cdb75199b9f5bacaeb409eb86d07a0443"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/tundra_midlands.json"
+hash = "ef755637a9198a07a99b95ca18e9c7cf951faf6f1e1eba0b8d1bf4b75f89171e"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/tundra_plains.json"
+hash = "d312c47ddce96cd6604f5ea4bc4436716400b11c4c0ff6a2805e96358290f8de"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/wetlands.json"
+hash = "78206e29a07446d66a3e9abb5562f376cc6306485092365f1174a4a74df2f862"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/wild_bumpy_mountains.json"
+hash = "612ddf1e71b1c492fa87c237fa782d4e160bced85c9a514e174890e85e910e52"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/wild_highlands.json"
+hash = "211c335cc396c6b75672f4a1eff4f1027bb145d0090933ed73e9983c21b7e587"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/wooded_buttes.json"
+hash = "ee94ced60d0802e061102b6479858f7d3003325df5374586322ebeaa788fec62"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/xeric_hills.json"
+hash = "7fa76d107fae826926261456212afe883051c483df5659240383b22ed83dc992"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/xeric_low_hills.json"
+hash = "89f5490b9989155d2e15940ba6520cfc28788b6049fbe5b956614ec8c0df130c"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/xeric_mountains.json"
+hash = "6ab83ce1852d91a92f5fa2c568bd37b2d4c491a11fe32e569bb4b6b649e5fd26"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/xeric_mountains_river.json"
+hash = "57fdd725ae7195678ef9736303cdd65ccfe7a62737ee8048494d49ee75ba3500"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/xeric_plains.json"
+hash = "8888dabe8c8ab8a7eb612fbe91b14827a8ef70c5be60a274bb80c5bd72008dcc"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/xerophytic_forest.json"
+hash = "69289b9b7aa30405aeac994f097ff2d11bbacea85717cd90c11f9100763039d0"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/xerophytic_forest_hills.json"
+hash = "a354081e35359838acb0036dc0322033839bc46b48a33ae6996a68f316a2c0d0"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/eclipticseasons/terra/yellowstone.json"
+hash = "8e4299031143a25b8babe36d233f5e8a9fbbc6903b5429ae8eee97c541f629dc"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/apatite_vein.json"
+hash = "e2dd0056b275670d9432e476fd5bb313698b6e4089f74842a5227e51f80f40a4"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/cassiterite_vein.json"
+hash = "780940acfe307cfe783afe560fd98f416f9d8c6df9edade7fbfb7b208e938df5"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/coal_vein.json"
+hash = "1bb809e7513bc04564781e13d3fa30327f1df968a7f8aa011c8d798ff30d4b71"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/copper_tin_vein.json"
+hash = "8fa595a20d4335e2af3db3d273a3724882c2ef981f846be7ac77f354f94ae1d9"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/copper_vein.json"
+hash = "beb5517fee3a0f836fd6aca3891b0d6a659ce06ba8f8e7d591420899574d8632"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/diamond_vein.json"
+hash = "e99729aefb061347cab07de3721b356b2d8fd242c0e3c2ce86cb0b4d9d76aa0f"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/galena_vein.json"
+hash = "cb2bf983a7f9bb88ac962a986313502102b14b478e49699f29184448d21f0daf"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/garnet_tin_vein.json"
+hash = "e21b111c2b520ea2d776b56bd9f13de62403c3cec3dca92989cbf546997c02eb"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/garnet_vein.json"
+hash = "8d2ddb35835daf2528f4707308483f51fc9cff650241888b313f9dbd57e66a5a"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/iron_vein.json"
+hash = "d9c2acf609df809ed29125f6d135a363735a4d77175543626c655eda3d05df18"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/lapis_vein.json"
+hash = "fbb07ce732ca9bb4917b22fa25c69e971d2f2aee57377583ba87021ee899d073"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/lubricant_vein.json"
+hash = "c312b58d85d6054c2a1e7ca5bf751054a5eff62bf396ff7c43eb97bd94139610"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/magnetite_vein_ow.json"
+hash = "843c608c8dddf162cc0795c1a987befe0ef9579a0937a96f6a31030cf7a18131"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/manganese_vein_ow.json"
+hash = "1fc5ec1ce6363b7f842228bd7a2716ab532e93cc6ad9d8b868139f0e2273d160"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/mica_vein.json"
+hash = "98cf1ebfb7e1ec01378417a85a4df356573526a66213d17b2b864f6fc72746dd"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/mineral_sand_vein.json"
+hash = "35fe86c87b7b1fd1ce3d488098b32a35abdbbb097cbf2fbba95cd063f796dcb0"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/nickel_vein.json"
+hash = "ca3acc9bf82d88f3a9964b530ec71f580d3d75b19b97fbbf398b7bfa71615b85"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/oilsands_vein.json"
+hash = "d5c553bc27daa0c97c8a972dfc99cc8a6eecf6f8b20ebc97442d7b8bb4195428"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/olivine_vein.json"
+hash = "3e39c24bc3db6cde1951a6b37dcd7b9c25ee086a00c808e92acfbb495848b1ff"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/redstone_vein_ow.json"
+hash = "91d116de7ae24b3ed802eb9d465edef247f74bed286d3644173178c33da5dff4"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/salts_vein.json"
+hash = "f5f6e606bd9ed87d031bc4b126f7b6dd0b777381a8793f41b83584409fbf3100"
+
+[[files]]
+file = "kubejs/data/crossgrove/tags/worldgen/biome/gtceu_ore_biomes/sapphire_vein.json"
+hash = "8822d4b66146467682e9de389e6034b10ab8f7f88f74221e7011086904667812"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_active_volcano_base.json"
+hash = "b2184124bae5ce3a0fe8093e429236b4da7546b89b361a95a86c16f7c020205c"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_active_volcano_base_edge.json"
+hash = "c704776ee3da44f94259dca1c2ddb300d9b81b4499a9d4680d5b859a58ee320a"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_active_volcano_pit.json"
+hash = "41b7758041171f99b7678cc7a9e771d7d8f3ae5512a630bdba7730a010c060ca"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_active_volcano_pit_edge.json"
+hash = "daa520f2136c99ecbe803ce316c8e31ec5dba73bef7f234ac8af3d1a74837985"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_archipelago.json"
+hash = "51c7fa44eb9f72ac1154fed3624095055d253c67281bd7ae5ae2258b975c0e9f"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_arid_highlands.json"
+hash = "1002c526c6d2d3d64c785a15fc00664b3df5d7670b030864fd69d46014eb4aeb"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_arid_spikes.json"
+hash = "96965ca6ff19895079fa313102607fd55b901028de0b13d701029cc6d1df14c5"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_autumnal_flats.json"
+hash = "20e39cfac4339bab70bdf3d33999089bdf863c8f8db5de39b7460f4676f67794"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_autumnal_forest.json"
+hash = "e5b5a96b5d62e4e597a9e8d7158e604e8b79e80c05b1d260e2b6f0e1c744d9ca"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_autumnal_forest_hills.json"
+hash = "7d926897e16096554c9fef85c45f3f915c61236a1bf6ab3adc0525b5038f65c1"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_badlands_buttes.json"
+hash = "b971f0926be8ee3a52d28a8c6e7e05bd8ddc8a92139e2ccb3fc2a6eb8802f3b7"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_badlands_mountains.json"
+hash = "10626647be7d2dc3e42f9fa5949da95549135021a5ddb4e8f5057e41ed54e0aa"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_badlands_mountains_river.json"
+hash = "092858eaabe6488aa8dee02245e263ccf3b5800e3baf863477d14b9aa9beb88e"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_bamboo_jungle.json"
+hash = "e04d7012d3de4b078c8da49a04e41bb3c1693e3e23242c02ca35284b54304003"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_bamboo_jungle_flats.json"
+hash = "5c0accdf1a009a43d973578fc17920ba9ac96dd6a6eb6f9e7f0da0158309c0f4"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_bamboo_jungle_hills.json"
+hash = "a9a38c6aa8c180fd8a597a682da2beca83e603160ee611f91ea2c3f047c6b915"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_bamboo_jungle_mountains.json"
+hash = "e83c69bdc45aaf3b4651319e514caef52424d5005a5685bcc6b816b7bf4d4ef1"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_bamboo_ponds.json"
+hash = "a24876a55f31f595043d43ed368a069b53d982a8c95bca42e9219b332e159896"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_beach.json"
+hash = "23c61cd460b8359cbdcb04faec4cf91704b5644660e1ce2af389dac80c44b0e6"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_birch_flats.json"
+hash = "5dd3be3336d309918bc1585e77be7d9836680df390770f8cfb3695b6ecc6ccfd"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_birch_forest.json"
+hash = "2c157a85f51cce1aa553bab155c58395bb022a748cb67bdc04de1606c74c5efe"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_birch_forest_hills.json"
+hash = "00afccf2477eb797f702273875c36acd5210e3195e90e614f24424d4000acbef"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_caldera_volcano_base.json"
+hash = "71283209b96653b9910a4dd884f821c2009c265ec362c669134aef2ad3eccf34"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_caldera_volcano_base_edge.json"
+hash = "ff44353260ace448e83c0058c200572e9a700e09fe53763225f53990c342fa0f"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_caldera_volcano_pit.json"
+hash = "cc5b082dab630cad78ea1c355bd74ede43686b86986f6389263e3091e5663882"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_caldera_volcano_pit_edge.json"
+hash = "d1628d602ca81377bd5f5e3844d346f70b3fa3d015a7e4484705fc3865c69fe2"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_cerros_de_mavecure.json"
+hash = "eeaeda1e179177551d82191e2d1f8375e81638dd27afce9bb313c9665cfd9147"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_chaparral.json"
+hash = "7be3821e346e191d1dcba2383914b1af54f76495c5252e07a98ff3af2425d108"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_chaparral_flats.json"
+hash = "f38deb44608e543b583952fb0379133d8011cd602697deb08227bf57ae85f5f8"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_cold_deep_ocean.json"
+hash = "fbf96701e988ea99794b9e64d7ec16a51ab92f98f5679be809f159d4fe636c6a"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_cold_ocean.json"
+hash = "129973236a17d2055f8512bd9673f0c2458fd76a14aad870ccf98a4a52d06ac3"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_coral_ocean.json"
+hash = "b5e02b009015680e2e3a59afcaf7c12b0d7ca2f80265118b3535a73188a83702"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_cracked_badlands_plateau.json"
+hash = "ebdf46cca66a0060e3c31cdab39e6b1f927634a80b587df555655f5f36d5834a"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_dark_forest.json"
+hash = "e30843a73b36d895710f560e54a0c2707179fac8618703de901187adeb1314fd"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_dark_forest_hills.json"
+hash = "f49cb02ed89da416847ef26e7b7ea1ce963220535cd9c74b872576001ffbe285"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_deep_dark.json"
+hash = "b83edc2c4ad74c65d9aa9ca0f44f04885e3e4bb608c6bf39b533ad650622951b"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_deep_ocean.json"
+hash = "fd8326f6fdcf6842282e78b6548e4d0f26b7bcf610f324f6773478ce28a0918d"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_desert.json"
+hash = "019c18e5cc74a687c842f7e84ef2725c6d214881f455a42f275f30c35df1d925"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_desert_flats.json"
+hash = "b0e466c118dd0914e73c3813a357b9801b801b031a5456230c8195d3e417070d"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_desert_pillars.json"
+hash = "d614886081f35fa352766fa2e4c1735217b314f9d17e305efad126ec44cc6c00"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_desert_spikes.json"
+hash = "87bda0ec0816bff21f743c8a04de8c1d22be58812cb1f16767fb88a638ad7dd9"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_desert_spikes_gold.json"
+hash = "22e481412526880bf54d63520256d1dd686a1fb4e655ba60b08e82cc8d9d830b"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_dripstone_caves.json"
+hash = "f1a40195eba20d6aefd5763d032b4127a56ffed5cd5d1c5456d9cb65c57e8abf"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_dry_rocky_bumpy_mountains.json"
+hash = "3b51cd6578c1c24bfce9f19cc073e5068975733ba484977de54c5148ced36acd"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_dry_temperate_mountains.json"
+hash = "0a889719827981a4a40fca720f8a05276d276173c2db9c36c7f86db46f902696"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_dry_temperate_mountains_river.json"
+hash = "a7a6f25bf3c27c74589691c6afd50ed951c61a26df48f779aecd00d01a15ccfa"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_dry_temperate_white_mountains.json"
+hash = "acfd01f57ae509ed22c2c71163ff26d72a1043f2345427e3fd4adef9faf17d98"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_dry_temperate_white_mountains_river.json"
+hash = "06a3b24d4bad04c24306a77c21fd95869bbe3a1b7d0d4aade45393d8b44d0841"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_dry_wild_highlands.json"
+hash = "ab925d85cb36cad47c9cd00bff89519c773a9bb265953c50765f2a7ca4851b87"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_eroded_badlands_buttes.json"
+hash = "d66ef24f3883bc1a603d6656114ec9685fa15e5301927e89a47c32a01db221c8"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_eucalyptus_forest.json"
+hash = "f0dc38d422094823db39843713cd0bf61558057ea9d318ce670d4dbf62b21cda"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_evergreen_flats.json"
+hash = "fd3d8ceaec98073aa665b4e6caed8e49c643241d765c8f78480ad2b1de973fc6"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_evergreen_forest.json"
+hash = "41da4b47a23bfcb07fe01f7d7612b823a1fe1eb6968dd44477f2c97956feb30b"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_evergreen_forest_hills.json"
+hash = "505e6bf3dfcba9fae775c9bb5f15db5e8e7057ce1480534ece6f61d487357453"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_evergreen_overhangs.json"
+hash = "265b07ff4cb7e9fb10fa078ee35efaa6cff38c33f2105736059395afb6c86e32"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_flowering_autumnal_forest_hills.json"
+hash = "fd97a5481bd1d77157e943a8369c0c36083df108bbab7b1955f73d8d68f6a9bb"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_flowering_flats.json"
+hash = "b322ca8b40feb53aca869cb2f3d2da38155b9167f404b54b27e46e25ea380a3c"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_flowering_forest.json"
+hash = "2d35de31b425f1f75189212c7ce7ff6a6ae68c9af03dfafa29a78efdfa08341a"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_flowering_forest_hills.json"
+hash = "47aeae6af37f1be3b142662a721c69611b3a95845af0a22bab1325bdbbc347c3"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_forest.json"
+hash = "48150599ee01500e98b6a68860707c98fbc9db9adf9e86595577021dbdd8fcce"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_forest_flats.json"
+hash = "f9165f6d8000ba743093e6dde340cf09183f5a6e2580210eedf2dbac4a3d0e4a"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_forest_hills.json"
+hash = "fe4c18f3760c330aa94a30cd962270c7775fdb4319937402cf4ddb4f4b8aa3c5"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_frozen_archipelago.json"
+hash = "c8ebf5cf492ac61e23d641bbf08d945233adfbf9e0d80ae69d346286ce162ebd"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_frozen_beach.json"
+hash = "bcca52b05b5dcd24ce10d56c9aef986a3cdac597cfe6396a6af2ff68ead0c8d3"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_frozen_deep_ocean.json"
+hash = "8a913da0187ccb553882797cb104236f41f35b35796bc16ba07483867706115c"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_frozen_marsh.json"
+hash = "bebbe564826147e6b0b332c9a39f19c3da89a7e782b2d1e0a15d94e85ef1d8f5"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_frozen_ocean.json"
+hash = "87a95812fa9dd9d3cdc2b631de39cc99df68ddd030c7a237ad9bf4026a6dba2f"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_frozen_river.json"
+hash = "18edbfecf9442dddadf67bd96c6c0dc87ecf50b8b3fd55ce2a22401818b708be"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_frozen_wetlands.json"
+hash = "961f6845e2b7b4eafbdbee3dc894b0c5c1e441be18d5451fa2e89e2da4bde440"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_grass_savanna.json"
+hash = "c9b16b7aa2904c3365d9e8440dcf61645ce54316cb763ce9c36f60c1f9abbc33"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_grass_savanna_hills.json"
+hash = "17c5b518a9191796288bde94f69addd2c3b2d20f1df274987b8d3dc1a1a1baba"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_grass_savanna_low_hills.json"
+hash = "c1e0822c3afc06da172a588060952e708b6cf8bccb4b4efc777e9d07b910a7e2"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_highlands.json"
+hash = "fe456666bc8bc9270c888f13b745b26ca9415a771c75a4e644bbd35a784689e8"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_ice_spikes.json"
+hash = "ab75b03f3d431665239cc6733db50657c0ef29a3e9039b547ea1821a83f15f29"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_iceberg_ocean.json"
+hash = "437178924e797fc55f43c8604fdb289d10ce36da90668619a7ea0ca0f40534b0"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_jungle.json"
+hash = "80fdf802fabafb758d9277b4b08b86e6a023cc5cf19dfd6256b0413543d4720f"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_jungle_flats.json"
+hash = "6206054d4e9eb0cf554e63225fb176f5bd1fa7e99b8751d62a0bf31544e6dc62"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_jungle_hills.json"
+hash = "fca718ac094e10265fd8f21771f3b89a560d04f1a94ea8cd797394408bceebb5"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_jungle_mountains.json"
+hash = "65678c7e913593af0a905dff86374e1a8bb931d8536bb4a1c22541cf7474526e"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_large_monsoon_mountains.json"
+hash = "f37cf1fd33039a7ff5bf780208f8b8742d308699d3beb3149f8992e130a9ac50"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_low_chaparral.json"
+hash = "8ef17664b7259d115e6708f363802d54a1b02ce214056bad00d4407817dd49ca"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_lush_caves.json"
+hash = "dcb7baf7d2cf601b802b2b544cd2101276d158486edca50cb3ec620863f8bd48"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_lush_sea_caves.json"
+hash = "83442b900e11ba4f1031cc0524b30df79f1370a8b3da4ae32aae5a70eec694b3"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_mangrove_swamp.json"
+hash = "9f12d70e98225ad0286b980c3e7527b001d6e157ad492784616a4c50d098c4f9"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_marsh.json"
+hash = "f83dcded8e9a075915e11476c3b5e30e678521663c6daf6df1d28b084c6a8263"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_monsoon_mountains.json"
+hash = "7286ae87411e8d152943cc55d0ad60924bb9920c678107273c5c6e564273d4d7"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_moorland.json"
+hash = "b2b89788e1ccee22fd71d10b57c914b1898ab0fc5337106ff87534b46cb0a661"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_mountains.json"
+hash = "7badc14bb904ec460de0e9f6c0f8649099a6e037e01446562664b16826df8537"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_mountains_river.json"
+hash = "e841e5cf61f1539da22c62c42b2011149797d7f2b3fd5606a1f35bbfdfa411d5"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_mushroom_coast.json"
+hash = "26432e8125001b749d744f665da2e47f999130cbf4d1b179eb1932da4bca06f4"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_mushroom_fields.json"
+hash = "99e1c6db3d8bbeaeb0157795f8011a0d9523771a118097b5cd9db31b82cb02a0"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_mushroom_hills.json"
+hash = "ea3d29724c9bf99df875c8948cfa22a423a1afab742a89ba2c3a64e38b763389"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_mushroom_mountains.json"
+hash = "25405f93a4c7a90f021b55ff1ace1aaea2be0b43b1777951537215c3e160ea20"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_oak_savanna.json"
+hash = "f83b508c5f4f37df59880724735213068f1a6d469837ab0b4eb4df060a0703d4"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_ocean.json"
+hash = "d4282dacd32033e896bc8ea092753de068d4f40afd8bd930ea62ede35bbce9df"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_overgrown_cliffs.json"
+hash = "705613877e8423307f737da00dd47ea96230e22897326d439999bd8367d8cef4"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_palm_beach.json"
+hash = "8b9f68a90d2bb84d85486d304db40481c88e578ec2f10f2667112dbb7801ca95"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_palm_forest.json"
+hash = "ceae82c82facb1c3c956fd641317da3ec59c26e2e7fcdbef81466be2de49c594"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_plains.json"
+hash = "823321a0e8505c15c021d16938df61056c65acfec47888f438c831f7f662cfdf"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_prairie.json"
+hash = "6f63f90ee9742742134700c78a77c4da8ca9ca2f27d49b4269263e42832b35e0"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_rainforest.json"
+hash = "77c17835977c0212b686b776ec71c9a65abe7cb8adc4653d5584ec0c595753d8"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_rainforest_hills.json"
+hash = "08fa81ed79e48f91786593739ab9a5312b5e8ee8dff7c595ffc1a4fb8dd93ac0"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_redwood_forest_hills.json"
+hash = "a3e0d50675a5422d87625b043003b748bcd186d35330536a1796fece2626702a"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_river.json"
+hash = "543bc60511e8c91f301b82d2a83f94c0c325d17072fe3f54b6940f8d9436c355"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_rocky_archipelago.json"
+hash = "25d7eec141f29762391672c0b79069c786803cc631f5c4a1c0b476ba324037bf"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_rocky_bumpy_mountains.json"
+hash = "a1656b737cbeef00762570c0be657b6528c729718926f41001bf6bafa2e07e82"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_rocky_desert.json"
+hash = "7e7f2dc0337c1e0902214e4fc0359a21ffdbde6eafe5847f956cba0761ba4b60"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_rocky_sea_arches.json"
+hash = "ff920c6eb963fe1dfe1d4041f32966cf012762599b88a6c948c7a920b09a62ac"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_rocky_sea_caves.json"
+hash = "1fbe311b636c7a9674c580f69341414d53b2e495d692f9f047c9206308e11423"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_rocky_wetlands.json"
+hash = "5b1d17614738e78d3815474a76bf45ec68ef62bd53d22e1bb04b84178fdbfcf3"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_sakura_mountains.json"
+hash = "fe5182ae209d6dca0f2829e5d9a0a600275fb29117327dac62f183cb01412b84"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_salt_flats.json"
+hash = "e70e4edadb26e349f0bcc8f948305b053fe70b4c86101ca3758cc16676b892ca"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_sandstone_archipelago.json"
+hash = "ef4e9ed93b6901b0af48d55c26481a1c57a470fcc6427370eb3ba2662e7bf714"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_sandstone_wetlands.json"
+hash = "87bd25db9e89946e60c3255bba336fae97661f09a5c415eac792e87295d16335"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_savanna.json"
+hash = "5c78d17da7ad144d1b9f63d1797ff71ddff54a788f2d9fff16be0f8c9efaad94"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_savanna_hills.json"
+hash = "65ba3ea7418520677105b2280d85dba858ea36adb783ba4a1dc1f6953412a78b"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_savanna_low_hills.json"
+hash = "9a9eb05aa55fdcbc72fa8ea4f8539d9f87e94945ff8bed860092d5140591b991"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_savanna_overhangs.json"
+hash = "4e468e5c104571fc3836f14ee87963f520ab23253e71c29f8fba11e36ce8c16d"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_shale_beach.json"
+hash = "441de9e3e90e5756a30dba0290ff5207a9ec6d9cd0bfe737c2ca1340715b5d28"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_shrub_beach.json"
+hash = "d79754ce7084b11fc77018462fdfa430fd6a21d7141719ee1ed9908acf7af652"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_shrubland.json"
+hash = "995643a3f6ab45b65551c0134821df72df3e994f06445a603ed9d7c7424d102b"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_snowy_eroded_terraced_mountains.json"
+hash = "cb51dc67355edb6a8f7015d3ceb1b64d7d4ac9777141dcdb76eb1204bde301fd"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_snowy_eroded_terraced_mountains_river.json"
+hash = "9af9aab58ad151c0ca5782fb29614ffe6c455f5f50e55ba1fed3f9a4b781b16b"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_snowy_meadow.json"
+hash = "daad0b9a8a216204ba4a32a7f5ddf2bd4c4d3e3d480d5721fc2e83d755b0956b"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_snowy_mountains.json"
+hash = "b7d7c4db46fc0e57f40853fabb240002151eb857f40dcf246809b86fd6920b33"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_snowy_mountains_river.json"
+hash = "b94f78ffd5333f7420c5c2208f069d4c2d50e0c5bfc85d3fa065ef6352401bf4"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_snowy_plains.json"
+hash = "9a347b1ff842a3e08314e42548e1d5c9b37ba74649c9ba071acef34c8449ba17"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_snowy_sea_arches.json"
+hash = "692c7c901d8d23e7dffa7e9c6da5df0fdf62e1c172d65b6188683fa286854589"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_snowy_sea_caves.json"
+hash = "52d288e9c3603e83205665e360b56e6bd25571c72f92755532c5eed9d7440f1a"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_snowy_terraced_mountains.json"
+hash = "a2b029a9cd1367d0b579b5b67525b391f9ef9f3f57667939c99d5dea402c7251"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_snowy_terraced_mountains_river.json"
+hash = "f3c94001e9660b6cbd31f61ccc5636bcf3e8900798d79cbc94b92f141bec8245"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_steppe.json"
+hash = "a2556568b1464b7959521b31d7eb88ddfa343ec19de0152ecbe4f369fe5e4e10"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_subtropical_deep_ocean.json"
+hash = "2681a96a3168941042728bee73bab189303ba140566e5323952949a4f5b8f615"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_subtropical_ocean.json"
+hash = "d1309b5c979e06f238ee0a9a1b1a0ecd33b34603937f570180084a90e396206a"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_sunflower_plains.json"
+hash = "45c34848e2c3a9d0d14711dc62bcb8ef0920c892a4644033e92ba73b9089d820"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_swamp.json"
+hash = "51b386edb20cf36cf6bced834d8022fd042cd553e82d108e80cc6cc2e3f7951f"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_taiga.json"
+hash = "b7183c84e4d87a55e34c38c4334bdab04309655c0268d016f70caa7704c1a123"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_taiga_flats.json"
+hash = "3835d534701ae1157d9ce1393f60d13c8bd4c5b9ab4f1d418a79cf55fe5e9471"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_taiga_hills.json"
+hash = "83cdc0252586f346cd51f0cd3ecac3a8f299468d5837945873e113d0e1ec9a85"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_temperate_alpha_mountains.json"
+hash = "970fefca7e3a00b9106dc3a4ffbd0d1331aa509d94cd40b88876c6de2e7df1b5"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_temperate_mountains.json"
+hash = "5405e19c3e708171a9822323b30632c056415b26a5a7ed0885f5fe24f3878e8f"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_temperate_mountains_river.json"
+hash = "8100ff9f48dd2e4f8aeeceb95bc3d6388dea1d4c5e9d70de36a351dde0b24290"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_temperate_sea_arches.json"
+hash = "d27aea5ae1e0da76e44bbaad89b51a40d6a53b9e3356c27e424cf9fc6e3ebc6f"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_terracotta_sea_arches.json"
+hash = "1d208f56e006b8fe168187f82ae3bcc8dd494538bba98d08229a174d020b4c25"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_terracotta_sea_caves.json"
+hash = "4f67c2979df60cbe5aa62a16ce001f9988e538fd35ad564304314bf723dd9e35"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_tropical_deep_ocean.json"
+hash = "db93e205928f67ad7d69b93b346ef583a4c681254b85b4d9f60d25de16acf291"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_tropical_ocean.json"
+hash = "c448004fa8c01b0c7ad4813e9857a8ded086aba18ad10c012116bf85763a42e9"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_tundra_hills.json"
+hash = "044413c4013afac6146044198f01e739ef6ba5d36a4564da4b59191d606bd6d2"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_tundra_midlands.json"
+hash = "0ecb299af5c952f232c7cc3282f28fabf3a478eead13e9e9fd6f2db235078f0b"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_tundra_plains.json"
+hash = "238900f161846c0296e96f95f449adfb223315be22cbb76eece7179ccd27b0a5"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_wetlands.json"
+hash = "5461fcd21895b1be23ddc9c3d67e6dee91437006974a9fd924639936734c1c29"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_wild_bumpy_mountains.json"
+hash = "edbce334092db332d3ff7465da3dd81805087441b98051fa4e427b461eb1ad61"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_wild_highlands.json"
+hash = "1cfa17f1068b2df9d4a59e6ee56920ea075e9411e5a4eb68d8bc51f8890c2720"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_wooded_buttes.json"
+hash = "6994ec4e1d19c0f1967b7a4137e8e01ee75a0e7553d60c3413ace7c0c49d419d"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_xeric_hills.json"
+hash = "95df9d929d4601bccbed2005cb1578364225cd6adc60abbf29775361e3e5a61a"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_xeric_low_hills.json"
+hash = "7a914c4cbf2c979ada3cb0e96630022e4e7dcc85b4f63b368bcad80bad26abf7"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_xeric_mountains.json"
+hash = "006c0ee9889c62d8a2c2763b461b491d403b6db8b00049b9a111acb61444ec0a"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_xeric_mountains_river.json"
+hash = "2711bfcc79eb4897a04bfea7a1d9be25f08271e1bce512a98fe9199fbed9b727"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_xeric_plains.json"
+hash = "d56998b178c404e98e47f5d072120325446cbd8202ef772ebb5b5e2cd37c6e5f"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_xerophytic_forest.json"
+hash = "74ef1be78b45db4d8dd09d99cf5c9e6ca7078f4393f35e9bdd0883b672d0869a"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_xerophytic_forest_hills.json"
+hash = "8ab73ec12b99e049fbad0606c89916c9418acc9bbba425bf867f45e2cf6afb81"
+
+[[files]]
+file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_yellowstone.json"
+hash = "5905dc930fb9c6c3d3351c217c45cab18188e845a92660624f4e2eb37f5c223e"
+
+[[files]]
+file = "kubejs/data/forge/tags/fluids/crude_oil.json"
+hash = "83ba348c14bd76368ca435b50b47762427cc53d25aae63c36baf9c9247c4c5ce"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/valid_spawn.json"
+hash = "a2f4acad514b25d5cb20252d0b6e157585b12a606cd7c7d88de0aa2753ec7c41"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/structure_set/villages.json"
+hash = "c454e64a5a24e6c0f8973d49e11230d96b8c14ca98c5a2a3da9fd0634c841eb5"
+
+[[files]]
+file = "kubejs/data/pneumaticcraft/tags/worldgen/biome/has_surface_oil_lakes.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "kubejs/data/pneumaticcraft/tags/worldgen/biome/has_underground_oil_lakes.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/botania.js"
+hash = "517c8be426eba67423065a899d15a46477e6b51b9ff79c32d09d3aeedcac5f49"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/crossroads.js"
+hash = "6be33f8fbb9a9054243f168257b79f42463c52c606cd7f2ae44e613b9a478ea8"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/gtceu_terra_ore_biomes.js"
+hash = "efb8e2e44f48f75eb30dc2df8aa2aaea289dddd2641d3c24d3e3a23aaa9bfe3e"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/legendary_survival_overhaul.js"
+hash = "b12728aee2a0d08993111c0a0c23b01b42d77b67cbd9469e5f482a344b1b17b4"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/mystical_agriculture.js"
+hash = "4cabd883632e1c555da0c809fac0e0755d792b40d5a04c503546d940ad9b4d06"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/pneumaticcraft.js"
+hash = "f85072e0cbee54e1025aea7ee83b48ca3946680920afb7bd7a0a932e99414199"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/stone_age_recipes.js"
+hash = "f00e2ca3c8693d84ea586f60613d8e61d6d1a1d1707eea92dea2bd5091f980f4"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/survival_age_recipes.js"
+hash = "5629768fbfbb8a9476d0266ea7a08537ec1fa3f0510d4a4e3a52ddaf30c1c140"
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "f678fa43ee2e5346183abc1cd0f5651bb552794b202138bb88ae5233fc144660"
+metafile = true
+
+[[files]]
+file = "mods/agricraft.pw.toml"
+hash = "e8f586ead9efc09d069f8915c545acdfc67ebd112f1917092167be9c4b634c59"
+metafile = true
+
+[[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "ddc4a20153d80cfe74be4ef9a31b899e783636f02407eb825bce9d0b35055481"
+metafile = true
+
+[[files]]
+file = "mods/almostunified.pw.toml"
+hash = "0ab97e5ca34c1109fbcd3ce1376acc10d0d2f0b80ce0f42922bf487b739fb1a5"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "d0369893bb560193a30a0dde1593d80f43deca53be8145f8486de9660cf97d2f"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "daf1bc0c04f6d82eb4ec4fda3fce816deb072451162c1a1266efa4ae0539e1dd"
+metafile = true
+
+[[files]]
+file = "mods/atomicstrykers-infernal-mobs.pw.toml"
+hash = "ab8c4ec531c31a241cc3ec01926a6e1b0ed98823b95488124aa856c093cea7af"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "ffe9c8ac46cc5abca781ff9c3ff34a63c43148ef44c3770a6ad084a85a51d870"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "8fc4afa9da9389d55fc49014cb69cee93f3bf4cf245f64aada8ed92a1a9a7ac6"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "542b585f3a246493b6f09d44f9812863e4502f636fc8487dfd7fcf055f366b75"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "0b9622b6b4566f899e433434ae77e639fefa5e3b6755d7935332e87b7a4f36c5"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "57f8ea84b847337b9dae07d0fba2e3cd414a5115a9963a151e84969cf3ac43c8"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "0160b0a3cb1afc67bc13b11af73eff58f51ae9bf0557dfaef5ecffcc36d647b5"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "0427731c8bc79fb73186ccbfe9f62a4e517234946a4ea66bd9a6aa1c626b5ac4"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7d2be40d4e07cc1bd2ea15c3c68d81f2f30e2d794985968ea12c135a638ae77b"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ef6c1924a26bceffc27a950038123aa61906ac501692729a6682c41fe934f59d"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "94dde850c451826c4bc155fd642aa93f289b028d9cbd8cacc4a4d905933d420d"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "d3480a06abd757349cea7d06e9eab8e743073e54dc09d89b411de3803c1d5707"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "1dbc54931a664c882b521135faa94547a73dcaeb80d56ddc72c5a20d2aa16748"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "c315adc0e5635b839588d61239b46ce5c48cb74aa5e4087284dd9b43c9bad738"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "1234c07a619f398197e0bc22e3762b4c38f12ac8fd06c36da4af9682586dfb30"
+metafile = true
+
+[[files]]
+file = "mods/crossgrove_integrations-1.0.0.jar"
+hash = "66b85d433de6248630304d290e08c8d50cef4ba27664c26f7af985ab6fa2eef6"
+
+[[files]]
+file = "mods/crossroads-mc.pw.toml"
+hash = "2a218006ddc11a31d0fe58e1b006ad8de5e63fb93e64a9da8be9784ea0ecb43b"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "e3a4b618ea0ebb191e7642e831221c9fd7dec589d6dde3f1e5258b14c89eaf69"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "e5a06dae512438d2132228277c4eb5daa434f15f43694108055c5d2611580e19"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "92463821c2f182aa78b952cfc4d9941f9aa5d523cf8893cbbcc6b5b49170fffb"
+metafile = true
+
+[[files]]
+file = "mods/defaultworldtype.pw.toml"
+hash = "d959b3de339a76f5d4dc0b4b686faed339ba4f2c139212c33c81149ff2bc6d06"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "1e9d83052c956d9da7e57f81c8c93423d77d6f8897e65ac8db4489e447775400"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-crosshair.pw.toml"
+hash = "042fdc7353427bc48f86c390df84ae6aaa96fedd8e18f20c67b1489515359a16"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-villager-trades.pw.toml"
+hash = "c9c66ec755169bc01632327a5552cf66a5693e596e693a195ad169ada27d5acf"
+metafile = true
+
+[[files]]
+file = "mods/ecliptic-seasons-multimod-patch.pw.toml"
+hash = "a13499789e1ac55c7181b8fd07d6255e808d3958115088f3e8d1d1206e2a4baa"
+metafile = true
+
+[[files]]
+file = "mods/ecliptic-seasons.pw.toml"
+hash = "a8af5c5c31887a9aa987c975cb9986f74c3a67f44234d6e4e56a52f55fb8a37f"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "d0e7e6f6f6a5ce0a381074ca6065e05e86665bcf17953d9624a8a8b4f6ea4742"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "ffc2749ca2a0e231f5872ec8d5408b5a116a2d8e3ba2366952743b411c7a0b17"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "35d8c75c8682217a99deb7692b763c8512332a55eee0667f29fe6552f2e6756f"
+metafile = true
+
+[[files]]
+file = "mods/essentials.pw.toml"
+hash = "016bffa0f625bee9898b819987ddda2f24fe2d0f373cc6769945451c00dcf547"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "b4e5cdfe1e60ab63a2e874ea91edb147e3417ef29d54f82ad83fb1a611cec9ad"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "807b1181dc035810511521ae89c1ea406c8d768942825d7e7597a0ac933c0f0a"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite.pw.toml"
+hash = "2cb6f370b9e0a7a2e8c750c6f0afad4ed807b0424ddba083551f14e89b9219fb"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "d392a6779696da9274ac685adf9b6bd4982e17b4c91f88cfc1d0bd9e3d5f92b1"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "97f869ed38bac0165bef4d5c888d04a90b3066ba7383d4d32cc0b561a545d6ad"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "bd22d94b62919249fc9cae6d7012efbb37ce8e1429b6835ee7c3138e8b1d774d"
+metafile = true
+
+[[files]]
+file = "mods/fruit-trees.pw.toml"
+hash = "1c1d535f469d78c7210e414e6ddf5435bbb9340aa808204e9b0657958b11250c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "11ae84382602a9321e1e2680e645aa8a5a4b5dc1e226c1655b4547bedd5a8a42"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "8753638882026f74b79661789f385d1b77aba39f970278c25cff7de2de5d3931"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "34666dd286b5773dffc087dc5d34b604dea2033c8498074eddd4f53fdcd8acba"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "d013dcefed1f1ffd0f89e7e0e6cecdfab06b392c338af1b33c681435b765f02d"
+metafile = true
+
+[[files]]
+file = "mods/functional-gregtech-drawers.pw.toml"
+hash = "76efb2c433154db3ec9ebc5009c43eb1362c6e5d0b5eaa3f0765af0f80513adf"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "c744e0a07ed9ed13c326c06e41e4737d46a938c8bb6767b3698d6899db3b8474"
+metafile = true
+
+[[files]]
+file = "mods/game-stages.pw.toml"
+hash = "771b7965aae563026e37eb1f4b2378fda08b45022ce748a3c71a09cb60ba11bf"
+metafile = true
+
+[[files]]
+file = "mods/gregtech-extended-chemistry-extended.pw.toml"
+hash = "e15d70f906c054125f03c7607484d5ffe0a0deeac20ffd19d5883e1b1eb44126"
+metafile = true
+
+[[files]]
+file = "mods/gregtechceu-modern.pw.toml"
+hash = "061a733b6f72f6ac0e7196956cb9ae1f0a83127c83f5a1b6f9bbeae33b59776d"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "ac2593dc2be68c44fce16d0cdecb14de1c6d9157f41af9c80f026fd9aa93748d"
+metafile = true
+
+[[files]]
+file = "mods/item-stages.pw.toml"
+hash = "1ed4527abecd86f95f27feaeb8d142c39e11a47e253fa17b0427f489591ba47f"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e796a05acce8f5ca79e8656af707b2454daaac264e9d413dc7a5a9e7c00db483"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "98cf11a61e8ce10dfea3a94ab2ef875b10b679ad5acf72fba0e7f7d3b68a8427"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "a2915345904360065bbce6a4c786ffe98a733b3af76f3ba909cfb3126305849f"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "c0f48c2354241759625c3751787e1365d5fa1ee207b5d439210d3445c0776d1e"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "42616bc28dca78eead81a18425805d77659628803a44be4414ce22d794db3b97"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-curios.pw.toml"
+hash = "bfbf84f3ed1150f7a9b6d8155bfd60a7b3bb78fdfb05076d288c50faad836dfc"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-gt-dynamic-render.pw.toml"
+hash = "57590894bc6afcf94e80559786ed3952e2b2478d48cf4b0a513780f56841cba4"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "46cad39167b1948a5ff5e1600ec727839bb24574ee2f3ce3797673b7c8401c3b"
+metafile = true
+
+[[files]]
+file = "mods/legendary-survival-overhaul.pw.toml"
+hash = "4775c6be782f9c336152554450f0501b609d9ae1e8dcafbe657bc110774fce42"
+metafile = true
+
+[[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "9030bff510fa410bbbb7d1fa196fd6c8fec838d68bdbd4007aa01d7d81117d59"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "0479d788a06a41d0f139040dbac1858d3fad4cdc21c00342bb6f5dd202f3c349"
+metafile = true
+
+[[files]]
+file = "mods/lychee.pw.toml"
+hash = "ec20bb5543623614b1ee7c0d80ab0cf1ae4d0d92be6865317e765a95a7e37459"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "0c95fd90805c6caca76e0c253e03b74c2a2d2e30f6457ac7cf4ef96b1180c072"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "fd9d1201adacf50d37135a418ae73e4f6c6ba8931f90121e4e967a144e3f01ce"
+metafile = true
+
+[[files]]
+file = "mods/modular-item-api.pw.toml"
+hash = "8692a80c4140410a2f515ba442a0cc515c9ee1662811708168244d23bbe5b350"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "142d0ec835e8770be154dc098f53e9b84df816964f0e5332d8897c2324abc14a"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "5a76135297311114fea7d0036f2aae9556bd7ca57ebe0d85864eabf5b54a12b2"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "5b523cc26d6138cfe1b4d6de0c99ea84d679930b24bb281d4343379404943d02"
+metafile = true
+
+[[files]]
+file = "mods/ore-stages-reborn.pw.toml"
+hash = "70bd5b5295bac8d0a50f91bccac09b84108f43f4cb824f3e0799d1022e7b1cef"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "a1c37e7980d56959dc7c8a92e03139c56f162d2cd068ad3e094abe1748ac4904"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "7ae50ad388f8afd226820708d0a677478d3895ec713b8b210d35dfe2f88f0e45"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2246e497432a34b916c10275f76fed8c1fde6b7520ea5d11634d9b7d04561864"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "c09347710f83c579ec9596510f9248f2dcd53020ad4e70cf191e1d5dc00e0114"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "3e55c5a42f506101d890eadeb82ec2bae4b16bb7441ac23becfecea9c8d0e699"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "c46acf1b56cff0ae0236be1f383536f223e024202c114d2e0bcf59405cb3a1f0"
+metafile = true
+
+[[files]]
+file = "mods/ponder.pw.toml"
+hash = "3efacf3a513a58a230ba219b4a1de010cbcb306f312e2d60577f140d3dfafa94"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e26900c1d4c9f21372f28ed7641a8c7949cd21dfd384bee4c073574f9c6e7453"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "708ac64282f5d88396186892f27ba24c10b6235bbae95e34029d68020ba7e145"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "f5a255adc738aa5d847a9a1fafd0a0549b848a74415a81e7690ea996020385c6"
+metafile = true
+
+[[files]]
+file = "mods/recipe-stages.pw.toml"
+hash = "a709d7023ba6fa2c9fd4af95d24c809b3589e53e38072c57d42772286208cfc3"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "56eb020660f0f075035e159ce1fe91f39c7cc1219f9696aaafdefcf32c4b278e"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "8dd023b2fdee36de4a02aac3dadc22ea18ad35ae4a282c39bfbe791f4b06faf2"
+metafile = true
+
+[[files]]
+file = "mods/scannable.pw.toml"
+hash = "38847711c719cd36acdc61e7893216c25c7cf069a2f6f4c52b9a504344346181"
+metafile = true
+
+[[files]]
+file = "mods/sdm-gamestages-helper.pw.toml"
+hash = "935c923172f501c167bd5dc9734d6501a44141908be9567fd1f3f831ce151e54"
+metafile = true
+
+[[files]]
+file = "mods/sdm-mob-stages.pw.toml"
+hash = "7cb3c063ff80a4ecb94e0f99c5d85d8cada5f7e3370d5527f75154f00bed51ca"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "5fe168475fe7a54b8a3e8d32b224e1435cd48d1ec12932798a0547c3f2067e04"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "bca271615b0e508c04700f1ac692b2ac09a3b4613734fdf19b9c8a85213fcd83"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-apple-pie-edition.pw.toml"
+hash = "136a515f01d9aab8a1a3b98a6c7a8db2fafebacaffbdc4044a0552c74c2597f9"
+metafile = true
+
+[[files]]
+file = "mods/spookis-unique-mobs.pw.toml"
+hash = "4a9336b8a9e39740b939c1a98067ac6a0e5e16f34f69b6b45a9995cf7e124569"
+metafile = true
+
+[[files]]
+file = "mods/survivalist-essentials.pw.toml"
+hash = "9c42f722887b26026cb3190a385eb7a54b7f565110fd7eaf0d54bb41259fc1da"
+metafile = true
+
+[[files]]
+file = "mods/team-stages.pw.toml"
+hash = "155469199f0a9f9c0967e4be7782d143ca6d65e1421714921de7d772a4bab942"
+metafile = true
+
+[[files]]
+file = "mods/terra-curio.pw.toml"
+hash = "15727d2064147d1f48a6b96cc8dd636f7fab35d14cad052868398e22e8674cf0"
+metafile = true
+
+[[files]]
+file = "mods/terra-reworked.pw.toml"
+hash = "dc02253d7ffbefcfacd6cc22c6e881df2c877ecfaea8173cfe8601abf49261d1"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "7c91353c41e3cd05e1479fd747cd26b19605c561350d38510081e7a9ea447e30"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "7805706977f8d85f2cc0263e61add6a7db77a8d2863017442a97696394b6b5ef"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness-forge-updated-fork.pw.toml"
+hash = "38d078c6296a780e038a727b5a2238cc1da6554ff6d68f2b40f95c9fc68031c8"
+metafile = true
+
+[[files]]
+file = "mods/truly-modular-archery.pw.toml"
+hash = "cb797dbd751f62ffe3db97547a03ce61808e6b654678a360a510538979b7bc1a"
+metafile = true
+
+[[files]]
+file = "mods/truly-modular-armory.pw.toml"
+hash = "57d9e0001574d030b828aa012328f1845766443496873f9b98f2a54507b2efb1"
+metafile = true
+
+[[files]]
+file = "mods/truly-modular-arsenal.pw.toml"
+hash = "02686cec79332918566b3b40b9f118de136d0c78a682e3965939af9cfc4b087b"
+metafile = true
+
+[[files]]
+file = "mods/visuality-reforged.pw.toml"
+hash = "40f013d1d925827f6222610a6a1d55212523850a37bff3652c3f6ee03e11c713"
+metafile = true
+
+[[files]]
+file = "mods/void-fog.pw.toml"
+hash = "0d284ef008bbf6b1218fa4b12a22df0b07a5eae386ef66d78edfff5773334697"
+metafile = true
+
+[[files]]
+file = "mods/world-preview.pw.toml"
+hash = "6762b5574ecf6089b26ff5f586eaa6aa611dff55a720faf24f16c39d260b542f"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "809559b75ec293fcb3a6554eda28b5ac32d228e32479d5322b1581b1edf8aac2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/surens-ftb-quests.pw.toml"
+hash = "3a889f2c270fab5c6971b0b5ca021b0d20a072c886d39d2c165b8cac358defd1"
+metafile = true

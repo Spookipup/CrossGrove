@@ -1,0 +1,9 @@
+{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/dry_wild_highlands",
+                       "required":  false
+                   }
+               ]
+}

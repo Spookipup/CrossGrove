@@ -1,0 +1,33 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_base",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_base_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_pit",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_pit_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/deep_dark",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/dripstone_caves",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/lush_caves",
+                       "required":  false
+                   }
+               ]
+}

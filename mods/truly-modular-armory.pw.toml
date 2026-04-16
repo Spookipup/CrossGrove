@@ -1,0 +1,15 @@
+filename = 'Truly-Modular-armory-armory-forge-1.13-1.20.1.jar'
+name = 'Truly Modular: Armory'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Truly Modular - Armory v1.13-1.20.1'
+
+[download]
+hash = '8a3c87229ac7e7478fcff4481b660d3589c63010'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+[update.curseforge]
+file-id = 7663953
+project-id = 929840

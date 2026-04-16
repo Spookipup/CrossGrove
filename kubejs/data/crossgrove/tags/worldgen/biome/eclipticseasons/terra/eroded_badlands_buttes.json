@@ -1,0 +1,9 @@
+{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/eroded_badlands_buttes",
+                       "required":  false
+                   }
+               ]
+}

@@ -1,0 +1,15 @@
+filename = 'spookis-unique-mobs-0.9.0+1.20.1+forge.jar'
+name = "Spooki's Unique Mobs"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'spookis-unique-mobs-0.9.0+1.20.1+forge.jar'
+
+[download]
+hash = 'fdb755b5c4f0b8b6dd01258530c13883c7ecb8f7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+[update.curseforge]
+file-id = 7923748
+project-id = 1494969

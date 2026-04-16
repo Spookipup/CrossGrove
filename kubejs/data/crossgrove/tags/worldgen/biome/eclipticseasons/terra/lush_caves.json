@@ -1,0 +1,9 @@
+{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/lush_caves",
+                       "required":  false
+                   }
+               ]
+}

@@ -1,0 +1,9 @@
+{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/snowy_eroded_terraced_mountains",
+                       "required":  false
+                   }
+               ]
+}

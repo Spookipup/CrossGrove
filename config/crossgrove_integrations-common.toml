@@ -1,0 +1,53 @@
+
+[gtceuHeatBridge]
+	#Enables Crossroads heat capability attachment on selected GregTech CEu machines.
+	enabled = true
+	#Exact GTCEu block IDs that should expose Crossroads heat, for example gtceu:lv_electric_furnace.
+	enabledBlocks = []
+	#GTCEu block path suffixes that should expose Crossroads heat. This keeps tiered machines selectable without listing every voltage tier.
+	enabledPathSuffixes = ["_electric_furnace", "_alloy_smelter", "_arc_furnace", "_fluid_heater", "_thermal_centrifuge"]
+	#Exact GTCEu block IDs that should never expose Crossroads heat, even if matched by a suffix.
+	disabledBlocks = []
+	#Fallback initial temperature in degrees Celsius when biome temperature cannot be read.
+	#Range: -273.0 ~ 1000000.0
+	fallbackAmbientTemperatureC = 20.0
+	#Multiplier applied to incoming heat changes. 1 behaves like a small Crossroads heat machine; 200 behaves like a heat reservoir.
+	#Range: 1.0 ~ 1000000.0
+	thermalMass = 50.0
+	#Fraction of the temperature difference between a GTCEu machine and biome ambient moved per tick. Crossroads heat cables still do the real heat transport; this only prevents orphaned machines from staying hot forever.
+	#Range: 0.0 ~ 1.0
+	passiveCoolingRate = 5.0E-4
+	#Base Crossroads heat added to a running GTCEu machine per recipe EU/t per tick before machine profile multipliers.
+	#Range: 0.0 ~ 10.0
+	wasteHeatPerEUt = 3.5E-4
+	#Minimum Crossroads heat generated per tick by a running selected GTCEu machine.
+	#Range: 0.0 ~ 1000.0
+	minimumActiveWasteHeat = 250.0
+	#Default safe operating temperature in degrees Celsius for selected GTCEu machines.
+	#Range: -273.0 ~ 1000000.0
+	safeTemperatureC = 800.0
+	#Default temperature in degrees Celsius where selected GTCEu machines are heat-suspended until they cool below the safe temperature.
+	#Range: -273.0 ~ 1000000.0
+	dangerTemperatureC = 1200.0
+	#Exact GTCEu block IDs treated as high-temperature machines. These get larger safe/danger ranges so GregTech's existing coil/blast temperature mechanics remain dominant.
+	highTemperatureBlocks = ["gtceu:electric_blast_furnace", "gtceu:alloy_blast_smelter"]
+	#Safe operating temperature in degrees Celsius for high-temperature GTCEu machines.
+	#Range: -273.0 ~ 1000000.0
+	highTemperatureSafeTemperatureC = 1800.0
+	#Heat-suspension temperature in degrees Celsius for high-temperature GTCEu machines.
+	#Range: -273.0 ~ 1000000.0
+	highTemperatureDangerTemperatureC = 2400.0
+
+[lsoCrossroadsHeatBridge]
+	#Lets Legendary Survival Overhaul's nearby block temperature scan use live Crossroads heat capability temperatures.
+	enabled = true
+	#Crossroads heat within this many degrees Celsius of biome ambient has no LSO temperature influence.
+	#Range: 0.0 ~ 1000000.0
+	ambientDeadbandC = 5.0
+	#Maximum positive LSO temperature influence from a very hot Crossroads heat source. LSO uses 10 for campfires and 12.5 for lava.
+	#Range: 0.0 ~ 1000.0
+	maximumHeatInfluence = 12.5
+	#Maximum negative LSO temperature influence magnitude from a very cold Crossroads heat source.
+	#Range: 0.0 ~ 1000.0
+	maximumColdInfluence = 12.5
+

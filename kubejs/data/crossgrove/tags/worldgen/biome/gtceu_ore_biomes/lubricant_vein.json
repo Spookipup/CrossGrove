@@ -1,0 +1,81 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/bamboo_jungle",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/bamboo_jungle_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/bamboo_ponds",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/frozen_marsh",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/frozen_wetlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/jungle",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/jungle_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mangrove_swamp",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/marsh",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_coast",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_fields",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/palm_forest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rainforest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rocky_wetlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/sandstone_wetlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/swamp",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/wetlands",
+                       "required":  false
+                   }
+               ]
+}

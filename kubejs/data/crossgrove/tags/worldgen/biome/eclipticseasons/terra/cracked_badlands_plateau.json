@@ -1,0 +1,9 @@
+{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/cracked_badlands_plateau",
+                       "required":  false
+                   }
+               ]
+}

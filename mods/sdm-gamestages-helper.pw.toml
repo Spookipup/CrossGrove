@@ -1,0 +1,15 @@
+filename = 'sdmgamestageshelper-1.20.1-1.1.0.jar'
+name = 'SDM GameStages Helper'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'sdmgamestageshelper-1.20.1-1.1.0.jar'
+
+[download]
+hash = '1c51e302b59d82c7c3c6bb04938d81fdb15fe083'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+[update.curseforge]
+file-id = 5646993
+project-id = 1087504

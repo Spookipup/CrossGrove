@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "port": 7903,
+  "validator": {
+    "type": "false"
+  }
+}

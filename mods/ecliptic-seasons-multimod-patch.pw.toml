@@ -1,0 +1,15 @@
+filename = 'Ecliptic-Seasons-MultiMod-Patch-1.20.1-forge-0.27.3.1-all.jar'
+name = 'Ecliptic Seasons: MultiMod Patch'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Ecliptic-Seasons-MultiMod-Patch-1.20.1-forge-0.27.3.1-all.jar'
+
+[download]
+hash = '22fde28e8b4fbbf0810a3788a25bad6f796ca0b6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+[update.curseforge]
+file-id = 7862907
+project-id = 1316748

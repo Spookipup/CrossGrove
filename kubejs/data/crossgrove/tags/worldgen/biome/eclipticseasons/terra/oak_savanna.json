@@ -1,0 +1,9 @@
+{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/oak_savanna",
+                       "required":  false
+                   }
+               ]
+}

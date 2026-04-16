@@ -1,0 +1,141 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/deep_dark",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/dripstone_caves",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/dry_rocky_bumpy_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/dry_temperate_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/dry_temperate_mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/dry_temperate_white_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/dry_temperate_white_mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/evergreen_overhangs",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/flowering_flats",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/flowering_forest",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/flowering_forest_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/highlands",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/ice_spikes",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/large_monsoon_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/monsoon_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_coast",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_fields",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/mushroom_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/rocky_bumpy_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/sakura_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_eroded_terraced_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_eroded_terraced_mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_terraced_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_terraced_mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/temperate_alpha_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/temperate_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/temperate_mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/tundra_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/wild_bumpy_mountains",
+                       "required":  false
+                   }
+               ]
+}

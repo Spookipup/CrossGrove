@@ -1,0 +1,17 @@
+# Exclude IDE files
+/.idea/
+
+# Exclude exported CurseForge zip files
+/*.zip
+
+# Exclude exported Modrinth modpacks
+/*.mrpack
+
+# Exclude local helper scripts
+*.bat
+
+# Exclude runtime-generated Terra addon binaries
+/config/Terra/addons/**/*.jar
+
+# Exclude local Spark profiler data
+/config/spark/

@@ -1,0 +1,73 @@
+﻿{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_base",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_base_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_pit",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/active_volcano_pit_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_base",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_base_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_pit",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/caldera_volcano_pit_edge",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/ice_spikes",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_eroded_terraced_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_eroded_terraced_mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_terraced_mountains",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/snowy_terraced_mountains_river",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/tundra_hills",
+                       "required":  false
+                   },
+                   {
+                       "id":  "terra:overworld/overworld/yellowstone",
+                       "required":  false
+                   }
+               ]
+}

@@ -1,0 +1,13 @@
+name = "Terra Reworked"
+filename = "Terra-fabric-6.3.1-BETA+73baaec6c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5758dc0c04555482c74f405b4b19b0ce8ea3e5fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6580676
+project-id = 1274169

@@ -1,0 +1,15 @@
+filename = 'legendarysurvivaloverhaul-1.20.1-2.4.2.jar'
+name = 'Legendary Survival Overhaul'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'legendarysurvivaloverhaul-1.20.1-2.4.2.jar'
+
+[download]
+hash = '4804ac32c47cf98bd1e6ae7146cacc14503ec757'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+[update.curseforge]
+file-id = 7603852
+project-id = 840254

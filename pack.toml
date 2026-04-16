@@ -1,0 +1,13 @@
+name = "CrossGrove"
+author = "Spookipup"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "694727eb0acce81bf3a764eff6c5b140dd7fef797be022c26aa710b4502fa904"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

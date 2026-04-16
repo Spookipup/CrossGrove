@@ -1,0 +1,15 @@
+filename = 'DefaultWorldType-1.20.1-4.0.5.jar'
+name = 'Default World Type [Forge]'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'DefaultWorldType-1.20.1-4.0.5.jar'
+
+[download]
+hash = 'cfb8834b6d3d6f2103d846e18f4788fb38911839'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+[update.curseforge]
+file-id = 7425981
+project-id = 373014

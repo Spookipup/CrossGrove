@@ -1,0 +1,15 @@
+filename = 'sdmmobstages-1.20.1-1.0.1.jar'
+name = 'SDM Mob Stages'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'sdmmobstages-1.20.1-1.0.1.jar'
+
+[download]
+hash = 'ea12eeb3b396bd4f5ea1766c3790dc9bd94d08fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+[update.curseforge]
+file-id = 5774802
+project-id = 873965

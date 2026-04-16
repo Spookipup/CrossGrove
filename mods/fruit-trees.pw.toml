@@ -1,0 +1,15 @@
+filename = 'FruitfulFun-1.20.1-Forge-7.8.5.jar'
+name = 'Fruitful Fun 🍊'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[Forge 1.20.1] 7.8.5'
+
+[download]
+hash = '178df946361705b012a595906b595e85b9f3d7db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+[update.curseforge]
+file-id = 7372142
+project-id = 355467

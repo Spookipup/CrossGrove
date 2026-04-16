@@ -1,0 +1,15 @@
+filename = 'Suren FTB Quests 1.0.1 1.20-1.20.1.zip'
+name = "Suren's FTB Quests"
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Suren FTB Quests 1.0.1 1.20-1.20.1.zip'
+
+[download]
+hash = '0973dd7622596f245fb508113944d0a47555d216'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+[update.curseforge]
+file-id = 6385068
+project-id = 1235013

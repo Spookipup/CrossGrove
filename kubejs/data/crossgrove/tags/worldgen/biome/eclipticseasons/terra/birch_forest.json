@@ -1,0 +1,9 @@
+{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/birch_forest",
+                       "required":  false
+                   }
+               ]
+}

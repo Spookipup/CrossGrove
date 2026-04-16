@@ -1,0 +1,9 @@
+{
+    "replace":  false,
+    "values":  [
+                   {
+                       "id":  "terra:overworld/overworld/ice_spikes",
+                       "required":  false
+                   }
+               ]
+}
