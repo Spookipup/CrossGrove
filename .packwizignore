@@ -11,3 +11,9 @@
 
 # Exclude local Spark profiler data
 /config/spark/
+
+liveupdate.sh
+packpath.env
+/.vscode
+/kubejs/jsconfig.json
+/kubejs/probe
