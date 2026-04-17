@@ -38,7 +38,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "23159b1ed8215bf862ac954057c7d969bb2579cca29222ef09634f6dba5b8f56"
+hash = "94103692dfe412bed31cdf0e9f8ec828efdd27bb01e8929ccab1d0881184b01a"
 
 [[files]]
 file = "config/appleskin-client.toml"
@@ -429,34 +429,6 @@ file = "config/pickupnotifier/pickupnotifier-server.toml"
 hash = "6e18bfa2ec02629937474e436f3f44fb67d54fd6e6b47a7c9b4c5b3a3bd83916"
 
 [[files]]
-file = "config/pneumaticcraft-client.toml"
-hash = "5bf93a3e928906316ed4c2538e333b496ad61bbdc140a9cc6c7c1b4630465c97"
-
-[[files]]
-file = "config/pneumaticcraft-common.toml"
-hash = "0b37929f809fccf155bc3e2ca9624a02c67e489906ab76113b7f6ee0a34d9b85"
-
-[[files]]
-file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
-hash = "3260c358de448f81835cefd85f2da6a53e4bdcd2be2451c04c0a163e2c0e20be"
-
-[[files]]
-file = "config/pneumaticcraft/MicromissileDefaults.cfg"
-hash = "cf52b07316b17e5217bcd9983b8b5060683d0fe0ed26376e41011bf40e3ea997"
-
-[[files]]
-file = "config/pneumaticcraft/PneumaticArmorHUDLayout.cfg"
-hash = "052d37ccd8ea50a41b1313430b3b85690ae130e6fde53c1c4902ab40e51afb4f"
-
-[[files]]
-file = "config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg"
-hash = "dbf7e597284cb34c451872fadf82fbeb705e4d66d8e17ac358b5cc10cfb7a321"
-
-[[files]]
-file = "config/pneumaticcraft/thirdparty.cfg"
-hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
-
-[[files]]
 file = "config/ponder-client.toml"
 hash = "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8"
 
@@ -602,7 +574,7 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "kubejs/client_scripts/crossgrove/jei.js"
-hash = "24c2e89540e4c2d4ce51307b87fa2b60d503954f64b72d406429907f9901499f"
+hash = "5338c15c9043d110192897455a8e02a3cd513301bf25def6111e22964b6124e1"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1997,10 +1969,6 @@ file = "kubejs/data/eclipticseasons/eclipticseasons/biome_climate_setting/terra_
 hash = "5905dc930fb9c6c3d3351c217c45cab18188e845a92660624f4e2eb37f5c223e"
 
 [[files]]
-file = "kubejs/data/forge/tags/fluids/crude_oil.json"
-hash = "83ba348c14bd76368ca435b50b47762427cc53d25aae63c36baf9c9247c4c5ce"
-
-[[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/valid_spawn.json"
 hash = "a2f4acad514b25d5cb20252d0b6e157585b12a606cd7c7d88de0aa2753ec7c41"
 
@@ -2009,20 +1977,28 @@ file = "kubejs/data/minecraft/worldgen/structure_set/villages.json"
 hash = "c454e64a5a24e6c0f8973d49e11230d96b8c14ca98c5a2a3da9fd0634c841eb5"
 
 [[files]]
-file = "kubejs/data/pneumaticcraft/tags/worldgen/biome/has_surface_oil_lakes.json"
-hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
-
-[[files]]
-file = "kubejs/data/pneumaticcraft/tags/worldgen/biome/has_underground_oil_lakes.json"
-hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
-
-[[files]]
 file = "kubejs/server_scripts/crossgrove/botania.js"
-hash = "517c8be426eba67423065a899d15a46477e6b51b9ff79c32d09d3aeedcac5f49"
+hash = "af4d4d4bed38cba391ea2689a753b5b294abedd0ece22f1fe0873148ce1ba4b8"
 
 [[files]]
 file = "kubejs/server_scripts/crossgrove/crossroads.js"
-hash = "6be33f8fbb9a9054243f168257b79f42463c52c606cd7f2ae44e613b9a478ea8"
+hash = "aaaca94883335be4b11546fe79b7e7d869edb38f403908895f373fedc9b13962"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/crossroads_deferred_gates.js"
+hash = "22ef2d9347774bef55de972b1ba838b1649f86c85ce7b092de7c25dc451428a7"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/early_game_gates.js"
+hash = "6ecac96f114231e9ac2c5b630883650020989d240c92180ab57393067ce3aa26"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/essentials_gates.js"
+hash = "1fa8431db089886959c2ffab6d8ec2e80a416cbb947778aec076ac36a9fcfdbb"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/gtceu_recipe_removals.js"
+hash = "f86b67bfe2bffc9d54c992dfcf96980dfe83775c72b1d7bc78ce64a2e7ed7803"
 
 [[files]]
 file = "kubejs/server_scripts/crossgrove/gtceu_terra_ore_biomes.js"
@@ -2033,16 +2009,24 @@ file = "kubejs/server_scripts/crossgrove/legendary_survival_overhaul.js"
 hash = "b12728aee2a0d08993111c0a0c23b01b42d77b67cbd9469e5f482a344b1b17b4"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/mystical_agriculture.js"
-hash = "4cabd883632e1c555da0c809fac0e0755d792b40d5a04c503546d940ad9b4d06"
+file = "kubejs/server_scripts/crossgrove/metal_form_foundation.js"
+hash = "ae1fa11f26da72c9891e78e85e6abe39f1ca124cdbcb2808ad38d0221fc3b0cc"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/pneumaticcraft.js"
-hash = "f85072e0cbee54e1025aea7ee83b48ca3946680920afb7bd7a0a932e99414199"
+file = "kubejs/server_scripts/crossgrove/mystical_agriculture.js"
+hash = "f6b79e75de14b06b4e65457ae4e37a88508779bf4c742c4c96675f5316e9f638"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/overgeared.js"
+hash = "919e91068d56c2f92284f275de2dab55e3923f7498f8e4b8e9995bfff775786a"
 
 [[files]]
 file = "kubejs/server_scripts/crossgrove/stone_age_recipes.js"
 hash = "f00e2ca3c8693d84ea586f60613d8e61d6d1a1d1707eea92dea2bd5091f980f4"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/storage_utility_gates.js"
+hash = "941b3a17879a3bd7c76e6843f72a71e53556d5ef61c8c189209fd4975e5dbde2"
 
 [[files]]
 file = "kubejs/server_scripts/crossgrove/survival_age_recipes.js"
@@ -2154,8 +2138,13 @@ hash = "1234c07a619f398197e0bc22e3762b4c38f12ac8fd06c36da4af9682586dfb30"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "c456c308a2d698a8aa9d7318cfb4705a99a773ffcae775af60c659b605b39d87"
+metafile = true
+
+[[files]]
 file = "mods/crossgrove_integrations-1.0.0.jar"
-hash = "66b85d433de6248630304d290e08c8d50cef4ba27664c26f7af985ab6fa2eef6"
+hash = "ccb6066ceea45647e3db386fc4fce46d3fb557c4510adae7bcc5368ae4a77ffc"
 
 [[files]]
 file = "mods/crossroads-mc.pw.toml"
@@ -2318,6 +2307,11 @@ hash = "1ed4527abecd86f95f27feaeb8d142c39e11a47e253fa17b0427f489591ba47f"
 metafile = true
 
 [[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "947f0da0d152cbf818540cf743a9b01f2d85d880798d0f5f126736e42af3429f"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e796a05acce8f5ca79e8656af707b2454daaac264e9d413dc7a5a9e7c00db483"
 metafile = true
@@ -2368,6 +2362,11 @@ hash = "9030bff510fa410bbbb7d1fa196fd6c8fec838d68bdbd4007aa01d7d81117d59"
 metafile = true
 
 [[files]]
+file = "mods/little-logistics.pw.toml"
+hash = "d96ffbfb771b81f3c66e67f10479e27b43896b070ef3e78d5e3f8a6c6f3085cf"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "0479d788a06a41d0f139040dbac1858d3fad4cdc21c00342bb6f5dd202f3c349"
 metafile = true
@@ -2413,6 +2412,11 @@ hash = "70bd5b5295bac8d0a50f91bccac09b84108f43f4cb824f3e0799d1022e7b1cef"
 metafile = true
 
 [[files]]
+file = "mods/overgeared.pw.toml"
+hash = "da87da9807d486b2adf78758eb8d241b37852798e981f0a38e7352f8e13c09a9"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "a1c37e7980d56959dc7c8a92e03139c56f162d2cd068ad3e094abe1748ac4904"
 metafile = true
@@ -2435,11 +2439,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "3e55c5a42f506101d890eadeb82ec2bae4b16bb7441ac23becfecea9c8d0e699"
-metafile = true
-
-[[files]]
-file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "c46acf1b56cff0ae0236be1f383536f223e024202c114d2e0bcf59405cb3a1f0"
 metafile = true
 
 [[files]]

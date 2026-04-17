@@ -1,6 +1,9 @@
 # Exclude IDE files
 /.idea/
 
+# Exclude local scratch/build output
+/build/
+
 # Exclude exported CurseForge zip files
 /*.zip
 

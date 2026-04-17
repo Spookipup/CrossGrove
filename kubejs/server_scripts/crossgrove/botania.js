@@ -34,6 +34,18 @@ ServerEvents.recipes(event => {
     }).id('crossgrove:botania/elven_trade/' + id)
   }
 
+  event.remove({ id: /^botania:apothecary_.+/ })
+
+  event.shaped('botania:apothecary_default', [
+    'CPC',
+    'CGC',
+    'CCC'
+  ], {
+    C: '#forge:cobblestone',
+    P: '#botania:petals',
+    G: 'gtceu:lv_electric_pump'
+  }).id('crossgrove:botania/apothecary_default_lv_pump')
+
   event.remove({ id: 'botania:petal_apothecary/orechid' })
   event.remove({ id: 'botania:petal_apothecary/orechid_ignem' })
 
