@@ -581,6 +581,10 @@ file = "kubejs/client_scripts/crossgrove/jei.js"
 hash = "2c0e782792304c774fd87e96fd3c23bc8da0e3c50d97b19f7535b1e3665e2511"
 
 [[files]]
+file = "kubejs/client_scripts/crossgrove/test_ponder.ts"
+hash = "d5bc58c521786733554c28940d201fa82a3b39c07d5a444130779ad862f84c10"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "51bb706bac0849579980a3db3a52462913e2dab64668b3c8c6996740ec0385fb"
 
