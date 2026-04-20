@@ -1,18 +1,5 @@
 // priority: 850
 
-var CG_DRAWER_WOODS = [
-  'oak',
-  'spruce',
-  'birch',
-  'jungle',
-  'acacia',
-  'dark_oak',
-  'mangrove',
-  'cherry',
-  'crimson',
-  'warped'
-]
-
 var CG_FUNCTIONAL_STORAGE_LOCKED_ITEMS = [
   'functionalstorage:storage_controller',
   'functionalstorage:controller_extension',
@@ -59,8 +46,8 @@ ServerEvents.recipes(event => {
   event.remove({ id: /^functionalstorage:.+/ })
   event.remove({ id: /^rubberdrawers:.+/ })
 
-  CG_DRAWER_WOODS.forEach(wood => {
-    var plank = 'minecraft:' + wood + '_planks'
+  CG_VANILLA_WOOD_TYPES.forEach(wood => {
+    var plank = cgWoodPlanks(wood)
 
     event.shaped(cgDrawerOutput(wood, 1, 1), [
       'PWP',

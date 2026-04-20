@@ -5,6 +5,7 @@ ServerEvents.recipes(event => {
   event.remove({ id: /^crossroads:base_materials\/(bronze|tin|raw_tin|copper|copshowium).+/ })
   event.remove({ id: /^crossroads:(smelting|blasting)\/(clump|dust|gravel)_(copper|gold|iron|tin)$/ })
   event.remove({ id: /^crossroads:(smelting|blasting)\/(raw_tin|tin_ore|copper_ore)$/ })
+  event.remove({ id: /^crossroads:mill\/(raw|ingot|ore)_(copper|gold|iron|tin)$/ })
 
   // These pieces need authored gates or replacement machines before beta.
   event.remove({ id: 'crossroads:dynamo' })

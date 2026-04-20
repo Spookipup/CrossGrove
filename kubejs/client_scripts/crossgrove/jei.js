@@ -78,6 +78,29 @@ JEIEvents.hideItems(event => {
     'overgeared:heated_steel_ingot',
     'overgeared:netherite_alloy',
     'overgeared:heated_netherite_alloy',
+    'overgeared:copper_smithing_hammer',
+    'overgeared:smithing_hammer',
+    'overgeared:copper_axe',
+    'overgeared:copper_axe_head',
+    'overgeared:copper_hammer_head',
+    'overgeared:copper_hoe',
+    'overgeared:copper_hoe_head',
+    'overgeared:copper_pickaxe',
+    'overgeared:copper_pickaxe_head',
+    'overgeared:copper_shovel',
+    'overgeared:copper_shovel_head',
+    'overgeared:copper_sword',
+    'overgeared:copper_sword_blade',
+    'overgeared:iron_axe_head',
+    'overgeared:iron_hoe_head',
+    'overgeared:iron_pickaxe_head',
+    'overgeared:iron_shovel_head',
+    'overgeared:iron_sword_blade',
+    'overgeared:golden_axe_head',
+    'overgeared:golden_hoe_head',
+    'overgeared:golden_pickaxe_head',
+    'overgeared:golden_shovel_head',
+    'overgeared:golden_sword_blade',
     'overgeared:steel_arrow',
     'overgeared:steel_arrow_head',
     'overgeared:steel_axe',
@@ -108,6 +131,17 @@ JEIEvents.hideItems(event => {
     'survivalistessentials:basic_saw_blade',
     'survivalistessentials:sharp_saw',
     'survivalistessentials:sharp_saw_blade'
+  ]
+
+  var hiddenFlintToolItems = [
+    'farmersdelight:flint_knife',
+    'gtceu:flint_pickaxe',
+    'gtceu:flint_shovel',
+    'gtceu:flint_axe',
+    'gtceu:flint_sword',
+    'gtceu:flint_knife',
+    'gtceu:flint_hoe',
+    'gtceu:flint_mortar'
   ]
 
   var hiddenScannableItems = [
@@ -205,6 +239,51 @@ JEIEvents.hideItems(event => {
     'essentials:fertile_soil_wheat'
   ]
 
+  var hiddenExDeorumSkyblockItems = [
+    'exdeorum:crook',
+    'exdeorum:bone_crook',
+    'exdeorum:wooden_hammer',
+    'exdeorum:stone_hammer',
+    'exdeorum:golden_hammer',
+    'exdeorum:iron_hammer',
+    'exdeorum:diamond_hammer',
+    'exdeorum:netherite_hammer',
+    'exdeorum:compressed_wooden_hammer',
+    'exdeorum:compressed_stone_hammer',
+    'exdeorum:compressed_golden_hammer',
+    'exdeorum:compressed_iron_hammer',
+    'exdeorum:compressed_diamond_hammer',
+    'exdeorum:compressed_netherite_hammer',
+    'exdeorum:iron_mesh',
+    'exdeorum:golden_mesh',
+    'exdeorum:diamond_mesh',
+    'exdeorum:netherite_mesh',
+    'exdeorum:unfired_porcelain_bucket',
+    'exdeorum:porcelain_bucket',
+    'exdeorum:porcelain_water_bucket',
+    'exdeorum:porcelain_lava_bucket',
+    'exdeorum:porcelain_milk_bucket',
+    'exdeorum:porcelain_witch_water_bucket',
+    'exdeorum:iron_ore_chunk',
+    'exdeorum:copper_ore_chunk',
+    'exdeorum:gold_ore_chunk',
+    'exdeorum:aluminum_ore_chunk',
+    'exdeorum:cobalt_ore_chunk',
+    'exdeorum:silver_ore_chunk',
+    'exdeorum:lead_ore_chunk',
+    'exdeorum:platinum_ore_chunk',
+    'exdeorum:nickel_ore_chunk',
+    'exdeorum:uranium_ore_chunk',
+    'exdeorum:osmium_ore_chunk',
+    'exdeorum:tin_ore_chunk',
+    'exdeorum:zinc_ore_chunk',
+    'exdeorum:iridium_ore_chunk',
+    'exdeorum:thorium_ore_chunk',
+    'exdeorum:magnesium_ore_chunk',
+    'exdeorum:lithium_ore_chunk',
+    'exdeorum:boron_ore_chunk'
+  ]
+
   hiddenGtMachines.forEach(item => {
     event.hide(item)
   })
@@ -217,6 +296,10 @@ JEIEvents.hideItems(event => {
     event.hide(item)
   })
 
+  hiddenFlintToolItems.forEach(item => {
+    event.hide(item)
+  })
+
   hiddenScannableItems.forEach(item => {
     event.hide(item)
   })
@@ -226,6 +309,10 @@ JEIEvents.hideItems(event => {
   })
 
   hiddenEssentialsAutomationItems.forEach(item => {
+    event.hide(item)
+  })
+
+  hiddenExDeorumSkyblockItems.forEach(item => {
     event.hide(item)
   })
 })

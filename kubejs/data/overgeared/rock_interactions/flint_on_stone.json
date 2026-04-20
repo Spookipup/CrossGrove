@@ -1,0 +1,12 @@
+{
+  "input_block": "minecraft:stone",
+  "result_block": "minecraft:cobblestone",
+  "tools": [
+    {
+      "tag": "survivalistessentials:knife_tools",
+      "drop_item": "overgeared:knappable_rock",
+      "drop_chance": 0.6,
+      "break_chance": 0.2
+    }
+  ]
+}

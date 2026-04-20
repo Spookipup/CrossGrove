@@ -1,20 +1,6 @@
 // priority: 0
 
 ServerEvents.recipes(event => {
-  var vanillaWoodTypes = [
-    'oak',
-    'spruce',
-    'birch',
-    'jungle',
-    'acacia',
-    'dark_oak',
-    'mangrove',
-    'cherry',
-    'crimson',
-    'warped',
-    'bamboo'
-  ]
-
   event.remove({ id: 'farmersdelight:cooking_pot' })
   event.shaped('farmersdelight:cooking_pot', [
     'BSB',
@@ -49,7 +35,7 @@ ServerEvents.recipes(event => {
     T: 'minecraft:stick'
   }).id('crossgrove:age_1/stone/farmersdelight_skillet')
 
-  vanillaWoodTypes.forEach(wood => {
+  CG_WOOD_TYPES_WITH_BAMBOO.forEach(wood => {
     event.remove({ id: 'farmersdelight:' + wood + '_cabinet' })
     event.shaped('farmersdelight:' + wood + '_cabinet', [
       'PSP',

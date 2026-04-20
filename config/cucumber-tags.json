@@ -19,7 +19,7 @@
   "forge:dusts/niter": "null",
   "forge:ingots/uranium": "gtceu:uranium_ingot",
   "forge:ingots/constantan": "null",
-  "forge:ingots/tin": "crossroads:ingot_tin",
+  "forge:ingots/tin": "gtceu:tin_ingot",
   "forge:ingots/iridium": "gtceu:iridium_ingot",
   "forge:gems/apatite": "gtceu:apatite_gem",
   "forge:gems/ruby": "crossroads:gem_ruby",

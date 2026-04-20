@@ -1,74 +1,18 @@
 // priority: 0
 
 ServerEvents.recipes(event => {
-  var plankRecipes = [
-    {
-      id: 'oak',
-      input: '#minecraft:oak_logs',
-      output: '4x minecraft:oak_planks'
-    },
-    {
-      id: 'spruce',
-      input: '#minecraft:spruce_logs',
-      output: '4x minecraft:spruce_planks'
-    },
-    {
-      id: 'birch',
-      input: '#minecraft:birch_logs',
-      output: '4x minecraft:birch_planks'
-    },
-    {
-      id: 'jungle',
-      input: '#minecraft:jungle_logs',
-      output: '4x minecraft:jungle_planks'
-    },
-    {
-      id: 'acacia',
-      input: '#minecraft:acacia_logs',
-      output: '4x minecraft:acacia_planks'
-    },
-    {
-      id: 'dark_oak',
-      input: '#minecraft:dark_oak_logs',
-      output: '4x minecraft:dark_oak_planks'
-    },
-    {
-      id: 'mangrove',
-      input: '#minecraft:mangrove_logs',
-      output: '4x minecraft:mangrove_planks'
-    },
-    {
-      id: 'cherry',
-      input: '#minecraft:cherry_logs',
-      output: '4x minecraft:cherry_planks'
-    },
-    {
-      id: 'crimson',
-      input: '#minecraft:crimson_stems',
-      output: '4x minecraft:crimson_planks'
-    },
-    {
-      id: 'warped',
-      input: '#minecraft:warped_stems',
-      output: '4x minecraft:warped_planks'
-    },
-    {
-      id: 'bamboo',
-      input: '#minecraft:bamboo_blocks',
-      output: '2x minecraft:bamboo_planks'
-    }
-  ]
+  CG_WOOD_TYPES_WITH_BAMBOO.forEach(wood => {
+    var plankCount = wood === 'bamboo' ? 2 : 4
 
-  plankRecipes.forEach(recipe => {
-    event.remove({ id: 'minecraft:' + recipe.id + '_planks' })
-    event.remove({ id: 'survivalistessentials:minecraft_' + recipe.id + '_planks' })
-    event.shaped(recipe.output, [
+    event.remove({ id: 'minecraft:' + wood + '_planks' })
+    event.remove({ id: 'survivalistessentials:minecraft_' + wood + '_planks' })
+    event.shaped(plankCount + 'x ' + cgWoodPlanks(wood), [
       'S',
       'L'
     ], {
-      L: recipe.input,
+      L: cgWoodLogTag(wood),
       S: 'survivalistessentials:crude_saw'
-    }).id('crossgrove:age_0/survival/' + recipe.id + '_planks_from_crude_saw')
+    }).id('crossgrove:age_0/survival/' + wood + '_planks_from_crude_saw')
   })
 
   var removedSurvivalistSawItems = [
@@ -79,6 +23,22 @@ ServerEvents.recipes(event => {
   ]
 
   removedSurvivalistSawItems.forEach(item => {
+    event.remove({ output: item })
+    event.remove({ input: item })
+  })
+
+  var removedFlintToolItems = [
+    'farmersdelight:flint_knife',
+    'gtceu:flint_pickaxe',
+    'gtceu:flint_shovel',
+    'gtceu:flint_axe',
+    'gtceu:flint_sword',
+    'gtceu:flint_knife',
+    'gtceu:flint_hoe',
+    'gtceu:flint_mortar'
+  ]
+
+  removedFlintToolItems.forEach(item => {
     event.remove({ output: item })
     event.remove({ input: item })
   })
@@ -114,14 +74,6 @@ ServerEvents.recipes(event => {
     K: 'survivalistessentials:crude_knife',
     B: 'gtceu:wood_bolt'
   }).id('crossgrove:age_0/survival/wood_screw_from_crude_knife')
-
-  event.shaped('gtceu:wood_screw', [
-    'KB',
-    'B '
-  ], {
-    K: 'farmersdelight:flint_knife',
-    B: 'gtceu:wood_bolt'
-  }).id('crossgrove:age_0/survival/wood_screw_from_flint_knife')
 
   event.remove({ output: 'minecraft:chest' })
   event.shaped('minecraft:chest', [
@@ -224,19 +176,49 @@ ServerEvents.recipes(event => {
 })
 
 ServerEvents.tags('item', event => {
-  event.add('crossgrove:raw_wood_planks', [
-    'minecraft:oak_planks',
-    'minecraft:spruce_planks',
-    'minecraft:birch_planks',
-    'minecraft:jungle_planks',
-    'minecraft:acacia_planks',
-    'minecraft:dark_oak_planks',
-    'minecraft:mangrove_planks',
-    'minecraft:cherry_planks',
-    'minecraft:crimson_planks',
-    'minecraft:warped_planks',
-    'minecraft:bamboo_planks'
+  event.add('crossgrove:raw_wood_planks', CG_WOOD_TYPES_WITH_BAMBOO.map(cgWoodPlanks))
+
+  var removedFlintToolItems = [
+    'farmersdelight:flint_knife',
+    'gtceu:flint_pickaxe',
+    'gtceu:flint_shovel',
+    'gtceu:flint_axe',
+    'gtceu:flint_sword',
+    'gtceu:flint_knife',
+    'gtceu:flint_hoe',
+    'gtceu:flint_mortar'
+  ]
+
+  cgAddAll(event, 'crossgrove:removed/flint_tools', removedFlintToolItems)
+
+  event.remove('forge:tools/knives', [
+    'farmersdelight:flint_knife',
+    'gtceu:flint_knife'
   ])
+  event.remove('farmersdelight:tools/knives', [
+    'farmersdelight:flint_knife',
+    'gtceu:flint_knife'
+  ])
+  event.add('forge:tools/knives', 'survivalistessentials:crude_knife')
+  event.add('farmersdelight:tools/knives', 'survivalistessentials:crude_knife')
+
+  event.remove('minecraft:pickaxes', 'gtceu:flint_pickaxe')
+  event.remove('minecraft:shovels', 'gtceu:flint_shovel')
+  event.remove('minecraft:axes', 'gtceu:flint_axe')
+  event.remove('minecraft:swords', 'gtceu:flint_sword')
+  event.remove('minecraft:hoes', 'gtceu:flint_hoe')
+  event.remove('forge:tools/pickaxes', 'gtceu:flint_pickaxe')
+  event.remove('forge:tools/shovels', 'gtceu:flint_shovel')
+  event.remove('forge:tools/axes', 'gtceu:flint_axe')
+  event.remove('forge:tools/swords', 'gtceu:flint_sword')
+  event.remove('forge:tools/hoes', 'gtceu:flint_hoe')
+  event.remove('gtceu:tools/crafting_pickaxes', 'gtceu:flint_pickaxe')
+  event.remove('gtceu:tools/crafting_shovels', 'gtceu:flint_shovel')
+  event.remove('gtceu:tools/crafting_axes', 'gtceu:flint_axe')
+  event.remove('gtceu:tools/crafting_swords', 'gtceu:flint_sword')
+  event.remove('gtceu:tools/crafting_hoes', 'gtceu:flint_hoe')
+  event.remove('gtceu:tools/crafting_knives', 'gtceu:flint_knife')
+  event.remove('gtceu:tools/crafting_mortars', 'gtceu:flint_mortar')
 
   event.remove('survivalistessentials:advanced_saw_tools', [
     'survivalistessentials:basic_saw',

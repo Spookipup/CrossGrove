@@ -1,14 +1,6 @@
 // priority: 0
 
 ServerEvents.recipes(event => {
-  function item(id) {
-    return { item: id }
-  }
-
-  function tag(id) {
-    return { tag: id }
-  }
-
   function runic(id, output, mana, ingredients, count) {
     event.remove({ id: 'botania:runic_altar/' + id })
 
@@ -162,145 +154,145 @@ ServerEvents.recipes(event => {
   ]).id('crossgrove:botania/pool_minecart')
 
   runic('air', 'botania:rune_air', 6000, [
-    tag('botania:mana_dusts'),
-    tag('botania:manasteel_ingots'),
-    tag('minecraft:wool_carpets'),
-    item('minecraft:feather'),
-    item('minecraft:string'),
-    item('gtceu:basic_electronic_circuit')
+    cgTag('botania:mana_dusts'),
+    cgTag('botania:manasteel_ingots'),
+    cgTag('minecraft:wool_carpets'),
+    cgItem('minecraft:feather'),
+    cgItem('minecraft:string'),
+    cgItem('gtceu:basic_electronic_circuit')
   ], 2)
 
   runic('earth', 'botania:rune_earth', 6000, [
-    tag('botania:mana_dusts'),
-    tag('botania:manasteel_ingots'),
-    item('minecraft:stone'),
-    item('minecraft:coal_block'),
-    [item('minecraft:brown_mushroom'), item('minecraft:red_mushroom')],
-    item('gtceu:basic_electronic_circuit')
+    cgTag('botania:mana_dusts'),
+    cgTag('botania:manasteel_ingots'),
+    cgItem('minecraft:stone'),
+    cgItem('minecraft:coal_block'),
+    [cgItem('minecraft:brown_mushroom'), cgItem('minecraft:red_mushroom')],
+    cgItem('gtceu:basic_electronic_circuit')
   ], 2)
 
   runic('fire', 'botania:rune_fire', 6000, [
-    tag('botania:mana_dusts'),
-    tag('botania:manasteel_ingots'),
-    item('minecraft:nether_brick'),
-    item('minecraft:gunpowder'),
-    item('minecraft:nether_wart'),
-    item('gtceu:basic_electronic_circuit')
+    cgTag('botania:mana_dusts'),
+    cgTag('botania:manasteel_ingots'),
+    cgItem('minecraft:nether_brick'),
+    cgItem('minecraft:gunpowder'),
+    cgItem('minecraft:nether_wart'),
+    cgItem('gtceu:basic_electronic_circuit')
   ], 2)
 
   runic('water', 'botania:rune_water', 6000, [
-    tag('botania:mana_dusts'),
-    tag('botania:manasteel_ingots'),
-    item('minecraft:bone_meal'),
-    item('minecraft:sugar_cane'),
-    item('minecraft:fishing_rod'),
-    item('gtceu:basic_electronic_circuit')
+    cgTag('botania:mana_dusts'),
+    cgTag('botania:manasteel_ingots'),
+    cgItem('minecraft:bone_meal'),
+    cgItem('minecraft:sugar_cane'),
+    cgItem('minecraft:fishing_rod'),
+    cgItem('gtceu:basic_electronic_circuit')
   ], 2)
 
   runic('mana', 'botania:rune_mana', 9000, [
-    tag('botania:manasteel_ingots'),
-    tag('botania:manasteel_ingots'),
-    tag('botania:manasteel_ingots'),
-    tag('botania:manasteel_ingots'),
-    tag('botania:manasteel_ingots'),
-    item('botania:mana_pearl'),
-    item('gtceu:lv_emitter')
+    cgTag('botania:manasteel_ingots'),
+    cgTag('botania:manasteel_ingots'),
+    cgTag('botania:manasteel_ingots'),
+    cgTag('botania:manasteel_ingots'),
+    cgTag('botania:manasteel_ingots'),
+    cgItem('botania:mana_pearl'),
+    cgItem('gtceu:lv_emitter')
   ])
 
   runic('spring', 'botania:rune_spring', 10000, [
-    item('botania:rune_water'),
-    item('botania:rune_fire'),
-    tag('minecraft:saplings'),
-    tag('minecraft:saplings'),
-    tag('minecraft:saplings'),
-    item('minecraft:wheat'),
-    item('gtceu:good_electronic_circuit')
+    cgItem('botania:rune_water'),
+    cgItem('botania:rune_fire'),
+    cgTag('minecraft:saplings'),
+    cgTag('minecraft:saplings'),
+    cgTag('minecraft:saplings'),
+    cgItem('minecraft:wheat'),
+    cgItem('gtceu:good_electronic_circuit')
   ])
 
   runic('summer', 'botania:rune_summer', 10000, [
-    item('botania:rune_earth'),
-    item('botania:rune_air'),
-    tag('minecraft:sand'),
-    tag('minecraft:sand'),
-    item('minecraft:slime_ball'),
-    item('minecraft:melon_slice'),
-    item('gtceu:good_electronic_circuit')
+    cgItem('botania:rune_earth'),
+    cgItem('botania:rune_air'),
+    cgTag('minecraft:sand'),
+    cgTag('minecraft:sand'),
+    cgItem('minecraft:slime_ball'),
+    cgItem('minecraft:melon_slice'),
+    cgItem('gtceu:good_electronic_circuit')
   ])
 
   runic('autumn', 'botania:rune_autumn', 10000, [
-    item('botania:rune_fire'),
-    item('botania:rune_air'),
-    tag('minecraft:leaves'),
-    tag('minecraft:leaves'),
-    tag('minecraft:leaves'),
-    item('minecraft:spider_eye'),
-    item('gtceu:good_electronic_circuit')
+    cgItem('botania:rune_fire'),
+    cgItem('botania:rune_air'),
+    cgTag('minecraft:leaves'),
+    cgTag('minecraft:leaves'),
+    cgTag('minecraft:leaves'),
+    cgItem('minecraft:spider_eye'),
+    cgItem('gtceu:good_electronic_circuit')
   ])
 
   runic('winter', 'botania:rune_winter', 10000, [
-    item('botania:rune_water'),
-    item('botania:rune_earth'),
-    item('minecraft:snow_block'),
-    item('minecraft:snow_block'),
-    tag('minecraft:wool'),
-    item('minecraft:cake'),
-    item('gtceu:good_electronic_circuit')
+    cgItem('botania:rune_water'),
+    cgItem('botania:rune_earth'),
+    cgItem('minecraft:snow_block'),
+    cgItem('minecraft:snow_block'),
+    cgTag('minecraft:wool'),
+    cgItem('minecraft:cake'),
+    cgItem('gtceu:good_electronic_circuit')
   ])
 
   runic('lust', 'botania:rune_lust', 14000, [
-    tag('botania:mana_diamond_gems'),
-    tag('botania:mana_diamond_gems'),
-    item('botania:rune_summer'),
-    item('botania:rune_air'),
-    item('gtceu:advanced_integrated_circuit')
+    cgTag('botania:mana_diamond_gems'),
+    cgTag('botania:mana_diamond_gems'),
+    cgItem('botania:rune_summer'),
+    cgItem('botania:rune_air'),
+    cgItem('gtceu:advanced_integrated_circuit')
   ])
 
   runic('gluttony', 'botania:rune_gluttony', 14000, [
-    tag('botania:mana_diamond_gems'),
-    tag('botania:mana_diamond_gems'),
-    item('botania:rune_winter'),
-    item('botania:rune_fire'),
-    item('gtceu:advanced_integrated_circuit')
+    cgTag('botania:mana_diamond_gems'),
+    cgTag('botania:mana_diamond_gems'),
+    cgItem('botania:rune_winter'),
+    cgItem('botania:rune_fire'),
+    cgItem('gtceu:advanced_integrated_circuit')
   ])
 
   runic('greed', 'botania:rune_greed', 14000, [
-    tag('botania:mana_diamond_gems'),
-    tag('botania:mana_diamond_gems'),
-    item('botania:rune_spring'),
-    item('botania:rune_water'),
-    item('gtceu:advanced_integrated_circuit')
+    cgTag('botania:mana_diamond_gems'),
+    cgTag('botania:mana_diamond_gems'),
+    cgItem('botania:rune_spring'),
+    cgItem('botania:rune_water'),
+    cgItem('gtceu:advanced_integrated_circuit')
   ])
 
   runic('sloth', 'botania:rune_sloth', 14000, [
-    tag('botania:mana_diamond_gems'),
-    tag('botania:mana_diamond_gems'),
-    item('botania:rune_autumn'),
-    item('botania:rune_air'),
-    item('gtceu:advanced_integrated_circuit')
+    cgTag('botania:mana_diamond_gems'),
+    cgTag('botania:mana_diamond_gems'),
+    cgItem('botania:rune_autumn'),
+    cgItem('botania:rune_air'),
+    cgItem('gtceu:advanced_integrated_circuit')
   ])
 
   runic('wrath', 'botania:rune_wrath', 14000, [
-    tag('botania:mana_diamond_gems'),
-    tag('botania:mana_diamond_gems'),
-    item('botania:rune_winter'),
-    item('botania:rune_earth'),
-    item('gtceu:advanced_integrated_circuit')
+    cgTag('botania:mana_diamond_gems'),
+    cgTag('botania:mana_diamond_gems'),
+    cgItem('botania:rune_winter'),
+    cgItem('botania:rune_earth'),
+    cgItem('gtceu:advanced_integrated_circuit')
   ])
 
   runic('envy', 'botania:rune_envy', 14000, [
-    tag('botania:mana_diamond_gems'),
-    tag('botania:mana_diamond_gems'),
-    item('botania:rune_winter'),
-    item('botania:rune_water'),
-    item('gtceu:advanced_integrated_circuit')
+    cgTag('botania:mana_diamond_gems'),
+    cgTag('botania:mana_diamond_gems'),
+    cgItem('botania:rune_winter'),
+    cgItem('botania:rune_water'),
+    cgItem('gtceu:advanced_integrated_circuit')
   ])
 
   runic('pride', 'botania:rune_pride', 14000, [
-    tag('botania:mana_diamond_gems'),
-    tag('botania:mana_diamond_gems'),
-    item('botania:rune_summer'),
-    item('botania:rune_fire'),
-    item('gtceu:advanced_integrated_circuit')
+    cgTag('botania:mana_diamond_gems'),
+    cgTag('botania:mana_diamond_gems'),
+    cgItem('botania:rune_summer'),
+    cgItem('botania:rune_fire'),
+    cgItem('gtceu:advanced_integrated_circuit')
   ])
 
   event.remove({ id: 'botania:petal_apothecary/agricarnation' })
@@ -309,31 +301,31 @@ ServerEvents.recipes(event => {
   event.custom({
     type: 'botania:petal_apothecary',
     ingredients: [
-      tag('botania:petals/lime'),
-      tag('botania:petals/lime'),
-      tag('botania:petals/green'),
-      tag('botania:petals/yellow'),
-      item('botania:rune_spring'),
-      item('botania:redstone_root'),
-      item('gtceu:lv_electric_pump')
+      cgTag('botania:petals/lime'),
+      cgTag('botania:petals/lime'),
+      cgTag('botania:petals/green'),
+      cgTag('botania:petals/yellow'),
+      cgItem('botania:rune_spring'),
+      cgItem('botania:redstone_root'),
+      cgItem('gtceu:lv_electric_pump')
     ],
-    output: item('botania:agricarnation'),
-    reagent: tag('botania:seed_apothecary_reagent')
+    output: cgItem('botania:agricarnation'),
+    reagent: cgTag('botania:seed_apothecary_reagent')
   }).id('crossgrove:botania/petal_apothecary/agricarnation')
 
   event.custom({
     type: 'botania:petal_apothecary',
     ingredients: [
-      tag('botania:petals/gray'),
-      tag('botania:petals/gray'),
-      tag('botania:petals/light_gray'),
-      tag('botania:petals/light_gray'),
-      item('botania:rune_air'),
-      item('botania:redstone_root'),
-      item('gtceu:lv_conveyor_module')
+      cgTag('botania:petals/gray'),
+      cgTag('botania:petals/gray'),
+      cgTag('botania:petals/light_gray'),
+      cgTag('botania:petals/light_gray'),
+      cgItem('botania:rune_air'),
+      cgItem('botania:redstone_root'),
+      cgItem('gtceu:lv_conveyor_module')
     ],
-    output: item('botania:hopperhock'),
-    reagent: tag('botania:seed_apothecary_reagent')
+    output: cgItem('botania:hopperhock'),
+    reagent: cgTag('botania:seed_apothecary_reagent')
   }).id('crossgrove:botania/petal_apothecary/hopperhock')
 
   event.remove({ id: 'botania:terra_plate' })
@@ -356,59 +348,59 @@ ServerEvents.recipes(event => {
   event.custom({
     type: 'botania:terra_plate',
     ingredients: [
-      item('botania:manasteel_ingot'),
-      item('botania:mana_pearl'),
-      item('botania:mana_diamond'),
-      item('gtceu:good_electronic_circuit')
+      cgItem('botania:manasteel_ingot'),
+      cgItem('botania:mana_pearl'),
+      cgItem('botania:mana_diamond'),
+      cgItem('gtceu:good_electronic_circuit')
     ],
     mana: 600000,
-    result: item('botania:terrasteel_ingot')
+    result: cgItem('botania:terrasteel_ingot')
   }).id('crossgrove:botania/terra_plate/terrasteel_ingot')
 
   elvenTrade('elementium', [
-    tag('botania:manasteel_ingots'),
-    tag('botania:manasteel_ingots'),
-    item('gtceu:mv_electric_motor')
-  ], [item('botania:elementium_ingot')])
+    cgTag('botania:manasteel_ingots'),
+    cgTag('botania:manasteel_ingots'),
+    cgItem('gtceu:mv_electric_motor')
+  ], [cgItem('botania:elementium_ingot')])
 
   elvenTrade('elementium_block', [
-    item('botania:manasteel_block'),
-    item('botania:manasteel_block'),
-    item('gtceu:mv_robot_arm')
-  ], [item('botania:elementium_block')])
+    cgItem('botania:manasteel_block'),
+    cgItem('botania:manasteel_block'),
+    cgItem('gtceu:mv_robot_arm')
+  ], [cgItem('botania:elementium_block')])
 
   elvenTrade('dragonstone', [
-    tag('botania:mana_diamond_gems'),
-    item('gtceu:mv_emitter')
-  ], [item('botania:dragonstone')])
+    cgTag('botania:mana_diamond_gems'),
+    cgItem('gtceu:mv_emitter')
+  ], [cgItem('botania:dragonstone')])
 
   elvenTrade('dragonstone_block', [
-    item('botania:mana_diamond_block'),
-    item('gtceu:mv_field_generator')
-  ], [item('botania:dragonstone_block')])
+    cgItem('botania:mana_diamond_block'),
+    cgItem('gtceu:mv_field_generator')
+  ], [cgItem('botania:dragonstone_block')])
 
   elvenTrade('dreamwood', [
-    item('botania:livingwood'),
-    item('gtceu:mv_electric_motor')
-  ], [item('botania:dreamwood')])
+    cgItem('botania:livingwood'),
+    cgItem('gtceu:mv_electric_motor')
+  ], [cgItem('botania:dreamwood')])
 
   elvenTrade('dreamwood_log', [
-    item('botania:livingwood_log'),
-    item('gtceu:mv_electric_motor')
-  ], [item('botania:dreamwood_log')])
+    cgItem('botania:livingwood_log'),
+    cgItem('gtceu:mv_electric_motor')
+  ], [cgItem('botania:dreamwood_log')])
 
   elvenTrade('elf_glass', [
-    item('botania:mana_glass'),
-    item('gtceu:mv_sensor')
-  ], [item('botania:elf_glass')])
+    cgItem('botania:mana_glass'),
+    cgItem('gtceu:mv_sensor')
+  ], [cgItem('botania:elf_glass')])
 
   elvenTrade('elf_quartz', [
-    item('minecraft:quartz'),
-    item('gtceu:mv_sensor')
-  ], [item('botania:quartz_elven')])
+    cgItem('minecraft:quartz'),
+    cgItem('gtceu:mv_sensor')
+  ], [cgItem('botania:quartz_elven')])
 
   elvenTrade('pixie_dust', [
-    item('botania:mana_pearl'),
-    item('gtceu:mv_emitter')
-  ], [item('botania:pixie_dust')])
+    cgItem('botania:mana_pearl'),
+    cgItem('gtceu:mv_emitter')
+  ], [cgItem('botania:pixie_dust')])
 })

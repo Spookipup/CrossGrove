@@ -6,7 +6,7 @@ hash = "9f937d32515d48aa9b22a0547d7fb90f1ea6e26888cf3cc1debcf554794a27c9"
 
 [[files]]
 file = "config/Terra/packs/default.zip"
-hash = "9bd79dd6b04a6a29ee5b885cc5f680c6d192f55df9bd361248ae2f38803ff3a1"
+hash = "04fc6472d7854ad2c60899e5d61f12b155b85341eb4e4c198a2b2ddbf07bdab5"
 
 [[files]]
 file = "config/aether-client.toml"
@@ -102,7 +102,7 @@ hash = "186e94e7d3f74e5d731cd69e30f8a1e0a300c3fbbfcf92dc5ddb9d8b9d96eeeb"
 
 [[files]]
 file = "config/cucumber-tags.json"
-hash = "a4bbf10afdea976b10363abf8b2da3830562d67f63a710da99c869e77d302d53"
+hash = "b8a9f0a8beaf5be33d8fd48df9230d88a14e64197b89be094792988c37ff6e30"
 
 [[files]]
 file = "config/cumulus_menus-client.toml"
@@ -175,6 +175,10 @@ hash = "c8871003b574b4891822efc9fa67f2cae539760208bbcaf942363650f9109fcb"
 [[files]]
 file = "config/essentials-server.toml"
 hash = "5d07541c2d8cb6595f0df6d181d5d7b24b0baea477847f36deef2fb2abe13eaf"
+
+[[files]]
+file = "config/exdeorum-common.toml"
+hash = "5dd9f1a69ba181f78e129c9b5caa8c4e0371b5b95e86b5cdf5a8d9401d177180"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -574,7 +578,7 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "kubejs/client_scripts/crossgrove/jei.js"
-hash = "5338c15c9043d110192897455a8e02a3cd513301bf25def6111e22964b6124e1"
+hash = "2c0e782792304c774fd87e96fd3c23bc8da0e3c50d97b19f7535b1e3665e2511"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1977,60 +1981,104 @@ file = "kubejs/data/minecraft/worldgen/structure_set/villages.json"
 hash = "c454e64a5a24e6c0f8973d49e11230d96b8c14ca98c5a2a3da9fd0634c841eb5"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/botania.js"
-hash = "af4d4d4bed38cba391ea2689a753b5b294abedd0ece22f1fe0873148ce1ba4b8"
+file = "kubejs/data/overgeared/rock_interactions/flint_on_stone.json"
+hash = "9f649b8fbcd7ca74b626bd9498f45003b999accc06a42d060d420c12548c29a8"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/crossroads.js"
+file = "kubejs/server_scripts/crossgrove/ages/stone/metal_form_foundation.js"
+hash = "dd7353660d35abf7659a770c2c07f56e38860cc80f900dca6507b572f9bf22c3"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/ages/stone/primitive_blast_furnace.js"
+hash = "8a152c15d1af297e181d1aecc93a4efe0b6d0614a34bf38e54c186fa50fd0bc8"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/ages/stone/primitive_tool_tiers.js"
+hash = "a6aaa576106d8c76e33a5dff6e60ab8f5c5093f48e5ebae17877b3bbe114d727"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/ages/stone/recipes.js"
+hash = "cef8a832184ff650975113be03b96d38f132b575dca002745fbf74ccd475dc7a"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/ages/survival/recipes.js"
+hash = "3ef01ac368edb6000af1310f9b5ccd2112d70e5a307f1e85e38028467c9b6949"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/lib/crossroads_recipes.js"
+hash = "8b4cd3e78b99bfd602a733e4af3dacf7baa11dca3ef21634abbd7d5c434a5b2d"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/lib/gtceu.js"
+hash = "334e814410520384445cb7985cc7672886793da9dcee3001bb9d83a390742007"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/lib/ingredients.js"
+hash = "d1e852186aa02cd5002b508278ba80a12e7e4f0cf631d629f6099fb25705ffd8"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/lib/materials.js"
+hash = "eab17c87497426d73619a2179f4b9ca40d508ef2747501519f259b111ca4f3f1"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/lib/tag_helpers.js"
+hash = "5c36129999cd12917ba7f384afdb4a30b055861ed0f3e2cde5f1bfee1d13cb3e"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/mods/botania.js"
+hash = "a47de77392d7bcdc6c640e80bd50f0e82cc3eb90db9e87b50304dec7c39d7027"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/mods/crossroads/deferred_gates.js"
+hash = "846e49207039ba0917448dd9046345ed9ab1c949e500c0f4882dcbde2222f2b5"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/mods/crossroads/late_removals.js"
 hash = "aaaca94883335be4b11546fe79b7e7d869edb38f403908895f373fedc9b13962"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/crossroads_deferred_gates.js"
-hash = "22ef2d9347774bef55de972b1ba838b1649f86c85ce7b092de7c25dc451428a7"
+file = "kubejs/server_scripts/crossgrove/mods/crossroads/mechanical_age.js"
+hash = "e9df870ec03ce71d56de75a19cb36298751c60f39d07515e4b7695489ea7e83f"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/early_game_gates.js"
+file = "kubejs/server_scripts/crossgrove/mods/early_game_gates.js"
 hash = "6ecac96f114231e9ac2c5b630883650020989d240c92180ab57393067ce3aa26"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/essentials_gates.js"
+file = "kubejs/server_scripts/crossgrove/mods/essentials.js"
 hash = "1fa8431db089886959c2ffab6d8ec2e80a416cbb947778aec076ac36a9fcfdbb"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/gtceu_recipe_removals.js"
-hash = "f86b67bfe2bffc9d54c992dfcf96980dfe83775c72b1d7bc78ce64a2e7ed7803"
+file = "kubejs/server_scripts/crossgrove/mods/ex_deorum.js"
+hash = "b213997086fa625ae69b6f7d6477085da0f47946a9e3e2f808c967cf2f86d239"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/gtceu_terra_ore_biomes.js"
-hash = "efb8e2e44f48f75eb30dc2df8aa2aaea289dddd2641d3c24d3e3a23aaa9bfe3e"
+file = "kubejs/server_scripts/crossgrove/mods/ex_deorum_helpers.js"
+hash = "31015c9755994db1a8d7abb0017287b382bbc3e4bf485aa3caff4b1ade28600f"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/legendary_survival_overhaul.js"
+file = "kubejs/server_scripts/crossgrove/mods/functional_storage.js"
+hash = "e736340f96ceaf18f952ef31b47ffaee0694674f26c5999e9b15e7623eb631eb"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/mods/gtceu/recipe_removals.js"
+hash = "3ff87c9c81b7f0cb2defdfe7316780839e4c6d1410ccb59d690572e89c01587b"
+
+[[files]]
+file = "kubejs/server_scripts/crossgrove/mods/legendary_survival_overhaul.js"
 hash = "b12728aee2a0d08993111c0a0c23b01b42d77b67cbd9469e5f482a344b1b17b4"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/metal_form_foundation.js"
-hash = "ae1fa11f26da72c9891e78e85e6abe39f1ca124cdbcb2808ad38d0221fc3b0cc"
-
-[[files]]
-file = "kubejs/server_scripts/crossgrove/mystical_agriculture.js"
+file = "kubejs/server_scripts/crossgrove/mods/mystical_agriculture.js"
 hash = "f6b79e75de14b06b4e65457ae4e37a88508779bf4c742c4c96675f5316e9f638"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/overgeared.js"
-hash = "919e91068d56c2f92284f275de2dab55e3923f7498f8e4b8e9995bfff775786a"
+file = "kubejs/server_scripts/crossgrove/mods/overgeared.js"
+hash = "6f4edef4968c18899447d368261d1e6ce28103c9db9619fa540d3887ea75d73b"
 
 [[files]]
-file = "kubejs/server_scripts/crossgrove/stone_age_recipes.js"
-hash = "f00e2ca3c8693d84ea586f60613d8e61d6d1a1d1707eea92dea2bd5091f980f4"
-
-[[files]]
-file = "kubejs/server_scripts/crossgrove/storage_utility_gates.js"
-hash = "941b3a17879a3bd7c76e6843f72a71e53556d5ef61c8c189209fd4975e5dbde2"
-
-[[files]]
-file = "kubejs/server_scripts/crossgrove/survival_age_recipes.js"
-hash = "5629768fbfbb8a9476d0266ea7a08537ec1fa3f0510d4a4e3a52ddaf30c1c140"
+file = "kubejs/server_scripts/crossgrove/worldgen/gtceu_terra_ore_biomes.js"
+hash = "efb8e2e44f48f75eb30dc2df8aa2aaea289dddd2641d3c24d3e3a23aaa9bfe3e"
 
 [[files]]
 file = "mods/aether.pw.toml"
@@ -2118,6 +2166,11 @@ hash = "94dde850c451826c4bc155fd642aa93f289b028d9cbd8cacc4a4d905933d420d"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "d3480a06abd757349cea7d06e9eab8e743073e54dc09d89b411de3803c1d5707"
 metafile = true
@@ -2144,7 +2197,7 @@ metafile = true
 
 [[files]]
 file = "mods/crossgrove_integrations-1.0.0.jar"
-hash = "ccb6066ceea45647e3db386fc4fce46d3fb557c4510adae7bcc5368ae4a77ffc"
+hash = "9e5ee36583e242b90e8770839edf1bbffc9367dc4093fc5fe71c760248570fa1"
 
 [[files]]
 file = "mods/crossroads-mc.pw.toml"
@@ -2214,6 +2267,11 @@ metafile = true
 [[files]]
 file = "mods/essentials.pw.toml"
 hash = "016bffa0f625bee9898b819987ddda2f24fe2d0f373cc6769945451c00dcf547"
+metafile = true
+
+[[files]]
+file = "mods/ex-deorum.pw.toml"
+hash = "efb7a3ea5894464bc49b9cdb61099c302a5703813ee0351342271c60a06d6caf"
 metafile = true
 
 [[files]]
