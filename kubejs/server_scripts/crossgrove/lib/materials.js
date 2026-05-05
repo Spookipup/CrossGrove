@@ -55,11 +55,14 @@ var CG_CROSSROADS_GEAR_METALS = [
   'copper',
   'gold',
   'iron',
+  'steel',
   'tin'
 ]
 
 var CG_TOOL_PART_METALS = [
   'copper',
+  'tin',
+  'lead',
   'bronze',
   'iron',
   'gold',
@@ -108,11 +111,19 @@ function cgMetalFormItem(metal, form) {
   return cgMaterialItem(metal, CG_FORM_ITEM_PATTERNS[form])
 }
 
+function cgBilletItem(metal, form) {
+  return cgMaterialItem(metal, CG_BILLET_ITEM_PATTERNS[form])
+}
+
 function cgMetalFormTag(form, metal) {
   return 'crossgrove:metal_forms/' + form + '/' + metal
 }
 
 function cgMetalFormIngredient(form, metal) {
+  return '#' + cgMetalFormTag(form, metal)
+}
+
+function cgBilletIngredient(form, metal) {
   return '#' + cgMetalFormTag(form, metal)
 }
 

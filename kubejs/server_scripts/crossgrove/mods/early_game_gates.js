@@ -19,6 +19,13 @@ ServerEvents.recipes(event => {
     event.remove({ id: new RegExp('^minecraft:' + metal + '_ingot_from_(smelting|blasting)_.+') })
   })
 
+  ;[
+    'minecraft:smelting',
+    'minecraft:blasting'
+  ].forEach(type => {
+    event.remove({ type: type, output: 'minecraft:iron_ingot' })
+  })
+
   event.remove({ id: /^quark:tweaks\/(smelting|blasting)\/raw_(copper|iron|gold)_(block|bricks)_(smelt|blast)$/ })
   event.remove({ id: /^quark:tweaks\/crafting\/utility\/tools\/stone_.+/ })
 

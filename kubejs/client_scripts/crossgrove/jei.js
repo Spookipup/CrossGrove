@@ -63,6 +63,12 @@ JEIEvents.hideItems(event => {
     'gtceu:implosion_compressor'
   ]
 
+  var visibleGtMachines = [
+    'gtceu:lp_steam_alloy_smelter',
+    'gtceu:lp_steam_compressor',
+    'gtceu:lp_steam_forge_hammer'
+  ]
+
   gtElectricTiers.forEach(tier => {
     gtAbsorbedMachineTypes.forEach(type => {
       hiddenGtMachines.push('gtceu:' + tier + '_' + type)
@@ -285,7 +291,9 @@ JEIEvents.hideItems(event => {
   ]
 
   hiddenGtMachines.forEach(item => {
-    event.hide(item)
+    if (visibleGtMachines.indexOf(item) === -1) {
+      event.hide(item)
+    }
   })
 
   hiddenOvergearedItems.forEach(item => {

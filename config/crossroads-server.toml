@@ -6,7 +6,7 @@
 	#Specify the metal then a space then a hexadecimal color then a space then a density in kg/m3
 	#Adding a new gear material requires adding localization and recipes via datapack
 	#Removing a default gear material is not recommended
-	gear_types = ["copper FF783C 9000", "tin FFFFFF 7300", "iron C0C0C0 8000", "gold FFFF00 20000", "bronze FFA03C 8800", "copshowium FF8200 0"]
+	gear_types = ["copper FF783C 9000", "tin FFFFFF 7300", "iron C0C0C0 8000", "steel AFB7C4 7850", "gold FFFF00 20000", "bronze FFA03C 8800", "copshowium FF8200 0"]
 	#Generate Tin Ore?
 	tin = false
 	#Generate Ruby Ore?

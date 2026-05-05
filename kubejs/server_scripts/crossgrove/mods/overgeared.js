@@ -159,6 +159,10 @@ ServerEvents.recipes(event => {
   }).id('crossgrove:overgeared/stone_anvil')
 
   forging('copper_plate_from_hot_ingot', 'gtceu:hot_copper_ingot', 'gtceu:copper_plate', ['#'], 3, 'stone')
+  forging('bronze_plate_from_hot_ingot', 'gtceu:hot_bronze_ingot', 'gtceu:bronze_plate', ['#'], 4, 'stone')
+  forging('bronze_rod_from_hot_ingot', 'gtceu:hot_bronze_ingot', 'gtceu:bronze_rod', ['#'], 5, 'stone', {
+    count: 2
+  })
   forging('iron_plate_from_hot_ingot', 'gtceu:hot_iron_ingot', 'gtceu:iron_plate', ['#'], 3, 'stone')
   forging('iron_rod_from_hot_ingot', 'gtceu:hot_iron_ingot', 'gtceu:iron_rod', ['#'], 4, 'stone', {
     count: 2
@@ -170,6 +174,9 @@ ServerEvents.recipes(event => {
   ], 2, 'stone')
   forging('steel_plate_from_hot_ingot', 'gtceu:hot_steel_ingot', 'gtceu:steel_plate', ['#'], 4, 'stone')
   forging('steel_rod_from_hot_ingot', 'gtceu:hot_steel_ingot', 'gtceu:steel_rod', ['#'], 5, 'stone', {
+    count: 2
+  })
+  forging('cupronickel_rod_from_hot_ingot', 'gtceu:hot_cupronickel_ingot', 'gtceu:cupronickel_rod', ['#'], 5, 'stone', {
     count: 2
   })
   forging('hot_iron_bloom_to_hot_iron_ingot', 'crossgrove_integrations:hot_iron_bloom', 'gtceu:hot_iron_ingot', ['#'], 4, 'stone', {
@@ -187,10 +194,14 @@ ServerEvents.recipes(event => {
   reheatBloom('blasting', 'hot_iron_bloom_from_blasting_iron_bloom', 200)
   reheatIngot('copper', 'smelting', 'hot_copper_ingot_from_reheated_copper_ingot', 200)
   reheatIngot('copper', 'blasting', 'hot_copper_ingot_from_blasting_copper_ingot', 100)
+  reheatIngot('bronze', 'smelting', 'hot_bronze_ingot_from_reheated_bronze_ingot', 400)
+  reheatIngot('bronze', 'blasting', 'hot_bronze_ingot_from_blasting_bronze_ingot', 200)
   reheatIngot('iron', 'smelting', 'hot_iron_ingot_from_reheated_iron_ingot', 200)
   reheatIngot('iron', 'blasting', 'hot_iron_ingot_from_blasting_iron_ingot', 100)
   reheatIngot('steel', 'smelting', 'hot_steel_ingot_from_reheated_steel_ingot', 600)
   reheatIngot('steel', 'blasting', 'hot_steel_ingot_from_blasting_steel_ingot', 300)
+  reheatIngot('cupronickel', 'smelting', 'hot_cupronickel_ingot_from_reheated_cupronickel_ingot', 400)
+  reheatIngot('cupronickel', 'blasting', 'hot_cupronickel_ingot_from_blasting_cupronickel_ingot', 200)
 
   itemToTooltype('axe', 'axe', ['overgeared:stone_axe_head'].concat(cgGtParts('tool_head_axe')))
   itemToTooltype('pickaxe', 'pickaxe', ['overgeared:stone_pickaxe_head'].concat(cgGtParts('tool_head_pickaxe')))

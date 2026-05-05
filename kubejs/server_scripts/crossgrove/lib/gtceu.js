@@ -237,6 +237,17 @@ function cgGtOutputItems(recipe, outputs) {
   return recipe.itemOutputs(cgArray(outputs).map(output => Item.of(output)))
 }
 
+function cgGtMachineRecipe(event, type, id, inputs, outputs, duration, eut) {
+  var recipe = event.recipes.gtceu[type](id)
+  cgGtInputItems(recipe, inputs)
+  cgGtOutputItems(recipe, outputs)
+  recipe.duration(duration)
+  if (eut !== undefined && eut !== null) {
+    recipe.EUt(eut)
+  }
+  return recipe
+}
+
 function cgGtPrimitiveBlastFurnace(event, id, inputs, outputs, duration) {
   var recipe = event.recipes.gtceu.primitive_blast_furnace(id)
   cgGtInputItems(recipe, inputs)

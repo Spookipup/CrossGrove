@@ -4,6 +4,10 @@ ServerEvents.recipes(event => {
   var bronzeAxle = cgCrossroadsMaterialItem('crossroads:axle', 'bronze')
   var bronzeGear = cgCrossroadsMaterialItem('crossroads:gear_base', 'bronze')
   var bronzeAxleMount = cgCrossroadsMaterialItem('crossroads:axle_mount', 'bronze')
+  var ironAxle = cgCrossroadsMaterialItem('crossroads:axle', 'iron')
+  var ironGear = cgCrossroadsMaterialItem('crossroads:gear_base', 'iron')
+  var steelAxle = cgCrossroadsMaterialItem('crossroads:axle', 'steel')
+  var steelGear = cgCrossroadsMaterialItem('crossroads:gear_base', 'steel')
 
   ;[
     'crossroads:hand_crank',
@@ -177,8 +181,8 @@ ServerEvents.recipes(event => {
     'AKA',
     'PPP'
   ], {
-    A: bronzeAxle,
-    G: bronzeGear,
+    A: ironAxle,
+    G: ironGear,
     K: 'crossroads:hand_crank',
     P: '#forge:plates/iron',
     S: '#forge:rods/steel'
@@ -200,7 +204,7 @@ ServerEvents.recipes(event => {
     'GPG',
     'SRS'
   ], {
-    G: bronzeGear,
+    G: steelGear,
     P: 'crossroads:rotary_pump',
     R: '#forge:rods/steel',
     S: '#forge:plates/steel'
@@ -208,22 +212,24 @@ ServerEvents.recipes(event => {
 
   event.shaped('crossroads:stamp_mill', [
     'PAP',
-    'PSP',
+    'HSH',
     'BIB'
   ], {
-    A: bronzeAxle,
+    A: steelAxle,
     B: 'minecraft:stone',
+    H: 'gtceu:tool_head_hammer_steel',
     I: '#forge:storage_blocks/iron',
     P: '#forge:plates/iron',
     S: '#forge:plates/steel'
   }).id('crossgrove:crossroads/steel_mechanical/stamp_mill')
 
   event.shaped('2x crossroads:rotary_drill', [
-    ' S ',
+    ' K ',
     'SRS',
     ' G '
   ], {
-    G: bronzeGear,
+    G: steelGear,
+    K: 'gtceu:tool_head_pickaxe_steel',
     R: '#forge:rods/steel',
     S: '#forge:plates/steel'
   }).id('crossgrove:crossroads/steel_mechanical/rotary_drill')
